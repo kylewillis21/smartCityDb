@@ -1,4 +1,3 @@
-ID,ScheduleDate,CompletedDate,UtilityID,TrafficLightID,TechnicianId
 1,1/15/2022,error: Field 'ScheduledDate' not found,212,,2
 2,10/19/2023,error: Field 'ScheduledDate' not found,,70,46
 3,12/30/2021,error: Field 'ScheduledDate' not found,765,,42

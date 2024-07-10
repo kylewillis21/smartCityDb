@@ -1,4 +1,3 @@
-ID,Type,ReportedTime,ResolvedTime,Status,LocationID
 1,Sewer,2005-06-22 18:58:48,2005-06-23 01:12:47,Completed,201
 2,Electricity,2001-06-22 19:01:15,2001-06-22 21:24:52,Completed,539
 3,Traffic Light,2004-06-11 08:02:25,2004-06-11 17:20:59,Completed,756

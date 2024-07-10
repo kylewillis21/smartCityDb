@@ -1,1001 +1,1000 @@
-ID,Type,Description,DateReported,Status,CitizenID
-1,Road Construction,visualize seamless portals,1998-01-21 13:36:23,In Progress,831
-2,Electricity,enable visionary supply-chains,1998-05-15 09:08:44,Completed,933
-3,Electricity,reintermediate vertical users,2002-08-27 15:11:18,Not Started,775
-4,Traffic Light,morph out-of-the-box ROI,2008-10-20 19:39:07,Completed,591
-5,Sewer,drive intuitive initiatives,1998-07-12 20:59:24,Completed,185
-6,Road Construction,generate rich schemas,2019-02-20 06:56:47,Completed,934
-7,Pipeline,leverage collaborative web-readiness,2021-06-18 05:54:52,In Progress,393
-8,Road Construction,disintermediate virtual channels,2015-04-19 15:12:18,In Progress,812
-9,Traffic Light,integrate seamless interfaces,2008-02-03 13:16:16,Not Started,96
-10,Powerline,transition intuitive action-items,2009-07-16 18:40:11,Completed,302
-11,Road Construction,embrace robust bandwidth,2006-07-08 09:54:34,Not Started,542
-12,Electricity,engineer best-of-breed architectures,2005-11-25 18:39:35,Not Started,187
-13,Powerline,facilitate global e-commerce,2017-05-25 09:06:59,Not Started,12
-14,Road Construction,monetize strategic relationships,2013-10-26 03:52:43,In Progress,522
-15,Powerline,transform wireless experiences,2012-09-21 00:16:30,In Progress,813
-16,Pipeline,brand bricks-and-clicks initiatives,2021-11-04 17:05:14,Not Started,514
-17,Road Construction,synthesize user-centric schemas,2009-07-02 01:48:25,Completed,796
-18,Sewer,reinvent clicks-and-mortar markets,2011-01-20 09:58:20,Completed,21
-19,Sewer,maximize leading-edge methodologies,2010-10-13 23:55:57,In Progress,573
-20,Road Construction,orchestrate enterprise relationships,2008-07-13 04:31:45,Completed,959
-21,Powerline,drive best-of-breed e-tailers,2012-04-14 09:14:36,Completed,66
-22,Road Construction,innovate granular infrastructures,2023-01-11 21:09:16,Not Started,68
-23,Pipeline,extend plug-and-play channels,1999-12-23 22:23:02,In Progress,455
-24,Traffic Light,architect clicks-and-mortar experiences,2021-06-20 12:06:05,Not Started,53
-25,Traffic Light,innovate B2C supply-chains,2024-07-03 18:06:54,Completed,969
-26,Sewer,deliver sexy initiatives,2002-08-28 15:35:00,Not Started,556
-27,Road Construction,orchestrate bleeding-edge ROI,2002-12-07 11:12:50,In Progress,380
-28,Traffic Light,brand turn-key e-services,2003-12-22 14:05:02,Not Started,34
-29,Electricity,synergize next-generation communities,2015-11-22 12:05:41,Completed,584
-30,Traffic Light,target impactful models,2006-06-19 09:08:49,In Progress,374
-31,Powerline,deploy rich bandwidth,2012-11-13 21:23:59,Not Started,755
-32,Sewer,empower B2C metrics,2015-04-26 20:15:13,In Progress,645
-33,Electricity,iterate granular partnerships,2004-06-20 19:52:20,Not Started,402
-34,Powerline,synergize granular infomediaries,2000-12-13 12:19:09,Completed,324
-35,Electricity,innovate robust relationships,2001-02-03 22:31:33,Not Started,278
-36,Powerline,target dot-com functionalities,1999-04-01 03:57:34,Not Started,652
-37,Pipeline,expedite world-class synergies,2010-08-03 07:40:22,Not Started,860
-38,Powerline,reinvent plug-and-play partnerships,2012-06-06 12:47:42,Not Started,943
-39,Road Construction,exploit sexy synergies,2023-10-31 05:05:45,Completed,67
-40,Sewer,exploit wireless methodologies,2019-09-15 07:12:09,Completed,142
-41,Pipeline,cultivate 24/365 channels,2004-12-08 04:01:35,In Progress,638
-42,Pipeline,maximize integrated experiences,2003-01-27 06:08:15,In Progress,145
-43,Traffic Light,orchestrate holistic architectures,2024-05-28 07:46:35,Completed,696
-44,Sewer,orchestrate bleeding-edge users,2007-10-27 18:37:34,In Progress,423
-45,Powerline,engineer sticky infrastructures,1999-01-25 13:55:47,Completed,849
-46,Traffic Light,scale next-generation mindshare,2007-09-27 00:28:34,Not Started,822
-47,Traffic Light,incentivize distributed portals,1998-11-29 11:15:14,Completed,136
-48,Pipeline,grow out-of-the-box metrics,2020-03-20 05:34:34,Completed,891
-49,Sewer,matrix rich web services,2018-08-16 11:52:06,Not Started,441
-50,Powerline,benchmark web-enabled web services,2023-01-16 02:38:12,Completed,801
-51,Road Construction,e-enable bricks-and-clicks applications,1998-12-25 09:59:01,In Progress,833
-52,Powerline,aggregate plug-and-play web-readiness,2015-12-21 07:31:04,In Progress,141
-53,Sewer,empower granular supply-chains,2005-03-20 04:15:50,In Progress,383
-54,Powerline,enable impactful markets,2000-11-12 20:49:35,Completed,295
-55,Powerline,generate killer e-tailers,2013-01-12 14:03:20,In Progress,320
-56,Traffic Light,expedite web-enabled infrastructures,2014-12-24 07:45:22,In Progress,161
-57,Road Construction,generate bricks-and-clicks ROI,2021-07-17 04:14:56,Not Started,277
-58,Sewer,grow proactive systems,2009-10-05 10:44:47,Not Started,709
-59,Pipeline,disintermediate web-enabled experiences,2015-02-14 12:42:53,Completed,325
-60,Pipeline,reintermediate enterprise mindshare,2004-05-19 22:59:12,In Progress,611
-61,Electricity,transform strategic vortals,1998-09-20 14:29:53,Completed,411
-62,Powerline,extend mission-critical content,2006-12-20 05:39:55,In Progress,489
-63,Electricity,scale ubiquitous partnerships,2004-11-18 13:26:50,Not Started,613
-64,Sewer,reinvent transparent portals,2022-11-27 06:34:02,Not Started,714
-65,Pipeline,synthesize cross-platform platforms,2023-01-12 14:32:31,Not Started,639
-66,Pipeline,empower best-of-breed communities,2020-09-07 05:58:28,Completed,117
-67,Powerline,envisioneer enterprise eyeballs,2014-11-04 23:15:45,Not Started,736
-68,Traffic Light,visualize customized bandwidth,2008-03-08 22:23:35,Not Started,49
-69,Sewer,target open-source e-markets,2016-09-05 18:11:19,Completed,216
-70,Pipeline,morph seamless infomediaries,2021-08-02 08:54:07,In Progress,224
-71,Road Construction,enable impactful niches,2021-09-30 15:42:50,In Progress,224
-72,Pipeline,generate real-time supply-chains,2003-01-29 17:27:32,Completed,941
-73,Sewer,repurpose revolutionary functionalities,2023-01-04 04:27:26,Completed,659
-74,Pipeline,benchmark bleeding-edge schemas,2024-04-23 04:13:06,Completed,7
-75,Pipeline,monetize enterprise functionalities,2009-06-19 02:35:16,In Progress,5
-76,Powerline,optimize cutting-edge networks,1999-12-21 09:36:36,Completed,322
-77,Pipeline,disintermediate holistic experiences,2006-03-11 07:46:04,Not Started,183
-78,Sewer,exploit user-centric relationships,2001-10-15 11:39:46,In Progress,328
-79,Powerline,redefine 24/365 e-services,2002-03-13 18:47:46,Not Started,922
-80,Road Construction,harness plug-and-play synergies,2014-01-28 11:34:12,Not Started,840
-81,Sewer,mesh robust e-business,2018-03-20 14:13:46,Completed,305
-82,Powerline,orchestrate cross-platform networks,2009-04-20 04:02:45,Not Started,452
-83,Road Construction,visualize distributed action-items,2015-09-30 18:07:50,Not Started,649
-84,Powerline,maximize killer paradigms,1999-03-19 22:22:28,Not Started,448
-85,Sewer,aggregate collaborative systems,2008-04-10 17:14:38,Completed,672
-86,Traffic Light,enhance interactive infomediaries,2013-01-13 09:30:58,Not Started,378
-87,Traffic Light,utilize vertical e-services,2024-06-26 21:57:00,Completed,456
-88,Road Construction,transform magnetic e-tailers,1998-06-06 16:37:02,Not Started,342
-89,Electricity,brand dynamic technologies,2013-05-21 08:00:59,Not Started,48
-90,Powerline,monetize out-of-the-box mindshare,2015-07-25 04:45:04,Not Started,901
-91,Sewer,maximize intuitive applications,2005-06-14 05:46:03,Not Started,724
-92,Road Construction,utilize strategic architectures,2006-03-24 08:31:29,Not Started,525
-93,Electricity,streamline robust communities,2011-10-16 01:03:51,In Progress,228
-94,Sewer,transition leading-edge schemas,2012-08-26 07:26:14,Not Started,87
-95,Pipeline,seize strategic networks,2005-03-29 21:39:59,Not Started,747
-96,Sewer,empower interactive niches,2006-07-25 06:27:26,Not Started,638
-97,Road Construction,envisioneer back-end partnerships,2019-07-10 00:01:52,Completed,617
-98,Sewer,harness wireless e-services,1998-04-17 17:25:40,Not Started,48
-99,Sewer,reinvent front-end applications,1999-03-07 18:42:48,Not Started,426
-100,Powerline,exploit impactful content,2009-02-28 03:01:13,Completed,781
-101,Pipeline,benchmark best-of-breed interfaces,2003-04-21 01:39:02,In Progress,895
-102,Electricity,facilitate sticky content,2020-08-19 06:34:29,Completed,164
-103,Road Construction,visualize robust relationships,2021-01-01 14:56:27,Completed,837
-104,Road Construction,expedite virtual metrics,2020-07-05 16:11:26,Completed,579
-105,Road Construction,cultivate transparent markets,2023-07-08 19:33:34,Completed,60
-106,Powerline,drive killer e-tailers,2004-09-29 20:13:24,Completed,286
-107,Pipeline,implement value-added experiences,2011-05-17 14:33:43,Completed,346
-108,Sewer,strategize front-end channels,2007-05-24 03:14:27,Not Started,356
-109,Electricity,streamline distributed e-services,2011-07-04 06:52:52,Not Started,772
-110,Road Construction,iterate world-class content,1998-09-06 02:15:24,Not Started,108
-111,Road Construction,benchmark integrated partnerships,2024-04-11 05:37:07,Not Started,156
-112,Electricity,empower next-generation functionalities,2011-10-10 03:38:49,In Progress,938
-113,Electricity,expedite end-to-end schemas,2018-06-04 06:48:39,Completed,535
-114,Powerline,matrix robust bandwidth,2000-05-29 13:13:14,In Progress,176
-115,Powerline,incentivize mission-critical schemas,2020-06-13 22:46:01,Not Started,771
-116,Pipeline,redefine next-generation supply-chains,2018-04-01 05:08:00,In Progress,903
-117,Pipeline,matrix end-to-end channels,2006-06-01 22:51:37,In Progress,854
-118,Road Construction,revolutionize scalable solutions,2015-11-25 00:39:27,Not Started,120
-119,Electricity,embrace front-end portals,2009-04-29 04:18:02,Completed,971
-120,Sewer,brand back-end niches,2005-10-25 06:37:27,Not Started,684
-121,Traffic Light,seize robust niches,2006-04-17 20:51:48,In Progress,126
-122,Electricity,utilize best-of-breed ROI,2021-11-07 01:24:18,In Progress,63
-123,Sewer,redefine leading-edge portals,2016-04-30 08:16:49,Completed,99
-124,Road Construction,incentivize killer portals,2011-05-31 11:28:09,Not Started,255
-125,Road Construction,synthesize best-of-breed networks,2003-08-09 16:19:30,Completed,631
-126,Electricity,whiteboard viral experiences,2022-01-13 00:41:32,Completed,521
-127,Pipeline,optimize front-end e-markets,2013-12-09 12:44:14,Completed,461
-128,Road Construction,maximize front-end methodologies,2022-07-28 15:37:00,In Progress,294
-129,Sewer,implement magnetic web services,2019-01-10 06:05:18,Completed,844
-130,Traffic Light,generate 24/365 metrics,2018-08-17 14:54:35,Completed,784
-131,Pipeline,unleash strategic deliverables,2019-02-02 12:02:22,Not Started,165
-132,Traffic Light,engage bricks-and-clicks e-services,2023-07-23 13:06:43,In Progress,883
-133,Electricity,synthesize intuitive e-markets,2024-06-26 16:32:29,In Progress,999
-134,Pipeline,empower wireless deliverables,2001-01-27 12:47:38,Completed,84
-135,Traffic Light,scale web-enabled bandwidth,2022-02-25 10:44:37,Completed,790
-136,Traffic Light,innovate clicks-and-mortar channels,2021-07-27 18:55:55,Completed,421
-137,Sewer,brand cross-media markets,2017-11-16 22:23:25,Completed,255
-138,Powerline,harness enterprise paradigms,2008-09-30 17:46:54,In Progress,189
-139,Road Construction,architect front-end vortals,2011-08-09 01:48:08,Not Started,149
-140,Pipeline,reinvent user-centric markets,2005-09-17 04:24:08,Not Started,351
-141,Traffic Light,strategize open-source schemas,2023-09-27 08:00:00,In Progress,321
-142,Pipeline,disintermediate bleeding-edge niches,2015-11-25 10:05:19,Not Started,311
-143,Sewer,extend strategic solutions,2011-07-11 02:54:56,Completed,184
-144,Electricity,synthesize magnetic infomediaries,1999-08-20 14:24:09,In Progress,353
-145,Road Construction,benchmark plug-and-play models,2001-04-27 10:30:47,Completed,586
-146,Electricity,incubate wireless metrics,1998-03-05 07:00:48,Not Started,932
-147,Electricity,evolve bleeding-edge e-tailers,2001-08-19 22:02:30,In Progress,973
-148,Traffic Light,reinvent 24/7 niches,2022-07-04 01:02:37,In Progress,431
-149,Pipeline,visualize out-of-the-box platforms,2016-10-23 13:03:31,In Progress,509
-150,Powerline,orchestrate cross-media systems,2002-02-05 15:06:06,In Progress,139
-151,Electricity,streamline back-end mindshare,2021-08-28 00:54:51,Not Started,21
-152,Road Construction,synergize proactive experiences,2023-01-16 07:36:03,In Progress,143
-153,Electricity,streamline customized deliverables,2019-05-23 02:48:53,Completed,63
-154,Sewer,orchestrate sticky infrastructures,2010-08-16 01:06:06,In Progress,7
-155,Pipeline,seize scalable relationships,2018-01-30 19:09:32,In Progress,664
-156,Powerline,morph transparent eyeballs,2022-03-31 15:19:58,Not Started,151
-157,Electricity,repurpose next-generation solutions,2015-09-19 17:48:50,Completed,673
-158,Pipeline,deploy visionary vortals,2012-04-01 16:16:28,Not Started,635
-159,Sewer,brand synergistic e-business,2004-02-20 05:49:55,In Progress,297
-160,Powerline,incentivize impactful communities,2005-10-28 16:06:45,In Progress,905
-161,Traffic Light,architect sexy communities,2002-02-27 11:40:17,Completed,304
-162,Powerline,synergize dynamic e-tailers,2022-09-23 17:07:26,Not Started,244
-163,Traffic Light,engineer user-centric solutions,2005-09-26 17:55:08,Not Started,614
-164,Powerline,transform frictionless interfaces,2011-03-04 11:24:12,Completed,6
-165,Traffic Light,utilize collaborative ROI,2005-05-16 21:29:37,Not Started,739
-166,Road Construction,visualize collaborative action-items,2000-12-19 01:53:20,In Progress,411
-167,Sewer,orchestrate plug-and-play metrics,2022-03-08 06:29:13,Completed,607
-168,Road Construction,engineer ubiquitous infrastructures,2019-12-24 20:08:17,In Progress,181
-169,Pipeline,transform extensible applications,2008-11-30 06:06:53,Not Started,759
-170,Road Construction,synthesize 24/365 experiences,2000-08-03 11:02:19,In Progress,681
-171,Sewer,leverage magnetic partnerships,2007-10-28 11:49:29,Not Started,885
-172,Road Construction,scale compelling solutions,2017-07-04 13:57:22,In Progress,360
-173,Pipeline,envisioneer proactive schemas,2021-11-09 14:36:43,Completed,231
-174,Traffic Light,utilize interactive niches,2022-09-28 15:49:31,Not Started,215
-175,Road Construction,reinvent holistic platforms,2009-11-08 00:31:51,In Progress,411
-176,Road Construction,deliver front-end users,2006-06-21 05:03:03,Completed,805
-177,Road Construction,incentivize viral platforms,2022-01-15 17:49:03,Not Started,852
-178,Pipeline,visualize real-time interfaces,2008-09-23 07:33:56,Completed,912
-179,Powerline,unleash holistic platforms,2008-07-16 07:29:51,Not Started,487
-180,Electricity,visualize dot-com functionalities,2017-12-14 20:40:44,In Progress,657
-181,Electricity,productize turn-key portals,2023-12-02 03:38:21,Not Started,26
-182,Traffic Light,generate collaborative vortals,2018-05-31 09:55:40,Not Started,886
-183,Road Construction,envisioneer real-time communities,1998-02-24 16:31:24,Completed,28
-184,Sewer,benchmark plug-and-play e-services,2007-12-24 08:31:57,Not Started,32
-185,Pipeline,transition mission-critical users,2012-06-14 01:03:09,In Progress,305
-186,Pipeline,transform seamless infrastructures,2011-07-27 17:53:20,Completed,267
-187,Electricity,synergize next-generation platforms,2017-06-28 11:56:13,Completed,215
-188,Electricity,deliver dot-com convergence,2015-01-24 23:12:02,Completed,122
-189,Electricity,integrate frictionless bandwidth,2024-04-15 07:16:34,In Progress,583
-190,Pipeline,revolutionize next-generation web-readiness,2021-01-30 20:13:39,Completed,371
-191,Electricity,synthesize bricks-and-clicks initiatives,2010-12-06 22:56:37,Completed,163
-192,Pipeline,strategize back-end deliverables,2013-03-24 11:16:54,In Progress,220
-193,Electricity,benchmark back-end relationships,2023-04-10 18:06:43,In Progress,734
-194,Powerline,engage real-time methodologies,2018-08-12 17:42:12,In Progress,770
-195,Road Construction,reintermediate synergistic platforms,2004-01-12 06:36:06,Not Started,717
-196,Electricity,deliver viral convergence,2022-02-09 19:19:34,Completed,366
-197,Road Construction,architect killer paradigms,2006-01-02 22:54:42,Not Started,533
-198,Road Construction,repurpose viral markets,2013-02-28 13:29:34,Not Started,640
-199,Road Construction,harness impactful methodologies,2020-02-16 18:41:38,In Progress,545
-200,Pipeline,utilize e-business vortals,2020-01-13 01:27:26,Not Started,586
-201,Pipeline,revolutionize visionary technologies,2021-08-22 22:24:09,Not Started,92
-202,Sewer,deploy efficient networks,2003-01-03 01:53:26,Not Started,252
-203,Powerline,engineer dynamic models,1997-08-06 09:27:31,Not Started,452
-204,Sewer,expedite enterprise e-tailers,1999-08-29 23:08:45,In Progress,813
-205,Sewer,benchmark killer interfaces,2005-09-12 16:56:51,Not Started,549
-206,Traffic Light,productize e-business communities,2024-06-11 00:25:30,Completed,627
-207,Electricity,whiteboard scalable technologies,2011-07-19 04:51:43,Not Started,987
-208,Electricity,empower world-class eyeballs,2002-02-08 05:13:41,Not Started,856
-209,Powerline,drive next-generation portals,2022-03-22 11:33:06,Not Started,809
-210,Pipeline,mesh magnetic web services,2023-03-06 18:51:52,Not Started,10
-211,Sewer,facilitate B2C e-commerce,2022-02-05 23:17:09,Completed,428
-212,Traffic Light,exploit enterprise functionalities,2018-08-26 03:43:38,Not Started,675
-213,Road Construction,enhance 24/7 convergence,2007-10-14 16:20:49,Completed,881
-214,Electricity,utilize sexy schemas,2009-03-26 12:32:34,Completed,418
-215,Traffic Light,generate revolutionary vortals,2022-07-21 23:41:58,Not Started,254
-216,Powerline,empower best-of-breed content,2010-08-20 10:19:48,Not Started,281
-217,Road Construction,embrace efficient infomediaries,2000-05-09 15:36:53,Completed,866
-218,Traffic Light,innovate distributed channels,2014-02-02 04:51:57,Not Started,82
-219,Electricity,drive strategic e-commerce,2002-05-13 17:19:24,Completed,27
-220,Traffic Light,transition leading-edge schemas,2018-07-26 17:03:11,Completed,122
-221,Pipeline,optimize best-of-breed e-tailers,2004-02-29 10:23:19,Not Started,589
-222,Traffic Light,repurpose leading-edge functionalities,2016-03-29 04:16:46,In Progress,307
-223,Road Construction,disintermediate open-source eyeballs,2002-11-05 16:41:19,Not Started,891
-224,Electricity,strategize bleeding-edge synergies,2005-03-10 03:50:30,Completed,360
-225,Traffic Light,scale extensible supply-chains,2022-07-03 19:22:24,Not Started,578
-226,Powerline,maximize best-of-breed bandwidth,2021-11-27 18:41:52,Completed,746
-227,Powerline,redefine magnetic technologies,2020-12-04 16:56:18,Not Started,783
-228,Sewer,iterate B2C e-services,2015-07-07 05:40:26,In Progress,794
-229,Electricity,orchestrate proactive metrics,2012-02-19 00:30:17,Not Started,641
-230,Traffic Light,deliver viral infrastructures,2020-03-02 17:17:59,Not Started,328
-231,Road Construction,expedite turn-key applications,2023-05-08 08:45:13,Completed,167
-232,Electricity,redefine synergistic deliverables,2010-05-02 14:54:24,In Progress,222
-233,Powerline,empower value-added systems,2019-02-09 04:26:08,Not Started,936
-234,Electricity,generate wireless schemas,2020-07-29 20:17:45,In Progress,306
-235,Powerline,cultivate turn-key functionalities,2000-10-14 00:19:01,In Progress,568
-236,Traffic Light,visualize cutting-edge users,2003-09-03 11:43:47,In Progress,350
-237,Powerline,recontextualize user-centric partnerships,2020-10-03 18:19:05,Not Started,180
-238,Electricity,enhance visionary deliverables,2010-06-27 12:27:31,In Progress,687
-239,Road Construction,reintermediate innovative web-readiness,2006-04-28 16:13:10,In Progress,493
-240,Road Construction,seize real-time interfaces,2010-01-27 03:30:03,Completed,212
-241,Sewer,evolve granular experiences,2018-09-09 11:00:10,Not Started,65
-242,Powerline,reintermediate B2C schemas,2013-10-15 12:42:11,Completed,250
-243,Road Construction,enhance holistic e-markets,2020-09-17 13:13:02,Completed,293
-244,Pipeline,scale back-end e-services,2011-06-05 07:27:23,Completed,395
-245,Sewer,target ubiquitous eyeballs,1998-11-08 16:26:48,Not Started,456
-246,Powerline,incubate cross-platform experiences,2010-01-15 19:20:22,In Progress,648
-247,Traffic Light,deliver revolutionary platforms,2006-11-07 21:04:07,In Progress,268
-248,Powerline,visualize granular methodologies,2024-06-27 04:00:54,Completed,240
-249,Road Construction,leverage compelling communities,2020-07-04 20:26:55,Completed,243
-250,Electricity,aggregate rich methodologies,2020-09-29 20:41:58,In Progress,809
-251,Powerline,implement killer synergies,2013-01-26 04:55:50,In Progress,958
-252,Electricity,innovate transparent action-items,2001-01-09 19:00:15,Not Started,479
-253,Road Construction,recontextualize interactive models,2016-02-06 10:32:44,Not Started,192
-254,Sewer,transition extensible e-commerce,2006-08-04 11:52:47,Not Started,360
-255,Powerline,brand value-added e-markets,1999-09-30 13:23:22,Not Started,730
-256,Traffic Light,cultivate web-enabled vortals,2015-02-19 16:28:20,Completed,861
-257,Pipeline,expedite front-end mindshare,2014-12-18 18:04:54,In Progress,224
-258,Road Construction,integrate turn-key niches,2013-01-07 21:05:11,In Progress,848
-259,Road Construction,target collaborative bandwidth,2018-10-17 14:15:09,Completed,959
-260,Road Construction,engage bricks-and-clicks metrics,2007-07-02 05:21:03,Not Started,364
-261,Road Construction,incentivize impactful metrics,1999-09-17 10:10:11,In Progress,8
-262,Sewer,brand distributed eyeballs,2014-01-14 18:22:57,In Progress,765
-263,Pipeline,revolutionize plug-and-play channels,2001-03-05 21:13:45,In Progress,815
-264,Powerline,repurpose bricks-and-clicks channels,2021-04-25 08:55:57,In Progress,407
-265,Pipeline,scale value-added e-tailers,2022-03-25 06:36:04,Not Started,359
-266,Pipeline,unleash B2C networks,1998-09-13 08:49:54,Not Started,234
-267,Pipeline,strategize leading-edge content,2004-04-23 14:30:28,Completed,159
-268,Road Construction,recontextualize sexy platforms,2001-09-24 04:15:16,In Progress,813
-269,Sewer,recontextualize innovative applications,2002-04-07 23:06:06,Completed,336
-270,Road Construction,generate real-time markets,1999-09-01 21:04:34,Not Started,400
-271,Traffic Light,embrace user-centric functionalities,2003-03-08 20:36:45,Not Started,106
-272,Pipeline,generate front-end convergence,2003-02-13 16:32:43,Not Started,522
-273,Road Construction,repurpose granular deliverables,2024-06-15 23:46:36,Not Started,784
-274,Pipeline,repurpose frictionless technologies,2001-01-20 18:56:34,In Progress,562
-275,Sewer,innovate integrated e-commerce,2015-05-21 00:20:12,Completed,752
-276,Sewer,brand ubiquitous initiatives,2014-03-31 12:03:15,Completed,396
-277,Sewer,brand out-of-the-box networks,1999-05-28 09:19:26,In Progress,467
-278,Traffic Light,exploit magnetic portals,2015-07-07 04:26:39,In Progress,483
-279,Pipeline,matrix world-class models,2019-09-28 03:30:33,In Progress,377
-280,Electricity,whiteboard cross-platform e-tailers,1998-12-22 18:00:03,Not Started,724
-281,Electricity,incubate front-end e-commerce,1998-07-23 21:54:03,Completed,564
-282,Traffic Light,productize best-of-breed e-commerce,2000-08-06 03:54:32,Not Started,54
-283,Traffic Light,transition bricks-and-clicks e-commerce,2006-07-19 08:47:02,Completed,286
-284,Road Construction,extend scalable solutions,2015-02-19 20:32:45,Not Started,97
-285,Electricity,productize revolutionary portals,2013-03-20 10:27:14,Not Started,979
-286,Powerline,innovate 24/365 networks,2020-03-31 07:49:14,Completed,954
-287,Pipeline,mesh world-class niches,2012-09-22 11:57:42,In Progress,768
-288,Pipeline,iterate front-end systems,2013-05-21 19:46:34,In Progress,61
-289,Road Construction,optimize dot-com channels,2019-05-20 00:51:04,Not Started,177
-290,Traffic Light,harness visionary e-services,2013-04-18 04:35:44,Not Started,461
-291,Road Construction,recontextualize strategic web-readiness,2014-10-14 10:41:48,In Progress,775
-292,Traffic Light,productize out-of-the-box niches,2024-03-09 23:45:05,Not Started,871
-293,Sewer,productize compelling web services,2001-06-04 02:05:38,Completed,427
-294,Powerline,syndicate scalable web-readiness,2002-11-06 10:41:36,In Progress,277
-295,Traffic Light,innovate end-to-end partnerships,2022-10-26 20:18:54,In Progress,643
-296,Electricity,empower plug-and-play action-items,2019-07-13 02:40:39,In Progress,582
-297,Sewer,cultivate virtual metrics,2018-03-05 10:38:08,In Progress,720
-298,Electricity,repurpose extensible channels,2020-02-19 00:51:27,Not Started,799
-299,Road Construction,exploit collaborative web-readiness,2014-10-29 11:41:11,In Progress,593
-300,Traffic Light,deploy one-to-one communities,2017-11-08 23:18:04,Completed,226
-301,Electricity,grow killer mindshare,2008-03-03 00:51:09,In Progress,953
-302,Powerline,extend killer convergence,2000-03-31 16:14:32,In Progress,707
-303,Pipeline,reintermediate world-class markets,2006-07-01 10:12:21,Completed,257
-304,Traffic Light,deliver world-class infrastructures,2000-08-18 04:57:20,Not Started,759
-305,Sewer,enhance out-of-the-box web services,2002-04-25 20:03:04,Completed,618
-306,Sewer,redefine distributed bandwidth,2008-07-22 08:15:29,In Progress,95
-307,Sewer,harness integrated e-markets,2004-10-16 10:25:40,Not Started,392
-308,Traffic Light,recontextualize front-end niches,2009-08-27 20:04:41,Not Started,459
-309,Pipeline,deliver real-time paradigms,2018-05-01 20:34:42,Not Started,73
-310,Pipeline,strategize virtual solutions,2018-11-18 23:02:31,Not Started,727
-311,Powerline,revolutionize cutting-edge metrics,2014-11-02 17:53:21,Not Started,466
-312,Road Construction,engage mission-critical solutions,2024-04-17 13:31:43,Not Started,619
-313,Road Construction,grow front-end action-items,2011-02-27 22:59:45,Completed,473
-314,Powerline,facilitate bricks-and-clicks initiatives,2000-01-29 00:03:37,Completed,803
-315,Sewer,redefine transparent methodologies,2022-04-28 14:14:26,Completed,571
-316,Pipeline,optimize B2C e-services,2006-11-18 09:21:53,Completed,515
-317,Road Construction,harness sexy metrics,2022-10-28 16:49:49,In Progress,964
-318,Electricity,benchmark real-time action-items,2020-09-30 23:01:45,Not Started,173
-319,Pipeline,orchestrate ubiquitous ROI,2015-06-19 06:58:30,In Progress,115
-320,Road Construction,grow scalable infrastructures,2007-11-20 19:07:54,In Progress,911
-321,Pipeline,implement enterprise convergence,2001-05-11 06:12:32,Not Started,765
-322,Road Construction,architect transparent ROI,2008-09-14 08:40:58,In Progress,939
-323,Powerline,reintermediate customized supply-chains,2017-06-15 03:35:30,In Progress,724
-324,Traffic Light,incubate extensible relationships,2014-07-16 23:24:51,In Progress,172
-325,Powerline,utilize plug-and-play partnerships,2007-02-05 22:23:15,Not Started,636
-326,Pipeline,e-enable B2B e-tailers,2007-11-03 02:01:25,Not Started,664
-327,Sewer,whiteboard ubiquitous e-markets,2018-08-09 21:56:43,Completed,915
-328,Powerline,whiteboard B2C experiences,2004-02-15 20:56:29,Completed,735
-329,Powerline,brand end-to-end infrastructures,2009-08-14 22:13:04,In Progress,901
-330,Electricity,scale 24/7 experiences,2022-02-16 04:41:25,In Progress,499
-331,Traffic Light,syndicate B2B communities,2001-07-23 03:37:44,Completed,797
-332,Pipeline,facilitate value-added applications,1998-07-28 16:11:43,Not Started,911
-333,Sewer,seize holistic vortals,2019-07-20 14:36:44,In Progress,252
-334,Traffic Light,enhance world-class infrastructures,2014-03-12 08:32:50,Not Started,101
-335,Electricity,iterate dynamic supply-chains,2011-09-01 00:06:37,Completed,761
-336,Road Construction,reintermediate viral systems,2023-02-15 13:25:11,In Progress,723
-337,Electricity,exploit mission-critical e-markets,2017-01-21 16:37:18,In Progress,485
-338,Powerline,expedite cutting-edge paradigms,2012-07-30 20:30:57,In Progress,7
-339,Sewer,synergize innovative deliverables,2003-01-29 17:14:48,Completed,208
-340,Powerline,enable granular markets,2017-03-18 19:27:51,Completed,753
-341,Traffic Light,implement real-time interfaces,2017-06-05 16:58:55,In Progress,159
-342,Road Construction,syndicate user-centric architectures,2007-04-30 07:01:05,Completed,723
-343,Powerline,empower open-source networks,1998-06-21 16:10:39,In Progress,354
-344,Sewer,maximize intuitive paradigms,1999-09-29 20:18:02,Completed,952
-345,Road Construction,drive collaborative experiences,2012-12-16 10:05:26,Not Started,244
-346,Road Construction,streamline compelling architectures,2003-05-17 08:07:48,Not Started,989
-347,Electricity,transform vertical paradigms,2011-09-17 00:51:30,In Progress,613
-348,Powerline,incentivize virtual e-services,2013-11-29 14:38:24,In Progress,375
-349,Road Construction,incubate out-of-the-box paradigms,2005-04-03 21:35:09,Completed,976
-350,Powerline,embrace user-centric networks,2017-06-21 18:44:10,Not Started,370
-351,Electricity,reinvent 24/365 convergence,2015-10-13 21:35:03,Not Started,658
-352,Pipeline,envisioneer plug-and-play eyeballs,2020-07-03 00:09:33,Not Started,739
-353,Electricity,exploit open-source technologies,2022-03-10 03:15:27,Completed,268
-354,Pipeline,visualize end-to-end platforms,2020-09-09 04:34:51,Completed,529
-355,Road Construction,integrate strategic solutions,2017-03-28 19:35:34,In Progress,343
-356,Powerline,monetize clicks-and-mortar convergence,1999-07-10 19:40:18,Not Started,431
-357,Pipeline,seize synergistic portals,1998-02-21 22:03:07,In Progress,564
-358,Pipeline,redefine clicks-and-mortar synergies,2019-04-20 01:56:16,In Progress,611
-359,Electricity,maximize virtual e-tailers,2013-11-18 01:04:51,Not Started,598
-360,Powerline,transition ubiquitous infomediaries,2012-06-02 18:01:34,Not Started,468
-361,Powerline,mesh value-added content,2001-10-31 03:03:29,Not Started,384
-362,Road Construction,disintermediate bleeding-edge models,2020-06-03 07:29:42,Completed,954
-363,Electricity,streamline wireless paradigms,2014-07-21 10:05:11,Not Started,425
-364,Traffic Light,extend viral solutions,1999-01-04 11:49:25,In Progress,792
-365,Road Construction,visualize 24/365 initiatives,2014-02-17 04:38:55,Not Started,842
-366,Powerline,synergize collaborative architectures,2016-01-30 20:54:45,Completed,146
-367,Powerline,incentivize bricks-and-clicks web services,2017-03-04 03:40:48,In Progress,455
-368,Powerline,iterate enterprise portals,2006-09-09 01:11:10,Not Started,472
-369,Road Construction,extend B2B infomediaries,2008-12-20 21:24:34,Not Started,190
-370,Traffic Light,e-enable killer eyeballs,2022-05-26 00:32:37,Completed,462
-371,Powerline,transition bleeding-edge interfaces,2012-01-18 00:31:52,Not Started,704
-372,Traffic Light,utilize vertical platforms,2023-08-17 15:48:39,In Progress,462
-373,Road Construction,synergize viral users,2013-04-19 06:29:44,Not Started,976
-374,Road Construction,cultivate killer schemas,2013-12-15 10:25:56,Not Started,661
-375,Pipeline,enhance distributed markets,2000-04-07 05:27:54,Completed,418
-376,Road Construction,empower scalable vortals,2023-06-04 17:22:40,In Progress,791
-377,Sewer,deploy proactive ROI,2019-05-24 13:24:23,In Progress,174
-378,Sewer,productize collaborative bandwidth,2009-01-09 19:58:21,Not Started,27
-379,Road Construction,synthesize next-generation ROI,1998-08-17 13:54:23,Not Started,825
-380,Powerline,grow next-generation e-services,2018-10-30 14:42:34,Completed,108
-381,Traffic Light,empower compelling mindshare,2018-06-12 22:24:23,Completed,324
-382,Sewer,engineer efficient communities,2000-04-06 06:53:00,Not Started,848
-383,Pipeline,redefine end-to-end models,2017-01-26 12:56:10,Completed,748
-384,Sewer,facilitate one-to-one deliverables,2012-02-08 19:36:34,In Progress,354
-385,Sewer,whiteboard cutting-edge e-markets,2018-01-25 09:15:22,Not Started,550
-386,Road Construction,orchestrate 24/365 platforms,2007-01-30 00:13:08,In Progress,902
-387,Electricity,transition collaborative relationships,2002-02-20 15:54:23,In Progress,31
-388,Pipeline,scale holistic applications,1998-02-16 01:07:50,Not Started,521
-389,Powerline,orchestrate world-class markets,1998-01-22 16:01:46,Not Started,738
-390,Sewer,incubate leading-edge methodologies,2015-08-29 02:05:18,Completed,742
-391,Powerline,transform dot-com platforms,2003-03-07 18:39:46,Completed,357
-392,Sewer,monetize ubiquitous partnerships,2022-01-27 08:50:29,Completed,652
-393,Pipeline,deliver next-generation portals,2000-04-10 19:29:05,In Progress,284
-394,Traffic Light,embrace dynamic mindshare,2023-08-22 18:44:27,Completed,350
-395,Road Construction,evolve mission-critical bandwidth,2014-03-17 22:03:13,In Progress,140
-396,Powerline,innovate synergistic networks,2018-06-24 02:35:14,In Progress,399
-397,Powerline,redefine dynamic ROI,1997-08-27 16:25:31,Not Started,75
-398,Traffic Light,monetize turn-key metrics,2023-08-17 06:28:26,In Progress,45
-399,Pipeline,synthesize extensible portals,2013-10-13 18:55:05,Not Started,421
-400,Electricity,strategize global relationships,2016-12-26 12:36:09,Not Started,334
-401,Traffic Light,transform robust web-readiness,2013-11-10 14:11:30,In Progress,318
-402,Sewer,cultivate wireless functionalities,2011-05-14 20:54:40,Not Started,780
-403,Traffic Light,reinvent plug-and-play infomediaries,2012-11-11 13:28:06,Completed,631
-404,Sewer,recontextualize viral supply-chains,2017-03-13 16:45:05,Completed,60
-405,Traffic Light,integrate scalable web services,2010-01-08 02:59:23,Not Started,275
-406,Road Construction,redefine clicks-and-mortar mindshare,2020-07-10 10:31:31,Completed,492
-407,Traffic Light,extend plug-and-play e-tailers,2018-01-26 15:51:29,Not Started,85
-408,Electricity,drive bricks-and-clicks content,2013-12-26 06:50:27,Not Started,436
-409,Road Construction,brand granular users,2018-10-08 17:50:55,In Progress,827
-410,Pipeline,benchmark user-centric initiatives,2017-04-09 16:16:55,Completed,201
-411,Pipeline,syndicate killer portals,2015-06-26 10:00:07,In Progress,864
-412,Powerline,engineer B2C users,2011-02-18 10:12:03,In Progress,541
-413,Pipeline,incubate intuitive systems,2023-07-28 19:36:01,Completed,93
-414,Pipeline,facilitate visionary networks,2005-04-23 17:36:54,Not Started,536
-415,Road Construction,transform vertical paradigms,1998-05-07 22:57:11,Not Started,193
-416,Powerline,engage B2C interfaces,1998-01-11 13:19:37,Completed,34
-417,Pipeline,implement dynamic web-readiness,2002-06-21 14:04:54,Completed,80
-418,Electricity,implement seamless channels,1998-04-03 22:45:49,Not Started,637
-419,Traffic Light,e-enable ubiquitous synergies,2004-06-27 02:44:57,Completed,705
-420,Powerline,envisioneer interactive partnerships,2021-11-27 11:05:19,In Progress,474
-421,Electricity,repurpose compelling functionalities,2011-07-02 12:01:34,Not Started,181
-422,Powerline,envisioneer robust vortals,2020-02-28 20:09:30,Not Started,839
-423,Electricity,expedite bricks-and-clicks infrastructures,2018-04-17 03:15:53,Not Started,701
-424,Powerline,embrace one-to-one mindshare,2001-08-16 04:36:56,Completed,520
-425,Electricity,evolve scalable methodologies,2017-07-09 10:35:06,In Progress,605
-426,Powerline,deliver transparent networks,2019-08-20 01:17:22,Completed,560
-427,Pipeline,enable real-time functionalities,1999-01-03 21:00:35,In Progress,446
-428,Sewer,visualize interactive vortals,2000-09-21 18:31:17,Not Started,842
-429,Powerline,integrate cross-platform supply-chains,2000-02-23 10:22:42,Not Started,475
-430,Pipeline,synthesize robust functionalities,1999-04-25 08:53:14,Not Started,321
-431,Electricity,deploy open-source relationships,2012-01-02 14:50:49,In Progress,239
-432,Pipeline,monetize bleeding-edge initiatives,2008-02-27 11:03:19,In Progress,906
-433,Pipeline,syndicate web-enabled convergence,2003-01-16 00:23:51,Completed,978
-434,Road Construction,seize innovative content,2002-10-02 16:06:46,Not Started,48
-435,Traffic Light,leverage intuitive ROI,2005-03-16 11:33:07,In Progress,702
-436,Electricity,synergize leading-edge initiatives,2023-01-24 10:27:35,Not Started,869
-437,Traffic Light,generate out-of-the-box e-business,2020-11-27 07:21:07,Completed,791
-438,Electricity,envisioneer impactful applications,2016-06-15 11:07:46,Not Started,91
-439,Electricity,embrace synergistic web-readiness,2006-09-08 09:50:20,Completed,910
-440,Powerline,deploy viral technologies,2019-11-22 06:10:47,Not Started,6
-441,Powerline,visualize B2B e-markets,1998-02-25 02:45:52,Completed,459
-442,Pipeline,deliver out-of-the-box schemas,2000-09-25 01:15:48,In Progress,104
-443,Road Construction,e-enable out-of-the-box e-markets,2013-05-13 12:09:56,Not Started,751
-444,Traffic Light,envisioneer front-end interfaces,2016-09-19 21:33:09,In Progress,792
-445,Pipeline,target back-end convergence,2015-06-21 12:23:55,In Progress,117
-446,Road Construction,embrace world-class applications,2012-07-26 11:37:22,Not Started,461
-447,Powerline,productize visionary web-readiness,2013-12-17 20:34:19,Not Started,468
-448,Traffic Light,morph holistic platforms,2014-10-10 19:33:56,In Progress,741
-449,Traffic Light,syndicate wireless ROI,2002-09-12 00:58:57,Not Started,266
-450,Powerline,mesh robust deliverables,2023-06-17 05:24:18,Not Started,895
-451,Traffic Light,deliver 24/7 infrastructures,1999-06-30 15:35:34,In Progress,785
-452,Road Construction,strategize bricks-and-clicks content,2016-05-01 08:30:07,Not Started,714
-453,Sewer,embrace sexy niches,2021-12-06 00:15:13,Completed,662
-454,Road Construction,extend collaborative supply-chains,2015-05-04 21:01:24,In Progress,735
-455,Traffic Light,visualize clicks-and-mortar metrics,2003-06-30 14:27:26,In Progress,56
-456,Road Construction,disintermediate revolutionary platforms,2009-08-01 08:44:34,In Progress,473
-457,Powerline,deploy rich e-markets,2008-02-24 21:00:00,Not Started,937
-458,Pipeline,grow transparent experiences,2010-01-09 22:41:54,In Progress,402
-459,Traffic Light,redefine 24/365 partnerships,2012-04-03 02:23:37,In Progress,948
-460,Sewer,architect ubiquitous e-business,2019-03-05 11:43:07,In Progress,136
-461,Sewer,monetize interactive solutions,2018-10-24 20:03:11,Completed,438
-462,Powerline,incubate innovative synergies,2014-01-18 03:33:16,Completed,85
-463,Pipeline,integrate collaborative relationships,2001-06-18 10:18:13,Completed,191
-464,Powerline,repurpose killer models,1997-11-06 16:07:24,In Progress,755
-465,Road Construction,empower revolutionary vortals,2011-07-17 14:46:43,Completed,619
-466,Pipeline,evolve killer communities,2022-08-18 22:50:29,In Progress,779
-467,Road Construction,benchmark real-time networks,2017-11-04 09:57:59,In Progress,493
-468,Powerline,expedite dot-com deliverables,2017-12-30 11:12:17,Not Started,539
-469,Electricity,disintermediate user-centric action-items,2018-08-14 08:20:30,Not Started,478
-470,Pipeline,productize dot-com niches,2008-06-06 18:39:43,Completed,601
-471,Road Construction,aggregate dynamic communities,2020-10-28 12:22:32,Not Started,819
-472,Traffic Light,engineer revolutionary solutions,2023-04-24 17:07:14,Completed,270
-473,Sewer,synergize impactful vortals,2018-07-27 12:39:58,In Progress,250
-474,Pipeline,benchmark 24/365 action-items,2017-09-21 19:14:13,In Progress,482
-475,Road Construction,whiteboard vertical architectures,2013-06-29 07:23:37,Not Started,240
-476,Road Construction,expedite web-enabled bandwidth,2002-04-15 05:14:49,In Progress,286
-477,Electricity,morph turn-key metrics,2004-12-15 19:19:45,Not Started,153
-478,Traffic Light,repurpose killer platforms,1999-06-20 04:53:00,Not Started,312
-479,Electricity,innovate out-of-the-box markets,2019-11-08 16:05:54,In Progress,999
-480,Powerline,evolve world-class ROI,2012-02-03 08:53:43,Completed,350
-481,Electricity,engineer collaborative architectures,2019-10-24 04:43:12,Not Started,352
-482,Traffic Light,whiteboard sticky architectures,2002-12-15 14:49:40,In Progress,716
-483,Traffic Light,strategize robust technologies,2022-07-03 02:56:39,Not Started,473
-484,Powerline,incentivize granular users,2011-09-05 22:42:40,In Progress,959
-485,Pipeline,expedite visionary action-items,2016-11-12 01:08:10,Completed,100
-486,Traffic Light,strategize dot-com web services,2015-08-20 08:38:04,In Progress,823
-487,Pipeline,deploy proactive content,1999-02-26 12:12:49,In Progress,373
-488,Powerline,benchmark clicks-and-mortar supply-chains,2011-09-10 09:01:39,Completed,523
-489,Powerline,embrace holistic niches,2011-09-20 22:29:56,Not Started,68
-490,Sewer,seize efficient technologies,2001-09-10 15:46:49,In Progress,539
-491,Pipeline,matrix scalable convergence,2019-10-28 18:07:16,Not Started,339
-492,Traffic Light,unleash wireless markets,2020-07-06 00:18:40,In Progress,515
-493,Road Construction,benchmark mission-critical users,2008-03-11 23:10:49,In Progress,427
-494,Road Construction,envisioneer wireless web services,2017-03-13 19:19:19,Completed,360
-495,Pipeline,maximize enterprise paradigms,2008-07-15 10:56:17,Completed,710
-496,Sewer,enhance open-source eyeballs,2017-12-05 09:44:57,In Progress,798
-497,Traffic Light,reinvent cross-media infrastructures,2005-04-16 22:30:41,Not Started,101
-498,Powerline,deploy distributed communities,2021-08-22 17:17:48,In Progress,549
-499,Electricity,reinvent sticky supply-chains,2011-03-15 18:32:17,Completed,137
-500,Traffic Light,monetize value-added methodologies,2016-04-16 09:31:51,In Progress,210
-501,Electricity,integrate turn-key methodologies,1999-05-06 05:18:03,In Progress,868
-502,Sewer,optimize B2B eyeballs,2020-11-22 03:36:37,Completed,158
-503,Sewer,embrace 24/365 markets,2019-10-20 05:20:32,Not Started,736
-504,Pipeline,facilitate turn-key web services,2000-05-27 22:34:42,Completed,614
-505,Road Construction,syndicate viral supply-chains,1999-02-07 12:11:56,Completed,895
-506,Pipeline,enable transparent infomediaries,2018-11-02 07:03:18,In Progress,995
-507,Powerline,maximize cutting-edge eyeballs,2001-03-13 20:28:33,Not Started,839
-508,Pipeline,streamline plug-and-play web services,2008-10-30 08:57:33,Not Started,862
-509,Sewer,seize clicks-and-mortar niches,2008-10-28 14:49:38,Not Started,944
-510,Sewer,aggregate seamless convergence,2021-02-18 23:55:11,In Progress,629
-511,Sewer,reinvent magnetic communities,2023-03-19 00:37:32,In Progress,102
-512,Sewer,streamline viral web-readiness,2004-02-23 14:04:49,Completed,427
-513,Road Construction,strategize innovative initiatives,2018-11-08 17:01:59,Not Started,913
-514,Sewer,unleash collaborative action-items,2015-08-07 20:11:48,In Progress,186
-515,Traffic Light,utilize compelling architectures,2007-01-05 07:07:54,Completed,972
-516,Sewer,e-enable back-end relationships,2001-04-25 10:12:06,In Progress,801
-517,Traffic Light,expedite cutting-edge infrastructures,2008-07-04 07:24:31,In Progress,632
-518,Pipeline,iterate frictionless portals,2024-07-07 13:37:29,In Progress,294
-519,Sewer,monetize holistic supply-chains,2022-11-20 20:56:04,Completed,341
-520,Electricity,target cross-media partnerships,2017-10-26 14:27:40,Not Started,155
-521,Sewer,drive ubiquitous communities,2012-01-01 08:26:46,In Progress,152
-522,Powerline,envisioneer holistic eyeballs,1999-11-19 17:33:59,In Progress,960
-523,Road Construction,aggregate holistic e-tailers,2007-01-07 16:16:49,Completed,409
-524,Sewer,redefine interactive methodologies,2024-07-05 12:39:00,In Progress,798
-525,Sewer,aggregate intuitive communities,2023-09-21 12:57:26,Completed,645
-526,Powerline,enhance back-end schemas,2010-01-27 21:59:46,In Progress,581
-527,Pipeline,architect bleeding-edge eyeballs,2001-08-30 14:25:31,Completed,816
-528,Sewer,exploit best-of-breed applications,1999-01-26 11:41:15,Completed,121
-529,Sewer,incubate web-enabled users,1999-02-11 03:48:02,Not Started,653
-530,Powerline,synthesize leading-edge applications,2000-02-02 01:30:00,Not Started,377
-531,Electricity,disintermediate B2B experiences,1997-09-05 02:50:31,Not Started,848
-532,Traffic Light,engage granular e-services,2015-09-12 11:50:05,Completed,30
-533,Pipeline,unleash bleeding-edge web services,2016-06-15 07:03:22,Not Started,861
-534,Pipeline,facilitate user-centric ROI,2023-05-03 21:41:32,In Progress,683
-535,Powerline,maximize sticky eyeballs,2005-10-25 15:53:34,Not Started,190
-536,Sewer,scale ubiquitous e-tailers,2008-06-30 16:18:15,Completed,597
-537,Pipeline,incubate mission-critical infomediaries,1998-03-24 17:12:21,Not Started,758
-538,Pipeline,embrace B2C users,2008-07-28 15:32:26,Not Started,554
-539,Road Construction,engineer compelling channels,1997-08-20 15:13:41,Completed,492
-540,Sewer,facilitate synergistic deliverables,2007-12-26 04:19:14,In Progress,707
-541,Electricity,matrix vertical portals,1997-07-13 15:13:11,In Progress,84
-542,Pipeline,generate best-of-breed functionalities,2011-04-30 06:10:42,Completed,698
-543,Traffic Light,monetize plug-and-play web-readiness,2022-09-23 07:59:23,In Progress,874
-544,Sewer,repurpose virtual mindshare,2002-06-21 05:18:50,Completed,928
-545,Electricity,generate 24/7 web-readiness,2008-05-24 10:21:07,Completed,792
-546,Traffic Light,productize out-of-the-box synergies,2020-05-09 11:38:36,Not Started,213
-547,Sewer,productize value-added communities,2017-04-16 06:37:58,Not Started,725
-548,Electricity,mesh holistic paradigms,2018-05-12 09:42:25,In Progress,527
-549,Traffic Light,iterate sexy channels,2014-08-04 03:11:16,Completed,7
-550,Sewer,brand virtual e-markets,2011-05-28 19:55:05,Not Started,730
-551,Road Construction,generate seamless web services,2008-03-29 04:52:23,Completed,834
-552,Electricity,leverage ubiquitous e-tailers,2005-08-10 14:15:27,In Progress,970
-553,Road Construction,target robust communities,2018-08-18 16:47:19,In Progress,606
-554,Sewer,morph interactive ROI,1999-11-20 18:51:34,Completed,119
-555,Pipeline,scale rich systems,2010-07-23 13:22:42,Completed,551
-556,Electricity,brand visionary vortals,2011-08-31 17:11:04,Not Started,133
-557,Sewer,productize transparent architectures,2002-01-16 09:13:50,Completed,460
-558,Electricity,empower wireless functionalities,2008-02-02 01:11:47,In Progress,188
-559,Traffic Light,aggregate sticky metrics,2004-07-26 01:25:46,Not Started,33
-560,Traffic Light,monetize next-generation schemas,2009-04-24 17:56:20,In Progress,895
-561,Road Construction,empower best-of-breed bandwidth,2021-09-27 19:07:33,In Progress,257
-562,Electricity,brand visionary e-commerce,2021-05-12 19:59:54,Completed,823
-563,Road Construction,utilize compelling schemas,1999-11-27 03:31:46,In Progress,392
-564,Road Construction,drive 24/365 e-commerce,2004-06-28 01:58:16,Not Started,376
-565,Traffic Light,embrace dot-com portals,2022-05-15 00:20:05,In Progress,430
-566,Road Construction,enable holistic niches,2015-08-23 22:41:01,Completed,19
-567,Electricity,orchestrate next-generation ROI,1999-07-10 17:33:35,In Progress,94
-568,Electricity,transition transparent web services,2010-07-09 19:43:47,In Progress,718
-569,Electricity,deliver interactive content,2001-05-18 09:38:29,Completed,64
-570,Road Construction,optimize sticky schemas,2019-06-04 01:55:49,Completed,518
-571,Road Construction,harness enterprise mindshare,2015-07-21 14:51:09,Not Started,117
-572,Pipeline,implement dynamic infrastructures,2014-03-16 12:21:53,Not Started,259
-573,Traffic Light,drive virtual communities,2010-11-11 23:35:39,Not Started,75
-574,Electricity,syndicate transparent eyeballs,1998-03-02 01:05:14,Completed,605
-575,Traffic Light,engineer synergistic users,2024-03-07 13:47:02,Not Started,733
-576,Powerline,optimize killer interfaces,2004-01-06 10:20:55,Not Started,532
-577,Traffic Light,enhance rich markets,2010-04-03 06:14:40,Completed,288
-578,Road Construction,incubate innovative technologies,2019-06-24 01:08:25,In Progress,541
-579,Pipeline,seize global interfaces,2002-07-31 17:21:02,In Progress,435
-580,Pipeline,synergize turn-key mindshare,2011-05-04 02:19:38,In Progress,761
-581,Traffic Light,maximize customized e-business,2011-03-23 21:05:20,Not Started,563
-582,Traffic Light,engage dot-com partnerships,2021-04-21 04:42:38,Completed,19
-583,Sewer,harness e-business experiences,2017-11-06 03:49:58,Not Started,228
-584,Traffic Light,evolve holistic networks,2023-11-20 14:35:06,In Progress,235
-585,Road Construction,transition seamless systems,2000-10-07 12:41:08,In Progress,574
-586,Sewer,maximize global architectures,2019-01-19 12:49:22,Not Started,259
-587,Powerline,brand killer web services,1998-12-03 06:47:00,Completed,370
-588,Pipeline,incentivize killer applications,2010-04-21 23:42:20,Not Started,204
-589,Electricity,architect world-class functionalities,2007-10-06 07:44:20,Completed,670
-590,Electricity,monetize compelling deliverables,2012-01-03 00:01:18,In Progress,567
-591,Road Construction,innovate frictionless paradigms,2008-11-26 14:30:11,Completed,793
-592,Pipeline,orchestrate sticky mindshare,2010-11-01 13:25:11,In Progress,85
-593,Powerline,transform seamless communities,2002-07-15 13:23:23,In Progress,410
-594,Traffic Light,leverage web-enabled synergies,2009-05-13 10:24:50,Not Started,30
-595,Sewer,strategize intuitive e-services,2001-11-14 20:02:55,Not Started,963
-596,Sewer,enable B2B architectures,2010-05-24 17:02:53,In Progress,269
-597,Road Construction,reintermediate plug-and-play initiatives,2002-10-10 04:45:17,Completed,783
-598,Powerline,streamline customized action-items,2024-02-22 03:38:30,Not Started,355
-599,Powerline,generate cross-platform schemas,2023-08-29 18:01:23,In Progress,293
-600,Road Construction,architect back-end vortals,2015-07-06 22:29:30,Not Started,277
-601,Electricity,reintermediate interactive solutions,1998-09-02 03:23:58,Completed,754
-602,Pipeline,redefine revolutionary infrastructures,2004-12-25 05:58:11,In Progress,365
-603,Sewer,engineer mission-critical infrastructures,2001-05-14 16:15:38,Completed,341
-604,Road Construction,benchmark proactive solutions,1997-10-21 00:09:49,Not Started,981
-605,Electricity,deliver one-to-one supply-chains,2007-08-01 14:20:04,Completed,826
-606,Road Construction,deliver robust partnerships,2023-07-14 00:28:09,Completed,921
-607,Powerline,reinvent global e-commerce,2005-10-11 07:45:33,Completed,236
-608,Powerline,maximize sexy convergence,2018-09-03 22:05:56,Not Started,927
-609,Electricity,syndicate B2B solutions,2000-03-03 01:07:41,In Progress,350
-610,Traffic Light,benchmark viral portals,2023-06-12 20:57:51,In Progress,954
-611,Road Construction,enhance leading-edge web-readiness,2008-10-15 10:42:24,Not Started,10
-612,Electricity,envisioneer killer e-tailers,2020-07-03 03:34:53,In Progress,39
-613,Powerline,recontextualize distributed solutions,2007-01-19 21:54:08,Completed,308
-614,Powerline,incentivize scalable markets,2015-08-13 05:59:38,In Progress,739
-615,Powerline,architect synergistic markets,2018-06-01 21:52:41,In Progress,315
-616,Powerline,redefine 24/7 ROI,2008-03-30 15:58:48,Completed,527
-617,Pipeline,disintermediate cross-platform eyeballs,2003-04-27 08:53:02,Not Started,42
-618,Electricity,incentivize e-business metrics,2022-04-08 14:34:33,Completed,482
-619,Powerline,extend real-time supply-chains,2006-04-03 16:57:50,Completed,129
-620,Pipeline,seize compelling relationships,2012-02-16 22:33:14,Not Started,576
-621,Pipeline,aggregate holistic architectures,2011-08-04 18:56:46,Not Started,375
-622,Pipeline,deliver dynamic channels,2016-11-21 20:46:12,Not Started,620
-623,Traffic Light,productize value-added systems,2008-03-26 08:31:32,Completed,835
-624,Sewer,engineer synergistic mindshare,1999-05-16 15:44:51,In Progress,673
-625,Pipeline,cultivate holistic applications,2010-08-28 00:56:37,Completed,122
-626,Powerline,matrix visionary channels,2010-06-02 03:16:21,Not Started,181
-627,Electricity,target collaborative synergies,2001-07-21 20:32:56,Completed,997
-628,Traffic Light,incentivize enterprise e-services,2017-11-19 17:48:41,Completed,877
-629,Electricity,harness back-end e-tailers,1999-08-12 16:01:21,Completed,539
-630,Powerline,productize enterprise e-business,2001-03-11 06:35:33,In Progress,678
-631,Electricity,seize strategic niches,2020-06-20 03:47:39,Completed,61
-632,Traffic Light,unleash 24/7 interfaces,1997-07-29 07:46:13,Completed,312
-633,Traffic Light,benchmark dot-com networks,2019-12-27 17:13:14,In Progress,902
-634,Electricity,harness end-to-end solutions,1999-09-05 16:27:02,Completed,262
-635,Road Construction,monetize sticky synergies,2014-06-21 22:30:35,In Progress,360
-636,Traffic Light,brand sexy eyeballs,1999-08-23 05:43:22,Completed,454
-637,Electricity,morph visionary platforms,2008-07-05 07:41:27,Not Started,667
-638,Pipeline,disintermediate web-enabled channels,2007-08-11 17:24:01,In Progress,874
-639,Sewer,productize front-end systems,2014-03-07 04:25:37,Completed,499
-640,Road Construction,cultivate vertical convergence,2022-03-22 07:04:21,Not Started,32
-641,Traffic Light,generate dot-com experiences,2016-10-01 01:58:09,In Progress,737
-642,Powerline,syndicate compelling e-business,2022-03-02 05:48:17,Completed,388
-643,Powerline,reintermediate e-business infomediaries,2017-08-02 11:25:08,Not Started,97
-644,Pipeline,leverage scalable e-commerce,2016-05-17 23:33:39,Completed,470
-645,Traffic Light,generate plug-and-play platforms,2012-10-03 09:09:58,In Progress,689
-646,Powerline,orchestrate value-added e-markets,2023-09-10 16:51:38,Not Started,693
-647,Road Construction,architect turn-key communities,2013-06-09 14:26:22,In Progress,324
-648,Powerline,streamline dynamic e-services,2017-02-13 22:28:59,Not Started,714
-649,Road Construction,disintermediate visionary interfaces,2020-02-03 01:18:17,In Progress,674
-650,Powerline,whiteboard value-added paradigms,2017-01-08 12:18:04,Not Started,996
-651,Powerline,scale value-added solutions,2005-12-26 19:59:06,Completed,726
-652,Pipeline,redefine customized metrics,2000-05-30 06:08:13,In Progress,561
-653,Sewer,synergize integrated convergence,2020-03-28 16:49:06,In Progress,394
-654,Powerline,reintermediate 24/7 models,2005-06-13 09:04:41,Completed,229
-655,Electricity,envisioneer collaborative channels,2020-01-29 17:22:24,Not Started,114
-656,Pipeline,repurpose cutting-edge deliverables,2020-05-26 12:01:15,Completed,524
-657,Electricity,visualize strategic relationships,2013-01-03 15:20:37,Not Started,488
-658,Sewer,aggregate real-time applications,2020-07-27 17:29:35,Not Started,131
-659,Sewer,transform back-end architectures,2008-04-12 21:35:24,Completed,383
-660,Pipeline,strategize ubiquitous initiatives,2014-04-13 13:38:31,Completed,423
-661,Road Construction,expedite frictionless methodologies,2012-06-11 05:31:02,Completed,946
-662,Traffic Light,drive holistic niches,2018-09-26 08:32:49,Not Started,131
-663,Road Construction,matrix world-class solutions,2016-11-10 10:21:11,Not Started,469
-664,Pipeline,strategize proactive functionalities,2010-01-30 18:46:13,In Progress,440
-665,Electricity,transform innovative communities,2009-03-17 11:32:28,In Progress,452
-666,Road Construction,monetize ubiquitous experiences,2003-01-18 23:01:21,Completed,353
-667,Pipeline,revolutionize intuitive web services,2005-06-11 06:58:43,In Progress,338
-668,Road Construction,seize proactive e-business,2000-07-20 14:21:47,Not Started,921
-669,Electricity,scale virtual synergies,2019-01-23 09:40:25,In Progress,685
-670,Traffic Light,envisioneer distributed infomediaries,2020-04-28 05:07:46,In Progress,700
-671,Sewer,engineer 24/7 methodologies,2001-03-14 09:59:06,Not Started,74
-672,Sewer,recontextualize world-class partnerships,2016-07-19 07:42:57,Completed,991
-673,Pipeline,implement cross-platform channels,2017-09-13 08:08:58,In Progress,14
-674,Electricity,scale dynamic interfaces,2001-03-23 04:38:18,Completed,544
-675,Road Construction,optimize dot-com portals,2021-12-31 04:29:45,Not Started,332
-676,Traffic Light,iterate global portals,2016-08-18 07:10:21,Completed,926
-677,Electricity,generate synergistic applications,2022-06-26 15:53:24,Completed,399
-678,Electricity,synthesize dot-com interfaces,2016-06-13 07:32:06,In Progress,321
-679,Road Construction,synergize end-to-end bandwidth,2013-08-31 20:07:35,Not Started,331
-680,Electricity,transform one-to-one e-tailers,2007-08-04 08:31:27,Not Started,491
-681,Sewer,iterate rich portals,2017-11-30 12:24:22,Not Started,21
-682,Traffic Light,disintermediate innovative technologies,2001-05-15 22:15:18,Completed,767
-683,Road Construction,architect user-centric partnerships,1998-08-28 01:34:40,Completed,817
-684,Electricity,matrix user-centric portals,2002-04-16 09:59:59,Completed,824
-685,Electricity,repurpose cutting-edge synergies,1999-10-24 10:29:36,Completed,123
-686,Road Construction,harness rich communities,2001-06-08 04:23:47,Not Started,876
-687,Powerline,synthesize one-to-one methodologies,1998-02-25 20:03:36,Completed,132
-688,Electricity,monetize global action-items,2022-12-04 11:14:48,Not Started,21
-689,Pipeline,whiteboard transparent architectures,2008-12-30 09:55:09,Not Started,349
-690,Traffic Light,morph collaborative architectures,2020-05-15 08:14:54,Not Started,951
-691,Road Construction,maximize innovative initiatives,2009-07-12 03:09:50,Completed,397
-692,Pipeline,orchestrate one-to-one content,2020-07-03 21:01:01,Not Started,845
-693,Electricity,envisioneer frictionless methodologies,2000-01-26 07:04:37,Not Started,485
-694,Powerline,grow proactive interfaces,2012-04-10 05:40:15,In Progress,669
-695,Pipeline,empower extensible deliverables,2005-01-12 15:02:10,Completed,40
-696,Traffic Light,optimize dynamic vortals,2009-08-27 02:41:13,Completed,719
-697,Road Construction,generate sexy infrastructures,2001-12-31 04:39:32,In Progress,897
-698,Sewer,revolutionize extensible e-tailers,2006-05-25 23:30:07,Not Started,649
-699,Electricity,repurpose front-end web services,2012-11-28 04:23:43,In Progress,215
-700,Electricity,productize virtual systems,2012-06-28 06:02:25,Not Started,411
-701,Sewer,reintermediate real-time partnerships,2018-09-22 06:32:02,In Progress,841
-702,Sewer,evolve rich architectures,2022-11-05 15:51:12,Completed,24
-703,Powerline,morph web-enabled communities,2022-12-01 04:51:52,In Progress,650
-704,Sewer,seize B2B e-services,2023-03-02 02:32:59,Not Started,217
-705,Road Construction,strategize robust experiences,2011-06-03 16:04:37,Completed,760
-706,Road Construction,engineer intuitive systems,2018-09-17 05:35:32,Not Started,67
-707,Sewer,e-enable rich solutions,2007-08-22 11:35:38,Not Started,991
-708,Pipeline,grow cross-media synergies,2021-10-25 22:55:41,Not Started,879
-709,Traffic Light,transition extensible initiatives,2024-03-04 14:56:42,In Progress,527
-710,Road Construction,deliver intuitive vortals,1999-11-17 15:09:22,Not Started,449
-711,Sewer,extend integrated infomediaries,2022-10-04 18:19:06,Not Started,368
-712,Electricity,syndicate enterprise metrics,2012-07-02 05:57:15,Completed,411
-713,Electricity,facilitate bleeding-edge action-items,2022-10-30 22:59:18,In Progress,675
-714,Traffic Light,disintermediate end-to-end supply-chains,2010-12-09 21:32:04,In Progress,78
-715,Sewer,maximize world-class synergies,1998-11-27 22:24:13,In Progress,509
-716,Road Construction,transform granular e-commerce,1999-11-21 11:38:18,Completed,506
-717,Powerline,revolutionize ubiquitous eyeballs,2007-04-28 21:02:57,Not Started,708
-718,Sewer,cultivate real-time applications,2020-08-19 06:20:24,Completed,669
-719,Powerline,disintermediate e-business e-business,2012-11-09 07:34:03,In Progress,735
-720,Traffic Light,reintermediate out-of-the-box technologies,2023-01-13 15:01:53,Completed,322
-721,Sewer,target plug-and-play e-tailers,2001-08-22 10:50:30,Completed,966
-722,Pipeline,enhance web-enabled e-services,2005-12-01 20:48:56,Completed,585
-723,Powerline,orchestrate mission-critical e-tailers,2011-08-20 01:06:18,In Progress,758
-724,Pipeline,strategize open-source supply-chains,2020-03-13 18:28:54,Completed,274
-725,Electricity,harness intuitive platforms,2024-01-04 17:31:00,Not Started,788
-726,Electricity,maximize back-end action-items,2008-06-05 12:23:48,Not Started,952
-727,Powerline,scale sticky convergence,1999-12-21 08:26:33,Completed,782
-728,Pipeline,productize cross-platform deliverables,2006-02-28 05:42:49,Not Started,984
-729,Powerline,matrix compelling supply-chains,2013-08-01 23:13:35,Not Started,590
-730,Pipeline,empower back-end bandwidth,1999-08-22 05:20:01,Completed,429
-731,Traffic Light,revolutionize integrated networks,2013-08-15 21:04:49,In Progress,246
-732,Road Construction,productize viral relationships,1998-01-06 06:51:09,Not Started,756
-733,Electricity,matrix sticky relationships,2015-10-10 19:24:55,Not Started,621
-734,Pipeline,syndicate bleeding-edge users,2010-12-12 06:14:47,Completed,753
-735,Sewer,grow value-added infomediaries,2012-02-25 17:57:41,Not Started,391
-736,Electricity,integrate intuitive e-tailers,2002-09-08 19:33:08,In Progress,701
-737,Pipeline,incentivize dynamic mindshare,2022-08-24 08:37:06,Completed,688
-738,Pipeline,disintermediate plug-and-play bandwidth,2015-02-28 20:22:32,Not Started,142
-739,Pipeline,morph granular eyeballs,1999-09-10 12:32:29,In Progress,808
-740,Electricity,deploy best-of-breed functionalities,2008-12-13 11:56:08,Completed,505
-741,Powerline,seize world-class applications,2004-09-13 12:52:57,In Progress,841
-742,Traffic Light,synthesize granular functionalities,2013-09-17 17:35:22,Not Started,221
-743,Powerline,e-enable frictionless experiences,2019-09-18 23:20:50,Completed,366
-744,Pipeline,utilize 24/7 architectures,2017-05-28 12:14:16,Completed,76
-745,Electricity,repurpose proactive vortals,2004-10-08 09:21:09,Completed,959
-746,Powerline,synergize B2C markets,2021-10-16 12:41:53,Completed,761
-747,Pipeline,empower compelling e-services,2005-03-15 18:56:59,Not Started,171
-748,Pipeline,grow cross-media action-items,2018-03-24 07:31:38,Completed,709
-749,Road Construction,expedite value-added ROI,2015-10-30 01:33:22,In Progress,201
-750,Powerline,grow plug-and-play methodologies,2005-05-25 10:02:16,In Progress,199
-751,Electricity,revolutionize clicks-and-mortar e-markets,2008-12-08 04:01:01,Completed,503
-752,Traffic Light,productize user-centric metrics,2004-07-04 16:29:45,In Progress,147
-753,Powerline,scale e-business portals,2013-11-15 18:24:04,Completed,957
-754,Sewer,drive leading-edge mindshare,2016-10-17 23:28:04,In Progress,721
-755,Road Construction,optimize strategic web-readiness,2001-12-31 14:41:53,In Progress,840
-756,Electricity,incentivize real-time relationships,2003-07-26 01:27:50,Not Started,418
-757,Electricity,monetize integrated systems,2018-11-21 10:55:10,Not Started,893
-758,Sewer,exploit strategic web-readiness,2010-08-29 00:34:42,Completed,832
-759,Traffic Light,recontextualize rich e-business,2016-08-15 00:06:15,In Progress,659
-760,Road Construction,transform turn-key channels,2016-09-12 05:26:00,Not Started,639
-761,Sewer,engage 24/365 content,2009-12-13 14:15:03,Completed,281
-762,Traffic Light,transform revolutionary technologies,2013-03-13 08:11:20,In Progress,378
-763,Traffic Light,reinvent leading-edge networks,1999-01-09 03:44:21,Completed,227
-764,Pipeline,transform bricks-and-clicks supply-chains,2017-08-20 02:52:12,Completed,437
-765,Road Construction,orchestrate bricks-and-clicks deliverables,2022-04-01 01:11:23,Completed,628
-766,Sewer,utilize end-to-end technologies,2020-10-20 17:12:57,Not Started,883
-767,Pipeline,deliver cross-media convergence,2008-06-19 04:10:21,Not Started,759
-768,Road Construction,unleash frictionless convergence,2018-01-01 21:45:48,In Progress,639
-769,Powerline,engage interactive models,2019-05-04 03:18:17,In Progress,264
-770,Powerline,enable synergistic synergies,2001-12-25 17:34:18,Not Started,819
-771,Road Construction,embrace cutting-edge communities,2015-01-03 10:59:24,Completed,218
-772,Electricity,matrix vertical e-tailers,2002-08-13 23:57:45,Not Started,895
-773,Traffic Light,implement robust e-business,2010-07-16 13:54:45,Completed,47
-774,Powerline,morph dot-com e-services,2023-04-11 09:22:05,Not Started,944
-775,Road Construction,leverage scalable ROI,2001-01-10 00:43:06,Not Started,997
-776,Pipeline,engineer transparent vortals,2009-02-22 22:24:38,Not Started,161
-777,Pipeline,synergize end-to-end relationships,2020-09-26 00:27:42,In Progress,920
-778,Pipeline,maximize mission-critical methodologies,2019-12-24 16:35:13,Completed,539
-779,Pipeline,unleash killer e-business,2016-01-01 02:23:17,Completed,875
-780,Sewer,productize mission-critical applications,2001-12-04 08:35:16,Completed,301
-781,Road Construction,redefine revolutionary partnerships,2022-12-26 21:00:32,In Progress,227
-782,Road Construction,incubate killer applications,2011-05-01 03:10:24,Not Started,88
-783,Sewer,deliver user-centric web services,2008-07-16 18:27:10,Not Started,19
-784,Pipeline,repurpose 24/365 deliverables,2002-10-17 09:44:01,Not Started,532
-785,Pipeline,deliver mission-critical networks,1999-07-12 19:55:14,Completed,879
-786,Powerline,evolve virtual solutions,2000-07-22 02:16:28,In Progress,984
-787,Powerline,transform enterprise web-readiness,2005-07-01 02:03:13,Not Started,290
-788,Powerline,utilize 24/7 synergies,2022-07-17 19:13:29,Completed,192
-789,Electricity,maximize customized relationships,2004-05-01 13:49:42,Not Started,420
-790,Powerline,enable distributed schemas,2020-05-30 23:11:59,Completed,385
-791,Sewer,evolve synergistic web-readiness,2022-11-07 11:42:20,Not Started,181
-792,Sewer,iterate sticky e-markets,2015-10-24 02:43:10,Not Started,570
-793,Sewer,iterate robust convergence,2000-08-30 02:47:42,Completed,680
-794,Road Construction,seize compelling niches,2012-12-06 14:49:03,In Progress,856
-795,Electricity,revolutionize efficient solutions,2010-09-28 11:09:46,In Progress,318
-796,Electricity,transition frictionless initiatives,2008-09-09 23:43:06,In Progress,880
-797,Sewer,incubate web-enabled content,1999-08-02 08:40:48,Completed,860
-798,Electricity,seize scalable schemas,1998-02-19 15:50:55,Not Started,557
-799,Sewer,enable 24/7 convergence,2014-03-19 02:50:06,Completed,675
-800,Electricity,maximize best-of-breed markets,2004-04-28 05:24:54,Completed,332
-801,Powerline,empower real-time niches,2014-04-18 19:59:45,In Progress,321
-802,Electricity,maximize transparent relationships,2003-03-07 10:36:16,Completed,755
-803,Sewer,disintermediate dynamic e-business,2001-09-05 12:11:57,In Progress,228
-804,Sewer,reinvent mission-critical technologies,2018-08-08 20:11:44,Completed,893
-805,Sewer,evolve distributed supply-chains,1998-11-19 06:39:12,Not Started,471
-806,Electricity,incentivize cross-platform e-commerce,2001-06-20 18:04:08,Completed,524
-807,Traffic Light,incentivize interactive convergence,2014-08-19 06:25:38,Completed,71
-808,Traffic Light,optimize plug-and-play e-tailers,2000-11-11 21:50:08,In Progress,545
-809,Road Construction,expedite world-class architectures,1999-01-02 04:57:16,Completed,422
-810,Pipeline,implement cutting-edge methodologies,2008-01-30 23:10:59,In Progress,652
-811,Electricity,target one-to-one niches,2021-07-25 20:12:35,In Progress,924
-812,Powerline,innovate revolutionary users,2016-12-31 07:24:30,Not Started,30
-813,Traffic Light,harness cross-platform web-readiness,2017-11-18 07:00:57,Not Started,962
-814,Pipeline,brand 24/7 metrics,2001-10-24 00:13:45,In Progress,350
-815,Pipeline,extend frictionless mindshare,2005-08-11 20:01:44,Not Started,549
-816,Traffic Light,morph dynamic content,2018-04-20 21:58:02,In Progress,790
-817,Road Construction,syndicate bricks-and-clicks partnerships,2005-10-25 06:02:44,Not Started,17
-818,Electricity,generate revolutionary metrics,2018-10-15 06:31:24,Completed,943
-819,Traffic Light,maximize 24/365 vortals,2013-03-22 04:02:07,Completed,566
-820,Road Construction,target global communities,2003-02-27 12:43:33,In Progress,350
-821,Road Construction,deploy ubiquitous e-markets,2004-02-08 01:12:23,Completed,50
-822,Pipeline,expedite clicks-and-mortar relationships,2021-12-31 02:40:21,In Progress,947
-823,Pipeline,whiteboard 24/7 e-business,2024-06-07 06:51:25,Not Started,971
-824,Traffic Light,transition sticky technologies,1998-06-07 21:46:40,In Progress,477
-825,Powerline,drive extensible systems,2021-09-21 11:14:19,In Progress,902
-826,Pipeline,evolve efficient solutions,2019-11-02 19:53:00,Completed,466
-827,Electricity,facilitate frictionless communities,2012-11-19 10:18:11,Not Started,33
-828,Traffic Light,grow synergistic e-business,2005-09-25 07:13:53,In Progress,922
-829,Powerline,orchestrate 24/7 schemas,2019-02-08 09:03:16,Not Started,39
-830,Traffic Light,mesh impactful e-business,2021-12-20 21:13:07,Not Started,562
-831,Sewer,optimize proactive e-markets,2021-08-10 07:21:27,Not Started,927
-832,Electricity,matrix one-to-one paradigms,2015-06-25 05:05:24,Completed,420
-833,Pipeline,revolutionize clicks-and-mortar eyeballs,1997-07-15 13:16:14,Completed,124
-834,Traffic Light,drive front-end markets,2001-08-05 11:02:59,In Progress,56
-835,Sewer,disintermediate sticky action-items,2008-05-27 02:21:33,Completed,75
-836,Powerline,reinvent dot-com solutions,1997-10-27 03:40:33,Completed,579
-837,Pipeline,engage sexy paradigms,1997-07-19 03:06:56,Not Started,266
-838,Powerline,optimize end-to-end content,2002-11-22 06:23:48,Completed,407
-839,Powerline,redefine frictionless technologies,2005-05-03 11:29:21,In Progress,35
-840,Road Construction,drive seamless models,2009-09-30 11:43:12,In Progress,273
-841,Sewer,visualize visionary infrastructures,2010-06-09 09:00:55,Not Started,80
-842,Electricity,productize frictionless initiatives,2001-12-24 22:49:02,Not Started,559
-843,Traffic Light,scale holistic vortals,2003-01-17 00:54:56,In Progress,846
-844,Sewer,morph plug-and-play markets,2008-05-08 21:20:13,In Progress,706
-845,Powerline,generate dot-com schemas,2015-03-04 07:49:01,Completed,140
-846,Powerline,engage sticky web-readiness,2003-07-06 06:57:22,Completed,151
-847,Pipeline,facilitate integrated models,2024-02-10 07:21:02,Not Started,569
-848,Pipeline,envisioneer bleeding-edge platforms,2020-06-15 03:45:00,Completed,662
-849,Pipeline,benchmark killer relationships,2015-05-28 03:04:37,In Progress,413
-850,Electricity,cultivate visionary mindshare,2012-03-23 00:54:29,Not Started,717
-851,Sewer,mesh best-of-breed synergies,2000-08-10 10:15:17,Not Started,274
-852,Pipeline,productize bricks-and-clicks users,2012-09-15 02:13:33,Not Started,867
-853,Road Construction,iterate holistic e-tailers,1998-12-14 01:43:19,In Progress,381
-854,Pipeline,innovate leading-edge methodologies,2020-02-10 03:13:36,In Progress,337
-855,Road Construction,maximize ubiquitous e-markets,2003-06-09 17:31:23,Completed,566
-856,Pipeline,target intuitive portals,1999-01-16 06:45:33,Not Started,572
-857,Sewer,synthesize back-end initiatives,1998-01-04 07:46:38,Not Started,372
-858,Powerline,transition front-end functionalities,2017-06-27 18:14:59,In Progress,770
-859,Sewer,leverage sticky ROI,2000-07-16 08:18:59,Completed,618
-860,Pipeline,aggregate bricks-and-clicks infrastructures,2019-11-01 16:43:58,Not Started,424
-861,Electricity,redefine ubiquitous supply-chains,2019-01-12 15:58:30,In Progress,336
-862,Pipeline,iterate bleeding-edge infrastructures,2012-02-08 22:41:31,In Progress,748
-863,Powerline,envisioneer proactive action-items,2017-09-07 18:04:07,Not Started,1
-864,Traffic Light,empower collaborative solutions,1999-02-28 15:54:55,Not Started,410
-865,Traffic Light,monetize scalable vortals,2017-08-25 16:10:28,Not Started,571
-866,Road Construction,disintermediate mission-critical vortals,2005-11-27 03:57:32,Not Started,4
-867,Powerline,expedite wireless vortals,2017-04-11 21:26:16,In Progress,230
-868,Road Construction,reinvent impactful functionalities,2013-12-07 15:32:16,In Progress,617
-869,Sewer,unleash clicks-and-mortar markets,2006-03-09 06:52:35,In Progress,139
-870,Electricity,maximize cross-platform bandwidth,2015-05-07 00:29:24,In Progress,594
-871,Pipeline,unleash sticky e-markets,2021-10-26 01:55:26,Not Started,227
-872,Road Construction,recontextualize revolutionary interfaces,2018-10-18 15:15:17,Not Started,574
-873,Powerline,innovate plug-and-play markets,2008-08-21 11:57:56,Not Started,855
-874,Electricity,morph synergistic initiatives,2017-11-10 03:30:33,In Progress,596
-875,Sewer,architect real-time e-markets,2024-01-03 06:47:28,Not Started,817
-876,Road Construction,optimize enterprise synergies,2003-10-04 23:23:12,Completed,278
-877,Powerline,benchmark granular action-items,2019-05-20 13:55:11,In Progress,773
-878,Pipeline,exploit front-end interfaces,2012-04-08 00:27:05,Not Started,855
-879,Road Construction,drive end-to-end communities,2020-10-21 06:36:35,In Progress,224
-880,Electricity,orchestrate 24/7 e-commerce,2016-11-26 00:27:11,Not Started,935
-881,Traffic Light,iterate magnetic ROI,2022-02-26 18:11:08,Completed,573
-882,Pipeline,maximize virtual mindshare,2017-11-27 20:19:02,In Progress,637
-883,Electricity,target collaborative vortals,2002-09-12 15:05:11,Completed,138
-884,Pipeline,transform world-class technologies,2021-07-29 20:28:26,In Progress,214
-885,Traffic Light,exploit robust supply-chains,2024-04-15 15:10:32,Not Started,34
-886,Traffic Light,mesh dynamic channels,2013-10-07 14:24:18,Not Started,156
-887,Powerline,repurpose seamless portals,2023-10-22 00:14:31,Completed,453
-888,Traffic Light,transition granular architectures,2023-03-29 11:45:16,Not Started,976
-889,Sewer,maximize end-to-end metrics,2016-06-05 21:28:00,Completed,291
-890,Powerline,engineer revolutionary initiatives,1999-08-16 11:33:34,Not Started,427
-891,Powerline,empower bricks-and-clicks architectures,2012-10-15 22:44:18,In Progress,51
-892,Road Construction,evolve plug-and-play mindshare,2023-05-22 14:34:18,In Progress,580
-893,Pipeline,implement virtual metrics,2018-02-19 08:59:22,Not Started,898
-894,Powerline,morph out-of-the-box architectures,2004-09-20 01:51:00,Not Started,622
-895,Road Construction,scale web-enabled niches,2022-02-13 15:44:36,Not Started,792
-896,Powerline,generate collaborative solutions,1997-10-26 19:16:26,Completed,418
-897,Powerline,facilitate strategic mindshare,2013-08-17 10:48:20,Not Started,227
-898,Powerline,scale viral schemas,2018-10-24 23:21:08,Not Started,759
-899,Pipeline,orchestrate scalable niches,2018-04-08 02:47:36,In Progress,611
-900,Powerline,e-enable plug-and-play relationships,2008-12-25 13:32:05,Completed,880
-901,Electricity,implement value-added e-tailers,2013-10-10 09:34:15,Not Started,954
-902,Powerline,facilitate leading-edge mindshare,2017-05-08 01:51:54,In Progress,679
-903,Pipeline,aggregate turn-key models,2007-06-03 11:12:13,Not Started,905
-904,Pipeline,deploy virtual e-tailers,1999-09-12 05:41:39,In Progress,418
-905,Traffic Light,expedite interactive networks,1998-01-01 20:15:20,Completed,954
-906,Sewer,enable clicks-and-mortar niches,2015-02-05 21:45:13,Completed,672
-907,Pipeline,cultivate holistic e-markets,1998-04-16 09:15:06,Not Started,739
-908,Pipeline,mesh 24/7 convergence,2009-07-09 10:42:33,Completed,259
-909,Pipeline,evolve value-added convergence,2010-11-27 16:39:56,In Progress,911
-910,Electricity,orchestrate world-class web services,2004-06-03 11:41:01,Completed,95
-911,Sewer,engage sticky experiences,2015-11-21 01:30:09,Not Started,977
-912,Sewer,transition seamless initiatives,2008-01-26 18:33:15,Not Started,10
-913,Pipeline,drive global bandwidth,1999-05-20 15:09:58,In Progress,594
-914,Pipeline,benchmark wireless ROI,2019-07-21 20:03:03,Not Started,257
-915,Pipeline,visualize B2B content,2000-10-26 18:56:19,In Progress,214
-916,Sewer,enhance wireless synergies,2002-07-02 06:45:26,In Progress,748
-917,Sewer,engage synergistic relationships,1998-09-01 08:23:44,Not Started,436
-918,Electricity,unleash end-to-end e-tailers,2018-03-02 20:53:06,In Progress,617
-919,Sewer,exploit dot-com e-tailers,2014-12-18 08:25:38,Not Started,136
-920,Powerline,transform transparent methodologies,2010-02-21 21:38:42,Completed,364
-921,Powerline,grow viral methodologies,2008-01-16 21:58:42,In Progress,544
-922,Powerline,transition customized convergence,2008-03-06 07:19:59,Not Started,268
-923,Sewer,generate front-end communities,1998-07-21 02:44:29,Completed,933
-924,Traffic Light,iterate B2C e-business,2014-02-20 10:49:09,Not Started,945
-925,Electricity,seize world-class technologies,2022-06-19 20:06:45,Not Started,940
-926,Pipeline,whiteboard open-source bandwidth,2001-03-05 15:47:19,Not Started,791
-927,Traffic Light,morph robust e-commerce,2003-01-10 16:58:06,Not Started,981
-928,Powerline,recontextualize distributed paradigms,2005-08-04 15:07:17,Not Started,750
-929,Electricity,incubate dot-com e-business,2021-12-30 07:42:23,Not Started,376
-930,Sewer,utilize back-end models,2009-05-29 17:25:43,Not Started,329
-931,Sewer,expedite dot-com paradigms,2017-02-24 08:07:05,Not Started,772
-932,Road Construction,monetize vertical systems,2013-05-20 10:47:26,Not Started,130
-933,Traffic Light,envisioneer transparent networks,2008-06-10 01:18:26,In Progress,787
-934,Pipeline,cultivate clicks-and-mortar infrastructures,2011-07-27 23:09:58,In Progress,478
-935,Powerline,enhance cross-media e-commerce,2009-08-17 11:25:46,In Progress,968
-936,Sewer,envisioneer bricks-and-clicks infrastructures,2023-03-26 14:49:48,In Progress,368
-937,Electricity,deploy collaborative infrastructures,2009-12-20 08:13:02,Completed,352
-938,Powerline,extend out-of-the-box partnerships,2022-03-24 01:46:21,In Progress,448
-939,Pipeline,drive proactive systems,2021-12-21 07:15:49,In Progress,637
-940,Traffic Light,envisioneer strategic action-items,2001-01-22 04:10:30,In Progress,505
-941,Road Construction,orchestrate vertical e-services,2012-09-12 08:56:54,Completed,102
-942,Traffic Light,reintermediate B2B web services,2008-04-23 18:43:16,Completed,299
-943,Traffic Light,target dynamic synergies,2007-10-24 09:23:45,Completed,802
-944,Sewer,synergize enterprise e-markets,2009-12-14 19:17:34,In Progress,600
-945,Pipeline,mesh dynamic users,2017-01-16 03:27:01,Completed,608
-946,Pipeline,optimize distributed interfaces,1999-11-01 12:46:55,Completed,214
-947,Sewer,visualize next-generation eyeballs,2010-07-24 08:32:10,In Progress,514
-948,Sewer,enable 24/365 platforms,2019-06-16 08:52:16,In Progress,918
-949,Road Construction,transform holistic portals,2006-10-12 10:11:17,Not Started,13
-950,Powerline,innovate cross-media platforms,2010-04-13 12:56:17,In Progress,758
-951,Road Construction,transform impactful paradigms,2006-05-17 14:17:02,Completed,865
-952,Traffic Light,whiteboard granular technologies,2009-05-01 04:28:35,Completed,278
-953,Road Construction,matrix out-of-the-box infrastructures,2005-01-12 16:59:38,Not Started,909
-954,Electricity,deliver scalable infrastructures,2024-04-17 03:46:03,In Progress,199
-955,Electricity,implement compelling channels,1999-02-10 08:01:25,Not Started,640
-956,Traffic Light,scale transparent markets,2012-12-16 17:27:56,In Progress,331
-957,Electricity,implement back-end action-items,2001-06-23 19:36:14,Completed,63
-958,Sewer,matrix end-to-end e-services,2015-05-21 18:47:03,Completed,497
-959,Pipeline,transform impactful functionalities,2023-07-10 04:21:08,In Progress,140
-960,Sewer,transition plug-and-play web services,2022-09-26 01:20:15,Completed,377
-961,Road Construction,deploy revolutionary deliverables,2023-08-09 00:13:09,In Progress,528
-962,Road Construction,leverage dot-com initiatives,2003-10-15 17:58:21,In Progress,956
-963,Electricity,streamline efficient methodologies,2003-07-08 00:00:43,Completed,318
-964,Pipeline,benchmark end-to-end methodologies,2004-06-26 13:04:44,In Progress,802
-965,Sewer,implement strategic users,2012-01-29 20:25:43,Not Started,97
-966,Powerline,productize impactful metrics,2015-09-15 02:21:45,In Progress,631
-967,Powerline,enhance leading-edge metrics,2012-11-24 01:00:46,In Progress,676
-968,Powerline,evolve virtual action-items,2009-07-18 15:23:00,In Progress,291
-969,Sewer,evolve revolutionary infomediaries,2021-06-30 16:01:57,In Progress,285
-970,Traffic Light,brand extensible platforms,2004-04-22 13:58:38,Completed,472
-971,Pipeline,visualize viral markets,2023-01-20 02:40:16,Not Started,991
-972,Electricity,grow one-to-one technologies,2022-05-07 11:19:51,In Progress,855
-973,Sewer,synergize clicks-and-mortar relationships,2015-12-25 13:51:40,Completed,450
-974,Road Construction,redefine rich vortals,2008-05-16 02:41:19,Completed,727
-975,Road Construction,monetize out-of-the-box experiences,2018-04-13 13:21:00,Completed,906
-976,Pipeline,e-enable sticky experiences,2008-01-03 06:35:02,In Progress,287
-977,Sewer,iterate out-of-the-box schemas,2023-08-24 20:04:35,Not Started,210
-978,Pipeline,mesh sticky networks,1999-12-08 22:20:45,Not Started,209
-979,Electricity,incentivize e-business users,2017-03-30 17:06:10,In Progress,759
-980,Traffic Light,embrace e-business schemas,2001-03-07 18:13:56,In Progress,857
-981,Traffic Light,leverage frictionless infrastructures,2020-10-27 23:43:47,Completed,882
-982,Sewer,expedite one-to-one partnerships,2018-12-02 23:08:04,Completed,909
-983,Road Construction,e-enable revolutionary technologies,2021-03-31 11:10:36,Not Started,982
-984,Pipeline,innovate innovative ROI,2002-08-27 02:29:08,In Progress,408
-985,Pipeline,grow end-to-end e-services,2022-02-21 20:46:39,In Progress,552
-986,Electricity,enable dynamic e-services,2005-12-02 15:11:53,Completed,806
-987,Road Construction,evolve virtual models,2004-01-11 08:15:11,In Progress,687
-988,Sewer,enable integrated infrastructures,2021-09-19 08:09:23,Completed,61
-989,Sewer,implement mission-critical content,2013-03-01 00:40:58,Completed,851
-990,Electricity,empower interactive deliverables,2016-01-07 13:44:15,Completed,240
-991,Powerline,iterate front-end ROI,2006-06-29 00:45:09,Not Started,261
-992,Powerline,redefine cross-media partnerships,1998-11-21 16:18:51,Not Started,821
-993,Traffic Light,streamline proactive vortals,2000-06-10 10:13:31,In Progress,265
-994,Traffic Light,monetize cross-platform markets,1998-01-01 09:15:21,Not Started,311
-995,Road Construction,incentivize intuitive technologies,2006-07-14 23:19:58,Completed,689
-996,Sewer,reinvent vertical networks,2010-07-13 03:35:28,In Progress,133
-997,Electricity,deploy ubiquitous e-business,2009-02-05 13:01:24,Not Started,393
-998,Sewer,seize innovative portals,2006-11-29 10:25:36,Completed,727
-999,Electricity,morph extensible interfaces,2019-06-10 05:03:39,In Progress,748
-1000,Pipeline,architect extensible solutions,2013-05-06 14:44:45,In Progress,993
+1,Powerline,productize killer models,2021-09-14 20:01:07,Completed,127,649
+2,Sewer,benchmark visionary eyeballs,2017-05-03 19:43:19,Completed,143,892
+3,Road Construction,incubate cutting-edge niches,2010-12-07 01:33:10,In Progress,645,793
+4,Road Construction,engage sticky niches,2015-02-25 05:53:35,In Progress,980,669
+5,Road Construction,streamline extensible e-services,2015-12-26 06:07:36,In Progress,948,189
+6,Sewer,optimize transparent e-tailers,2005-08-26 10:38:22,Not Started,406,794
+7,Sewer,scale vertical schemas,2017-08-13 01:12:04,In Progress,395,95
+8,Road Construction,reinvent holistic communities,2006-08-15 03:27:24,Completed,981,849
+9,Sewer,aggregate end-to-end convergence,2019-07-15 22:06:20,Not Started,916,662
+10,Road Construction,architect extensible users,2017-04-01 02:35:10,In Progress,621,243
+11,Electricity,transition bleeding-edge web services,2004-05-11 11:54:04,Not Started,373,943
+12,Pipeline,orchestrate distributed ROI,2014-01-24 19:34:53,Not Started,817,13
+13,Traffic Light,unleash B2B supply-chains,2016-10-28 00:31:56,Completed,289,326
+14,Electricity,unleash collaborative supply-chains,2015-03-01 19:16:20,Not Started,508,306
+15,Electricity,architect front-end infomediaries,2020-02-07 01:34:07,Completed,277,582
+16,Electricity,generate seamless models,2022-04-03 05:13:09,Completed,749,216
+17,Electricity,empower cross-platform e-business,2000-10-07 06:02:57,Completed,581,322
+18,Road Construction,incentivize B2B action-items,2017-09-10 15:36:34,Completed,736,20
+19,Traffic Light,disintermediate extensible initiatives,1998-11-24 08:43:47,Completed,272,202
+20,Road Construction,deliver out-of-the-box bandwidth,2018-06-24 12:29:13,In Progress,180,631
+21,Traffic Light,target cutting-edge schemas,2010-01-21 09:53:31,In Progress,56,427
+22,Powerline,e-enable out-of-the-box interfaces,2022-04-17 20:59:19,Not Started,763,665
+23,Electricity,morph bleeding-edge synergies,2003-07-06 14:30:01,Not Started,992,578
+24,Road Construction,innovate impactful experiences,2006-03-24 14:17:40,Completed,387,76
+25,Electricity,transition transparent supply-chains,2012-07-06 03:14:50,Completed,76,169
+26,Electricity,evolve B2C methodologies,2014-11-16 01:20:31,In Progress,297,654
+27,Powerline,harness best-of-breed partnerships,2019-01-05 20:42:24,Not Started,734,234
+28,Pipeline,visualize magnetic bandwidth,2001-10-16 21:01:47,Not Started,691,394
+29,Traffic Light,transform global supply-chains,2007-09-18 23:38:11,In Progress,854,754
+30,Powerline,synthesize dot-com initiatives,2007-04-25 18:50:15,Completed,385,753
+31,Pipeline,engage leading-edge e-tailers,2006-03-31 07:29:40,Not Started,469,510
+32,Electricity,mesh web-enabled metrics,2017-03-23 15:19:52,Completed,777,223
+33,Road Construction,enable cross-media models,2021-08-26 04:27:03,Not Started,572,829
+34,Powerline,innovate bleeding-edge architectures,1997-09-06 17:17:37,Not Started,306,714
+35,Sewer,harness bricks-and-clicks e-services,2003-04-27 12:27:25,In Progress,890,996
+36,Road Construction,reintermediate efficient ROI,2012-06-03 16:23:48,Completed,527,641
+37,Traffic Light,utilize sexy interfaces,2012-01-25 17:49:50,Not Started,587,509
+38,Electricity,syndicate end-to-end interfaces,2022-02-27 03:23:57,Not Started,909,583
+39,Sewer,implement real-time infrastructures,2014-10-30 00:29:30,In Progress,671,250
+40,Sewer,incentivize intuitive convergence,2015-05-25 15:58:21,In Progress,842,712
+41,Electricity,utilize proactive action-items,2008-11-26 13:14:50,In Progress,96,38
+42,Road Construction,generate distributed applications,2017-05-22 07:47:35,Completed,371,381
+43,Traffic Light,aggregate dynamic bandwidth,2017-05-07 18:58:35,Not Started,751,816
+44,Electricity,disintermediate frictionless content,2005-07-24 14:24:17,In Progress,842,274
+45,Electricity,iterate vertical bandwidth,2000-08-31 11:27:27,In Progress,1,153
+46,Traffic Light,harness sticky synergies,2009-12-25 16:04:26,In Progress,272,971
+47,Road Construction,synergize web-enabled schemas,2015-11-29 03:53:41,Not Started,61,646
+48,Electricity,maximize efficient infomediaries,2009-10-12 18:57:21,Completed,741,455
+49,Traffic Light,reintermediate cross-platform communities,2023-03-30 01:43:20,Not Started,811,251
+50,Electricity,aggregate proactive architectures,2015-05-16 01:36:02,Not Started,729,977
+51,Sewer,disintermediate leading-edge methodologies,2000-09-03 11:45:29,Completed,199,487
+52,Powerline,expedite synergistic models,2021-07-30 12:44:04,Completed,453,280
+53,Sewer,iterate strategic deliverables,2000-01-16 16:50:33,In Progress,809,754
+54,Sewer,recontextualize visionary web-readiness,1999-04-09 06:30:17,Not Started,121,782
+55,Traffic Light,synergize impactful bandwidth,2023-10-25 00:23:40,Not Started,911,290
+56,Road Construction,benchmark dot-com markets,2023-04-16 13:47:16,In Progress,121,331
+57,Powerline,recontextualize holistic e-markets,2004-05-13 04:00:09,Not Started,915,614
+58,Traffic Light,recontextualize ubiquitous synergies,2000-12-17 03:01:46,In Progress,251,694
+59,Powerline,transition rich e-markets,2019-04-01 15:49:19,In Progress,380,141
+60,Electricity,redefine viral portals,2016-06-27 05:38:59,In Progress,790,15
+61,Pipeline,empower 24/365 applications,1997-11-26 19:03:18,In Progress,423,929
+62,Pipeline,engineer cutting-edge applications,2018-05-20 00:07:09,In Progress,215,29
+63,Road Construction,integrate sexy users,2024-01-20 22:59:10,Not Started,452,98
+64,Powerline,architect clicks-and-mortar users,2014-11-01 01:00:25,In Progress,566,694
+65,Pipeline,incubate 24/365 e-commerce,2020-08-30 05:23:33,In Progress,921,178
+66,Pipeline,deliver interactive technologies,2006-12-12 01:38:07,Completed,342,973
+67,Powerline,streamline ubiquitous infomediaries,2009-08-02 20:57:33,Not Started,421,257
+68,Sewer,reintermediate sexy technologies,2007-02-28 16:38:55,In Progress,309,835
+69,Powerline,iterate leading-edge channels,2017-03-17 16:40:27,Not Started,784,659
+70,Road Construction,seize mission-critical architectures,2002-12-13 19:44:07,Completed,565,836
+71,Road Construction,morph ubiquitous architectures,2008-01-15 13:19:08,Completed,567,459
+72,Sewer,architect bricks-and-clicks platforms,2012-04-04 14:14:05,Completed,468,430
+73,Powerline,target sticky action-items,2008-03-02 10:18:31,Completed,405,881
+74,Powerline,enhance mission-critical technologies,2009-05-11 20:28:03,Completed,680,152
+75,Powerline,implement holistic functionalities,2005-03-18 21:14:10,Completed,632,382
+76,Electricity,redefine intuitive methodologies,2023-04-10 18:11:41,Completed,578,659
+77,Traffic Light,deliver interactive infrastructures,2018-08-28 07:35:11,In Progress,290,314
+78,Electricity,evolve rich portals,2012-01-02 11:16:47,Completed,547,626
+79,Pipeline,generate sticky relationships,2019-07-27 18:46:36,Not Started,770,946
+80,Electricity,transform 24/365 synergies,2003-11-04 09:55:57,Completed,639,416
+81,Road Construction,synthesize magnetic infrastructures,1997-07-29 16:31:22,In Progress,545,884
+82,Powerline,streamline one-to-one models,2003-12-07 11:22:11,Not Started,82,727
+83,Powerline,iterate synergistic functionalities,2019-09-10 22:52:40,In Progress,535,899
+84,Sewer,iterate B2C functionalities,2017-08-10 15:39:13,In Progress,880,111
+85,Sewer,enable world-class partnerships,2015-08-17 12:56:33,Not Started,9,218
+86,Sewer,generate 24/365 partnerships,2003-12-08 20:31:18,Not Started,976,751
+87,Powerline,aggregate interactive mindshare,2006-05-03 01:19:21,Completed,641,395
+88,Pipeline,innovate world-class eyeballs,2007-10-07 13:39:01,Completed,196,706
+89,Road Construction,embrace dynamic e-commerce,2008-02-19 12:03:06,In Progress,818,58
+90,Sewer,deliver viral niches,2003-11-07 21:23:09,Completed,970,326
+91,Powerline,unleash efficient e-commerce,2009-01-30 22:17:26,In Progress,229,167
+92,Electricity,strategize 24/365 vortals,2022-08-08 21:29:58,In Progress,611,890
+93,Pipeline,reinvent leading-edge relationships,2022-05-23 09:23:47,Completed,498,707
+94,Traffic Light,utilize viral ROI,1998-10-14 12:54:18,Not Started,559,107
+95,Road Construction,unleash leading-edge portals,2024-06-25 06:27:34,Completed,700,355
+96,Electricity,visualize B2B e-tailers,2000-08-31 02:24:33,Completed,951,742
+97,Electricity,expedite value-added content,2019-07-23 08:09:10,Not Started,303,784
+98,Traffic Light,implement one-to-one communities,2009-10-08 17:31:17,In Progress,715,525
+99,Electricity,recontextualize dynamic architectures,2004-06-08 13:45:29,Not Started,578,844
+100,Electricity,revolutionize killer metrics,2010-09-05 09:14:07,Completed,469,699
+101,Pipeline,scale 24/7 platforms,2010-05-04 08:30:23,Completed,672,712
+102,Traffic Light,scale innovative niches,2021-01-25 13:47:04,Completed,180,741
+103,Traffic Light,benchmark dynamic metrics,2007-04-18 22:42:24,In Progress,584,13
+104,Sewer,brand proactive web-readiness,2002-03-12 15:01:06,Not Started,37,392
+105,Pipeline,deploy sexy infrastructures,2002-05-03 15:20:58,Not Started,804,858
+106,Traffic Light,leverage clicks-and-mortar e-commerce,2023-03-07 09:36:55,Completed,447,558
+107,Road Construction,orchestrate rich paradigms,2002-07-29 17:33:37,In Progress,407,415
+108,Powerline,utilize leading-edge metrics,2022-02-07 09:20:35,In Progress,111,432
+109,Road Construction,enable turn-key e-business,2012-07-31 22:59:32,Completed,254,257
+110,Sewer,enable intuitive functionalities,2014-07-29 02:09:54,Completed,260,676
+111,Road Construction,whiteboard holistic interfaces,2021-11-17 05:17:14,Not Started,159,936
+112,Sewer,envisioneer 24/7 supply-chains,2022-06-09 21:02:06,In Progress,782,405
+113,Sewer,utilize front-end ROI,2007-11-08 08:48:16,Not Started,203,583
+114,Road Construction,orchestrate rich portals,2003-03-10 16:52:02,In Progress,666,488
+115,Pipeline,morph web-enabled e-commerce,2006-12-07 22:47:39,Completed,847,677
+116,Pipeline,reintermediate innovative channels,2011-03-08 07:32:07,Completed,972,575
+117,Road Construction,enhance strategic systems,2016-10-03 15:41:20,In Progress,333,805
+118,Road Construction,facilitate real-time content,2008-10-06 07:00:33,In Progress,249,448
+119,Road Construction,incubate global interfaces,2019-10-08 23:59:26,Completed,661,962
+120,Pipeline,enable B2C systems,2003-10-11 14:17:23,Not Started,766,361
+121,Sewer,envisioneer wireless markets,2008-05-22 01:15:02,Completed,423,851
+122,Sewer,maximize killer applications,2020-08-28 21:12:25,In Progress,464,464
+123,Road Construction,monetize rich architectures,2023-06-01 13:54:51,Completed,358,718
+124,Powerline,harness magnetic metrics,2003-06-21 04:42:09,Completed,913,334
+125,Road Construction,integrate open-source schemas,2015-06-21 13:55:06,In Progress,82,777
+126,Road Construction,mesh 24/365 infrastructures,2002-02-11 04:09:55,Not Started,390,502
+127,Traffic Light,streamline end-to-end mindshare,2007-12-20 01:57:43,In Progress,946,590
+128,Powerline,deliver dot-com markets,2008-10-27 03:15:31,Completed,531,88
+129,Road Construction,engineer impactful eyeballs,2003-12-06 04:55:27,Completed,572,201
+130,Electricity,monetize transparent experiences,2013-07-23 21:12:05,Not Started,196,480
+131,Road Construction,synergize compelling applications,2021-04-01 07:16:17,Not Started,47,984
+132,Electricity,harness value-added mindshare,2007-10-25 15:01:02,Not Started,355,646
+133,Road Construction,seize web-enabled e-services,2001-06-09 10:45:26,Not Started,865,991
+134,Pipeline,morph virtual methodologies,1998-08-03 10:29:29,Not Started,148,262
+135,Road Construction,enhance transparent bandwidth,2001-02-02 02:03:40,Not Started,339,96
+136,Sewer,reintermediate 24/7 portals,2011-03-18 09:14:03,Completed,143,468
+137,Powerline,envisioneer world-class communities,2010-06-07 07:49:54,Completed,260,212
+138,Traffic Light,visualize extensible ROI,2009-08-03 11:56:34,Completed,171,624
+139,Powerline,synthesize B2B markets,2005-07-11 09:47:11,In Progress,497,204
+140,Electricity,reinvent virtual e-services,2016-12-01 14:44:55,Not Started,183,28
+141,Powerline,incubate synergistic applications,1999-04-20 06:20:45,Not Started,171,867
+142,Pipeline,deploy visionary e-business,2004-06-19 15:32:48,Completed,367,78
+143,Sewer,grow bricks-and-clicks users,1998-10-26 23:03:19,In Progress,609,140
+144,Pipeline,incentivize front-end users,2008-07-29 05:09:06,In Progress,89,196
+145,Sewer,deploy killer methodologies,2008-09-13 02:27:13,In Progress,79,880
+146,Sewer,optimize enterprise communities,1998-12-21 22:24:28,In Progress,824,807
+147,Traffic Light,exploit synergistic systems,2009-02-17 03:51:16,Not Started,349,961
+148,Pipeline,architect 24/365 functionalities,2016-05-13 10:06:49,Completed,676,449
+149,Road Construction,enhance frictionless niches,2007-10-13 16:34:27,Not Started,768,377
+150,Pipeline,generate frictionless e-commerce,1999-10-17 07:53:46,In Progress,331,201
+151,Pipeline,orchestrate seamless applications,2004-03-17 23:13:00,In Progress,39,169
+152,Electricity,strategize vertical schemas,2006-09-15 08:17:37,Completed,979,53
+153,Road Construction,utilize enterprise deliverables,2005-03-01 06:02:40,Completed,605,243
+154,Sewer,productize extensible supply-chains,1997-07-15 19:30:40,Completed,808,727
+155,Pipeline,transition viral schemas,2011-10-12 01:24:28,Completed,65,481
+156,Powerline,enable bricks-and-clicks markets,2012-02-09 19:24:48,In Progress,191,267
+157,Sewer,aggregate distributed convergence,2017-09-09 13:20:25,In Progress,901,580
+158,Electricity,enable 24/365 networks,2020-04-07 00:28:03,In Progress,704,730
+159,Powerline,envisioneer scalable supply-chains,2019-02-27 10:41:16,Completed,194,643
+160,Road Construction,brand innovative experiences,2007-08-09 21:21:23,Not Started,266,338
+161,Pipeline,generate distributed interfaces,1999-10-11 05:27:47,Completed,425,373
+162,Electricity,streamline cross-media experiences,1998-04-16 06:22:52,Completed,981,645
+163,Electricity,synthesize ubiquitous networks,2010-10-27 23:30:30,In Progress,145,153
+164,Electricity,innovate innovative e-commerce,2008-12-31 13:09:29,Not Started,265,432
+165,Sewer,reintermediate front-end eyeballs,2004-08-06 02:43:50,In Progress,809,692
+166,Electricity,enable cutting-edge bandwidth,2014-03-27 16:34:28,Not Started,389,522
+167,Sewer,implement sticky paradigms,2014-10-08 18:22:24,Completed,387,370
+168,Pipeline,grow impactful ROI,1999-11-20 16:09:35,In Progress,335,588
+169,Traffic Light,maximize sticky applications,2010-02-15 11:04:38,In Progress,203,61
+170,Electricity,productize robust partnerships,2018-12-31 18:13:26,In Progress,655,88
+171,Electricity,optimize killer portals,2012-03-26 17:33:41,Not Started,121,6
+172,Pipeline,aggregate intuitive web-readiness,2005-08-04 19:27:29,In Progress,577,640
+173,Road Construction,repurpose strategic schemas,1997-10-06 23:00:27,In Progress,862,309
+174,Powerline,facilitate cutting-edge bandwidth,2010-06-26 10:33:27,In Progress,994,309
+175,Sewer,synergize vertical partnerships,2004-03-12 06:34:33,Completed,905,282
+176,Pipeline,engineer cross-media e-tailers,2017-12-22 23:34:33,In Progress,663,873
+177,Sewer,deliver end-to-end markets,2016-10-22 04:18:13,Completed,879,217
+178,Powerline,reinvent back-end users,2013-04-05 18:27:11,In Progress,761,671
+179,Road Construction,mesh user-centric markets,2002-10-27 05:41:36,Not Started,502,462
+180,Traffic Light,iterate bleeding-edge web services,2021-08-14 19:32:56,Not Started,727,303
+181,Powerline,revolutionize intuitive synergies,2013-07-07 23:58:38,Not Started,193,282
+182,Electricity,enable proactive content,2012-06-08 17:45:09,In Progress,517,453
+183,Traffic Light,iterate proactive interfaces,1999-09-07 21:13:15,Completed,785,312
+184,Pipeline,morph cross-platform vortals,2014-10-08 15:58:43,Not Started,990,974
+185,Powerline,utilize sexy action-items,2024-05-06 06:10:41,Completed,890,330
+186,Electricity,strategize plug-and-play solutions,2002-03-20 05:30:20,Completed,170,229
+187,Road Construction,morph extensible networks,2013-02-10 22:49:31,Not Started,769,173
+188,Sewer,utilize strategic architectures,2016-05-11 03:58:32,Not Started,267,346
+189,Traffic Light,orchestrate dot-com communities,2019-11-10 00:59:40,In Progress,350,9
+190,Traffic Light,syndicate customized mindshare,2022-03-08 06:34:34,Completed,703,620
+191,Electricity,matrix impactful infrastructures,2000-05-06 15:45:26,Not Started,734,689
+192,Pipeline,syndicate transparent metrics,2008-09-22 04:17:40,In Progress,107,234
+193,Traffic Light,transform strategic functionalities,2021-09-18 01:47:08,Completed,999,800
+194,Sewer,expedite mission-critical web-readiness,2016-01-10 23:35:50,Not Started,490,821
+195,Pipeline,unleash integrated architectures,2001-10-22 14:18:23,Not Started,352,393
+196,Sewer,integrate sexy markets,2012-06-15 08:45:24,In Progress,757,577
+197,Pipeline,visualize 24/7 ROI,2004-09-30 18:28:13,In Progress,674,501
+198,Electricity,brand front-end architectures,2019-09-02 12:27:20,Completed,948,115
+199,Sewer,streamline interactive channels,2023-01-19 00:12:59,Not Started,742,465
+200,Road Construction,expedite extensible infomediaries,2015-07-21 10:04:35,Completed,433,884
+201,Sewer,envisioneer value-added bandwidth,2008-08-28 19:57:23,Completed,780,626
+202,Powerline,enhance strategic models,2000-08-14 10:35:42,In Progress,280,649
+203,Traffic Light,incentivize strategic web-readiness,2020-11-18 00:37:45,Completed,244,656
+204,Pipeline,reinvent visionary communities,2002-01-06 00:27:55,Not Started,674,757
+205,Road Construction,synthesize virtual methodologies,2015-10-21 02:29:03,Completed,895,291
+206,Sewer,generate 24/7 methodologies,2011-07-26 20:08:05,In Progress,561,968
+207,Traffic Light,productize ubiquitous schemas,2024-02-08 01:14:58,Completed,342,576
+208,Traffic Light,disintermediate integrated networks,2004-10-13 05:34:52,Not Started,796,90
+209,Electricity,transform scalable relationships,2012-02-15 07:56:45,Not Started,47,302
+210,Traffic Light,iterate strategic solutions,2016-02-25 14:04:09,Completed,17,9
+211,Road Construction,grow out-of-the-box models,2004-09-07 16:33:26,Not Started,102,747
+212,Sewer,strategize intuitive schemas,2018-08-14 02:39:35,Not Started,49,353
+213,Electricity,innovate wireless portals,2019-06-28 06:04:08,In Progress,848,606
+214,Pipeline,integrate compelling markets,2006-05-09 04:51:05,In Progress,849,679
+215,Powerline,revolutionize one-to-one e-commerce,2018-07-22 03:55:41,Not Started,723,523
+216,Traffic Light,synergize transparent bandwidth,2002-04-24 06:29:32,In Progress,349,562
+217,Powerline,iterate holistic communities,2011-09-06 14:27:42,In Progress,102,120
+218,Traffic Light,grow killer bandwidth,2006-05-27 06:31:35,Not Started,619,110
+219,Road Construction,maximize collaborative solutions,2020-06-10 01:37:46,In Progress,386,828
+220,Traffic Light,brand leading-edge content,2013-08-19 15:06:19,Not Started,328,595
+221,Pipeline,morph web-enabled vortals,2008-03-26 22:29:07,In Progress,153,679
+222,Road Construction,drive user-centric channels,2015-10-20 17:13:22,Not Started,835,752
+223,Electricity,matrix proactive users,2019-03-21 09:24:05,In Progress,911,769
+224,Sewer,drive back-end models,2003-07-03 10:54:42,In Progress,962,434
+225,Pipeline,enable frictionless systems,2015-08-28 23:08:13,In Progress,748,294
+226,Electricity,matrix real-time infrastructures,2013-01-25 13:07:09,Completed,969,115
+227,Sewer,synthesize dot-com portals,2017-03-04 12:14:38,Completed,741,935
+228,Sewer,seize integrated communities,2006-07-16 00:25:36,In Progress,493,781
+229,Electricity,synergize clicks-and-mortar portals,2004-01-11 03:52:55,In Progress,525,721
+230,Traffic Light,e-enable holistic partnerships,2016-04-17 21:14:01,Not Started,583,152
+231,Sewer,harness one-to-one synergies,2000-04-04 20:29:43,Not Started,881,654
+232,Sewer,maximize dot-com e-commerce,2017-11-21 02:06:15,Completed,639,519
+233,Pipeline,repurpose cross-media functionalities,1998-08-29 01:43:39,In Progress,32,832
+234,Powerline,orchestrate ubiquitous ROI,2009-01-23 05:09:26,Not Started,762,685
+235,Road Construction,disintermediate plug-and-play technologies,2010-10-17 14:49:54,In Progress,149,905
+236,Sewer,unleash virtual e-business,2001-04-05 02:34:14,Completed,437,461
+237,Road Construction,morph integrated channels,2019-07-04 23:38:17,Completed,998,216
+238,Traffic Light,enhance visionary experiences,1999-05-07 03:34:49,Not Started,81,813
+239,Road Construction,innovate cross-media platforms,2007-06-17 18:40:13,In Progress,643,912
+240,Road Construction,seize web-enabled markets,1999-06-06 12:47:25,Not Started,168,948
+241,Powerline,incubate viral deliverables,2008-06-03 14:45:09,In Progress,476,46
+242,Road Construction,scale wireless applications,2020-04-10 08:16:17,Not Started,748,584
+243,Powerline,drive bricks-and-clicks communities,2020-01-03 22:30:18,In Progress,586,48
+244,Traffic Light,strategize scalable partnerships,2012-09-21 16:45:37,Completed,672,852
+245,Traffic Light,productize ubiquitous methodologies,2010-07-14 02:52:19,In Progress,953,764
+246,Powerline,generate bricks-and-clicks partnerships,2017-06-30 19:35:41,In Progress,933,103
+247,Road Construction,matrix killer deliverables,2022-06-04 23:10:05,Not Started,246,140
+248,Pipeline,facilitate 24/365 channels,2018-03-24 11:49:02,In Progress,271,885
+249,Sewer,disintermediate clicks-and-mortar schemas,2012-11-09 19:07:30,Completed,53,422
+250,Road Construction,benchmark 24/365 technologies,2008-12-24 08:06:08,In Progress,612,631
+251,Traffic Light,scale extensible initiatives,2002-06-05 22:46:11,Not Started,264,620
+252,Road Construction,reinvent cutting-edge content,2006-05-23 03:42:20,In Progress,241,786
+253,Traffic Light,iterate extensible metrics,2008-01-20 13:30:31,Completed,641,489
+254,Powerline,utilize granular methodologies,1997-10-27 04:34:27,Completed,691,557
+255,Pipeline,empower next-generation mindshare,2018-12-11 06:11:49,Not Started,835,573
+256,Powerline,matrix frictionless vortals,2023-02-28 03:34:51,Not Started,383,593
+257,Powerline,drive best-of-breed platforms,2005-08-20 14:15:38,Completed,617,464
+258,Traffic Light,engineer dynamic bandwidth,2002-09-18 16:50:19,Not Started,93,89
+259,Road Construction,benchmark 24/7 infomediaries,2005-05-15 01:58:32,Completed,1000,121
+260,Sewer,syndicate cutting-edge bandwidth,1999-10-26 09:35:35,Completed,515,654
+261,Traffic Light,enhance leading-edge systems,1999-10-26 09:44:20,Completed,832,375
+262,Sewer,synergize end-to-end niches,2001-05-18 18:27:50,Not Started,929,451
+263,Powerline,utilize impactful networks,2019-09-22 07:10:10,Completed,941,444
+264,Traffic Light,optimize cross-platform methodologies,2015-12-31 21:10:11,In Progress,316,556
+265,Powerline,utilize B2B partnerships,2013-03-14 00:00:14,Not Started,667,427
+266,Traffic Light,empower clicks-and-mortar solutions,2008-04-11 08:07:49,Completed,675,631
+267,Pipeline,reintermediate killer web services,2003-05-01 05:30:05,In Progress,198,701
+268,Sewer,engage rich schemas,2000-07-06 13:17:55,In Progress,152,439
+269,Traffic Light,facilitate killer convergence,2017-07-24 22:22:25,Completed,541,623
+270,Road Construction,maximize extensible communities,2009-12-27 15:19:58,Not Started,439,495
+271,Pipeline,visualize killer vortals,2000-05-16 22:23:19,Completed,612,555
+272,Traffic Light,aggregate interactive web services,2017-05-21 09:44:04,In Progress,888,158
+273,Traffic Light,revolutionize magnetic networks,2013-07-20 03:01:17,In Progress,309,799
+274,Traffic Light,facilitate end-to-end vortals,2009-04-13 15:34:01,Completed,957,94
+275,Powerline,empower rich bandwidth,2024-06-11 13:53:32,Completed,446,536
+276,Sewer,leverage dynamic partnerships,2017-03-26 19:09:37,In Progress,453,746
+277,Road Construction,revolutionize proactive partnerships,2001-03-27 01:48:17,In Progress,28,171
+278,Road Construction,transition leading-edge architectures,2023-03-10 03:54:13,In Progress,939,333
+279,Pipeline,reinvent seamless convergence,2016-02-29 03:33:51,Completed,856,487
+280,Powerline,leverage intuitive synergies,2023-03-02 14:47:39,Completed,633,401
+281,Road Construction,generate granular supply-chains,2017-09-27 00:47:50,In Progress,741,978
+282,Sewer,revolutionize dot-com solutions,2010-11-13 12:03:33,In Progress,316,133
+283,Electricity,scale frictionless vortals,2002-05-14 14:34:30,Completed,429,97
+284,Powerline,repurpose 24/365 users,2013-11-30 10:03:54,Not Started,847,439
+285,Traffic Light,incubate plug-and-play ROI,2002-03-10 22:46:27,Completed,221,635
+286,Electricity,engineer customized markets,2005-02-28 20:10:19,In Progress,814,604
+287,Traffic Light,expedite strategic e-tailers,2018-08-28 03:15:19,Not Started,835,342
+288,Powerline,harness virtual methodologies,1997-08-14 04:52:27,Completed,71,389
+289,Electricity,streamline killer systems,2018-11-12 04:59:41,In Progress,117,189
+290,Traffic Light,envisioneer B2C markets,2001-07-14 19:47:52,Completed,815,699
+291,Electricity,morph open-source solutions,2013-05-09 08:02:20,Not Started,412,473
+292,Sewer,benchmark B2C e-services,2013-01-29 12:08:09,Not Started,11,186
+293,Powerline,iterate dynamic functionalities,1999-10-31 18:21:21,Not Started,502,215
+294,Traffic Light,implement 24/365 technologies,2015-10-24 10:43:41,Not Started,586,613
+295,Traffic Light,synthesize extensible content,2019-09-11 17:31:49,In Progress,38,18
+296,Road Construction,streamline plug-and-play e-tailers,2017-05-28 19:48:10,In Progress,5,709
+297,Electricity,redefine sexy users,2000-08-08 02:41:14,Not Started,789,718
+298,Sewer,matrix one-to-one portals,2003-06-25 10:18:59,Not Started,448,911
+299,Electricity,revolutionize customized supply-chains,2008-04-09 01:29:36,In Progress,184,250
+300,Pipeline,morph vertical bandwidth,1998-12-06 10:33:07,Completed,653,532
+301,Road Construction,orchestrate cross-media networks,2017-03-25 07:37:06,Completed,580,264
+302,Powerline,unleash holistic metrics,2022-09-24 22:33:12,Not Started,614,209
+303,Traffic Light,e-enable transparent schemas,2007-11-03 11:48:02,Completed,612,639
+304,Traffic Light,embrace integrated solutions,2023-08-06 21:45:05,Not Started,663,374
+305,Pipeline,iterate sticky channels,2009-08-11 21:48:47,In Progress,599,673
+306,Powerline,optimize B2B partnerships,2017-09-08 03:13:46,In Progress,228,550
+307,Road Construction,disintermediate B2C experiences,2016-06-18 14:18:08,In Progress,759,857
+308,Powerline,whiteboard 24/7 mindshare,2007-12-06 19:05:58,Completed,224,708
+309,Road Construction,synthesize customized applications,2011-11-17 10:20:03,In Progress,220,600
+310,Pipeline,architect end-to-end metrics,2010-10-04 01:38:41,Completed,610,590
+311,Powerline,reintermediate 24/7 ROI,2004-09-10 13:56:53,Completed,186,121
+312,Sewer,repurpose out-of-the-box channels,2017-04-10 19:06:09,In Progress,156,793
+313,Road Construction,reintermediate killer infomediaries,2006-02-14 17:14:29,In Progress,393,360
+314,Traffic Light,integrate web-enabled networks,2012-05-06 03:58:09,Completed,16,740
+315,Traffic Light,monetize synergistic infrastructures,2010-06-14 00:21:46,In Progress,914,838
+316,Powerline,reintermediate ubiquitous networks,2014-06-22 03:32:33,Not Started,906,862
+317,Pipeline,evolve vertical web-readiness,2021-04-24 11:27:42,Completed,923,759
+318,Traffic Light,deploy mission-critical paradigms,2010-09-16 20:20:33,In Progress,707,983
+319,Sewer,mesh dot-com relationships,2005-10-26 14:14:05,In Progress,611,818
+320,Traffic Light,optimize cross-media systems,2023-08-03 10:27:29,Not Started,721,74
+321,Traffic Light,integrate frictionless mindshare,2019-01-23 23:33:34,Completed,389,971
+322,Electricity,harness global ROI,2003-11-13 19:38:17,Completed,282,142
+323,Electricity,synergize 24/365 e-commerce,2016-10-02 04:47:19,In Progress,74,268
+324,Traffic Light,generate virtual models,2020-04-12 07:34:43,In Progress,623,162
+325,Sewer,optimize web-enabled systems,2018-08-26 15:22:09,Not Started,369,613
+326,Traffic Light,exploit virtual portals,2007-03-06 13:08:53,In Progress,1000,343
+327,Traffic Light,redefine plug-and-play web services,2021-11-25 06:21:19,In Progress,999,312
+328,Electricity,deliver mission-critical convergence,2010-11-03 05:43:55,In Progress,563,624
+329,Road Construction,reintermediate dynamic networks,2005-04-12 23:13:02,Not Started,432,213
+330,Pipeline,target viral supply-chains,2017-01-09 09:37:20,Completed,31,603
+331,Powerline,incentivize dot-com niches,2020-10-23 06:26:36,In Progress,938,944
+332,Powerline,cultivate dynamic web services,2009-12-13 11:30:14,Not Started,301,132
+333,Road Construction,syndicate magnetic metrics,1999-05-17 06:02:35,Not Started,375,780
+334,Powerline,streamline viral e-tailers,2010-07-01 02:08:11,Not Started,985,863
+335,Powerline,streamline collaborative action-items,2022-09-22 07:54:11,In Progress,142,206
+336,Sewer,aggregate best-of-breed paradigms,2018-09-02 17:20:18,In Progress,637,778
+337,Pipeline,iterate revolutionary models,2010-01-02 02:22:28,Completed,492,136
+338,Traffic Light,reintermediate value-added applications,1999-06-23 07:55:19,Not Started,724,814
+339,Traffic Light,envisioneer rich platforms,2021-07-26 06:48:47,Not Started,590,708
+340,Powerline,seize back-end experiences,2014-12-10 18:22:00,In Progress,253,216
+341,Road Construction,target next-generation experiences,1998-03-17 07:44:02,Completed,66,304
+342,Electricity,strategize customized e-tailers,2009-03-08 00:24:07,In Progress,41,67
+343,Electricity,implement B2B content,2006-09-10 01:38:16,In Progress,503,324
+344,Traffic Light,disintermediate plug-and-play metrics,2003-07-27 21:41:06,Completed,114,216
+345,Traffic Light,leverage open-source mindshare,2005-10-23 03:47:00,In Progress,303,884
+346,Powerline,recontextualize proactive experiences,2004-03-12 12:33:31,Completed,370,435
+347,Traffic Light,brand best-of-breed channels,2011-08-16 23:44:39,In Progress,608,469
+348,Electricity,scale plug-and-play ROI,2014-04-24 07:52:46,Not Started,692,87
+349,Pipeline,maximize world-class solutions,2005-03-06 00:40:05,Not Started,36,775
+350,Sewer,architect rich portals,2012-03-19 02:05:00,In Progress,390,738
+351,Pipeline,maximize intuitive vortals,2001-12-10 10:45:23,In Progress,371,67
+352,Powerline,implement back-end initiatives,2013-01-07 11:35:54,In Progress,658,928
+353,Traffic Light,implement cross-platform platforms,2018-03-08 14:54:09,Not Started,425,904
+354,Road Construction,strategize virtual networks,2020-09-12 16:16:07,In Progress,980,51
+355,Traffic Light,expedite plug-and-play web-readiness,2023-06-03 06:45:00,Completed,901,203
+356,Road Construction,leverage dot-com niches,1998-08-12 22:27:34,In Progress,903,536
+357,Sewer,whiteboard cutting-edge vortals,2016-08-29 02:15:56,Not Started,704,147
+358,Electricity,iterate enterprise interfaces,2000-08-05 20:17:48,Not Started,130,576
+359,Traffic Light,reinvent vertical schemas,2018-05-20 14:44:59,Completed,241,341
+360,Sewer,architect leading-edge convergence,2022-08-17 07:20:12,Not Started,501,296
+361,Electricity,unleash compelling experiences,2004-07-10 20:00:42,Completed,516,501
+362,Sewer,whiteboard customized paradigms,2002-08-12 08:59:58,Completed,626,720
+363,Electricity,orchestrate seamless e-tailers,2019-01-05 08:43:55,In Progress,665,877
+364,Electricity,deploy magnetic models,2019-12-18 20:42:03,Not Started,378,716
+365,Pipeline,benchmark dot-com convergence,2010-06-06 08:00:23,In Progress,873,698
+366,Electricity,cultivate open-source platforms,2011-07-20 11:55:37,Completed,823,594
+367,Road Construction,e-enable synergistic metrics,2005-11-10 21:47:21,Not Started,863,440
+368,Pipeline,empower dot-com vortals,2012-12-05 19:02:32,In Progress,168,827
+369,Pipeline,optimize cross-platform e-services,2010-01-15 01:22:32,Not Started,546,556
+370,Traffic Light,integrate impactful niches,2002-11-07 23:07:34,Completed,260,145
+371,Powerline,synthesize mission-critical paradigms,1997-10-18 18:09:49,In Progress,57,131
+372,Road Construction,generate out-of-the-box convergence,1999-01-17 08:41:22,Completed,745,126
+373,Electricity,envisioneer innovative paradigms,2021-05-27 09:54:56,Completed,624,571
+374,Electricity,evolve 24/365 systems,2010-11-06 19:50:22,In Progress,547,552
+375,Sewer,integrate proactive infomediaries,2005-02-04 11:21:55,In Progress,352,285
+376,Pipeline,extend revolutionary eyeballs,2019-05-29 09:33:56,Completed,146,32
+377,Road Construction,incubate next-generation technologies,2010-06-22 20:55:25,In Progress,872,1
+378,Sewer,engineer proactive metrics,2002-11-02 14:57:19,Not Started,130,945
+379,Electricity,drive e-business relationships,2022-11-19 20:54:45,Completed,315,326
+380,Powerline,monetize best-of-breed communities,2007-10-30 20:32:37,Not Started,269,866
+381,Pipeline,seize leading-edge paradigms,2023-04-23 07:32:41,In Progress,656,974
+382,Pipeline,deploy value-added niches,2009-12-31 01:31:49,In Progress,15,183
+383,Electricity,mesh one-to-one interfaces,2003-07-09 10:30:33,Completed,258,104
+384,Traffic Light,disintermediate robust paradigms,1998-05-16 13:04:10,Completed,202,462
+385,Pipeline,engineer sticky applications,2013-10-13 14:23:13,Completed,900,581
+386,Powerline,grow front-end applications,2008-04-24 17:38:50,In Progress,198,313
+387,Road Construction,grow wireless markets,2006-01-25 01:33:26,Completed,536,592
+388,Electricity,transform extensible relationships,2013-11-11 08:32:00,In Progress,632,944
+389,Traffic Light,disintermediate granular schemas,2020-10-13 12:49:45,Not Started,61,747
+390,Powerline,brand virtual relationships,1998-05-21 10:09:36,Completed,157,388
+391,Sewer,repurpose intuitive ROI,2012-11-07 18:17:10,In Progress,708,674
+392,Pipeline,generate cross-media networks,2003-09-21 15:35:02,In Progress,648,513
+393,Pipeline,envisioneer bleeding-edge mindshare,2020-12-24 23:04:00,Not Started,676,929
+394,Sewer,e-enable dot-com channels,2023-06-05 20:20:52,Completed,53,675
+395,Powerline,whiteboard magnetic deliverables,2000-08-06 06:07:01,Not Started,51,323
+396,Powerline,seize wireless platforms,2021-07-13 22:25:42,In Progress,836,774
+397,Pipeline,transform leading-edge bandwidth,2016-04-06 09:40:39,In Progress,808,356
+398,Electricity,expedite web-enabled experiences,2001-02-09 23:38:13,Not Started,977,44
+399,Sewer,innovate turn-key relationships,2015-12-15 17:04:36,Completed,543,307
+400,Powerline,exploit visionary e-services,2011-08-13 20:22:45,Completed,271,914
+401,Sewer,expedite efficient vortals,2008-02-22 15:41:46,Not Started,783,293
+402,Road Construction,embrace compelling methodologies,2012-05-04 01:17:09,In Progress,464,42
+403,Electricity,mesh scalable web-readiness,2017-06-04 07:17:08,Not Started,406,41
+404,Traffic Light,reinvent B2C experiences,2010-05-11 01:37:30,In Progress,447,223
+405,Traffic Light,whiteboard back-end ROI,2000-10-21 04:32:01,Not Started,135,643
+406,Electricity,strategize front-end relationships,2021-05-07 15:19:51,In Progress,933,203
+407,Pipeline,mesh magnetic models,2015-10-28 15:14:57,Not Started,82,80
+408,Electricity,grow plug-and-play solutions,2016-12-09 07:56:59,In Progress,797,965
+409,Electricity,streamline enterprise technologies,2011-03-23 12:24:22,In Progress,48,477
+410,Pipeline,transition back-end ROI,2018-02-08 15:24:07,Completed,435,419
+411,Pipeline,incubate leading-edge ROI,2008-09-22 06:46:01,In Progress,999,523
+412,Road Construction,implement turn-key e-services,2016-10-05 11:20:30,Not Started,685,731
+413,Sewer,deliver bricks-and-clicks synergies,2007-04-24 20:22:09,In Progress,791,989
+414,Traffic Light,benchmark back-end relationships,2007-11-03 22:12:25,Completed,666,801
+415,Sewer,maximize B2B methodologies,2011-10-05 17:17:23,Not Started,359,52
+416,Sewer,envisioneer back-end mindshare,2005-10-13 06:03:50,In Progress,542,336
+417,Traffic Light,enhance cross-media paradigms,2013-08-01 22:14:32,In Progress,826,154
+418,Pipeline,drive visionary architectures,2000-04-10 12:37:21,Completed,611,913
+419,Powerline,deliver bleeding-edge relationships,2017-02-21 19:08:32,Completed,454,172
+420,Road Construction,incentivize front-end eyeballs,1999-03-29 15:05:05,Not Started,641,98
+421,Road Construction,cultivate interactive e-services,2003-11-01 10:46:09,Completed,92,14
+422,Traffic Light,unleash virtual portals,2015-03-19 06:13:02,In Progress,554,831
+423,Pipeline,e-enable leading-edge functionalities,2005-12-18 10:24:22,Not Started,63,706
+424,Traffic Light,implement out-of-the-box methodologies,2023-11-01 15:37:28,In Progress,276,44
+425,Electricity,maximize ubiquitous relationships,2010-01-16 17:34:33,In Progress,18,541
+426,Powerline,whiteboard 24/365 models,2000-12-11 00:23:00,Not Started,672,965
+427,Electricity,repurpose strategic schemas,2004-11-18 18:37:23,Not Started,767,818
+428,Traffic Light,matrix collaborative bandwidth,2022-05-24 14:22:54,Completed,475,352
+429,Powerline,reintermediate turn-key convergence,2023-06-02 04:06:49,In Progress,53,306
+430,Pipeline,whiteboard transparent web services,2019-06-07 22:20:39,Completed,63,154
+431,Electricity,engineer cutting-edge e-markets,2024-02-08 17:22:45,Completed,788,621
+432,Traffic Light,drive compelling bandwidth,2020-03-03 12:07:03,Completed,25,299
+433,Powerline,disintermediate proactive deliverables,2003-07-17 14:16:51,Completed,504,639
+434,Traffic Light,generate scalable markets,2001-10-05 07:13:22,Completed,555,999
+435,Pipeline,enhance open-source users,1999-11-11 18:21:43,In Progress,273,432
+436,Powerline,drive sexy mindshare,2009-06-27 11:17:42,Completed,437,922
+437,Powerline,syndicate transparent initiatives,2010-10-10 14:32:35,In Progress,198,25
+438,Road Construction,expedite one-to-one convergence,2018-09-09 22:05:57,In Progress,949,906
+439,Pipeline,enable enterprise functionalities,2022-10-29 13:21:47,In Progress,721,509
+440,Pipeline,repurpose user-centric eyeballs,2016-07-28 05:58:14,Completed,818,131
+441,Powerline,unleash scalable bandwidth,2009-05-13 10:01:59,In Progress,476,406
+442,Pipeline,optimize transparent ROI,2017-10-20 09:44:40,In Progress,576,171
+443,Electricity,morph strategic experiences,2010-03-31 00:15:15,In Progress,968,647
+444,Powerline,benchmark visionary e-tailers,1997-09-29 08:36:34,Completed,60,303
+445,Traffic Light,whiteboard one-to-one paradigms,2003-06-27 23:52:45,Not Started,551,931
+446,Pipeline,seize rich methodologies,2009-02-25 19:34:06,Completed,856,254
+447,Pipeline,morph strategic e-commerce,2012-05-23 01:15:26,Not Started,376,994
+448,Road Construction,synthesize granular platforms,2005-03-05 16:20:26,Completed,674,632
+449,Pipeline,seize cutting-edge content,2005-11-29 16:00:19,In Progress,105,38
+450,Traffic Light,brand back-end infomediaries,2009-10-03 17:40:47,In Progress,735,707
+451,Road Construction,reintermediate best-of-breed e-services,1999-10-02 16:13:02,In Progress,923,434
+452,Sewer,maximize wireless mindshare,2021-04-06 18:04:27,Not Started,849,574
+453,Road Construction,strategize integrated experiences,2006-04-18 20:25:00,Completed,28,783
+454,Pipeline,disintermediate integrated technologies,2018-03-30 22:56:52,Not Started,846,285
+455,Pipeline,deploy visionary portals,2023-04-15 13:56:07,In Progress,212,776
+456,Powerline,aggregate bleeding-edge deliverables,2019-12-30 10:18:49,Not Started,770,769
+457,Pipeline,redefine distributed interfaces,2005-12-19 19:45:11,Completed,661,626
+458,Pipeline,incubate leading-edge e-business,2023-01-13 20:05:28,Not Started,776,685
+459,Powerline,cultivate efficient e-markets,1998-04-19 08:03:56,Completed,883,142
+460,Road Construction,reintermediate sticky initiatives,2001-10-26 17:28:02,Not Started,576,274
+461,Sewer,synergize synergistic partnerships,2021-01-10 11:33:02,Completed,670,176
+462,Sewer,architect virtual e-services,2006-03-03 03:06:12,In Progress,444,414
+463,Traffic Light,reintermediate visionary niches,2015-10-26 04:45:11,Completed,82,385
+464,Traffic Light,embrace leading-edge vortals,2015-06-28 03:58:41,Completed,941,467
+465,Sewer,disintermediate B2B infomediaries,2018-06-15 16:45:26,Completed,143,829
+466,Sewer,repurpose robust mindshare,2013-12-02 10:45:42,Not Started,219,984
+467,Electricity,visualize value-added functionalities,2001-11-04 13:14:59,Not Started,144,243
+468,Traffic Light,deliver integrated supply-chains,2020-07-27 06:32:01,Not Started,970,790
+469,Pipeline,deploy magnetic convergence,2002-03-02 03:44:51,Completed,645,702
+470,Pipeline,enhance extensible systems,2008-11-23 12:59:29,In Progress,784,767
+471,Pipeline,grow cutting-edge mindshare,2023-08-13 08:48:31,Not Started,63,519
+472,Sewer,aggregate best-of-breed markets,2012-11-26 19:06:42,Not Started,924,87
+473,Road Construction,drive 24/7 web services,1997-12-31 11:19:53,Not Started,998,191
+474,Traffic Light,disintermediate out-of-the-box infrastructures,2001-06-30 09:27:16,Completed,95,595
+475,Electricity,reintermediate back-end web services,2013-12-01 06:46:02,Not Started,651,453
+476,Traffic Light,scale holistic markets,2016-02-16 04:00:55,Not Started,919,911
+477,Powerline,enhance synergistic e-services,2007-07-17 22:59:42,In Progress,502,108
+478,Pipeline,mesh cutting-edge niches,2004-04-29 19:23:41,In Progress,167,574
+479,Pipeline,maximize leading-edge functionalities,2012-10-06 11:56:19,In Progress,865,854
+480,Road Construction,architect intuitive experiences,2024-02-12 19:35:17,Not Started,148,190
+481,Road Construction,whiteboard visionary e-services,2020-09-16 09:55:55,In Progress,155,567
+482,Traffic Light,envisioneer next-generation architectures,2021-04-02 02:07:36,In Progress,742,714
+483,Road Construction,e-enable rich systems,2007-06-19 16:02:48,Not Started,272,975
+484,Powerline,morph viral ROI,2004-03-22 03:22:07,Completed,173,938
+485,Electricity,scale seamless niches,2000-11-30 21:03:49,In Progress,541,858
+486,Road Construction,incentivize global partnerships,2018-01-05 03:06:44,Not Started,699,517
+487,Powerline,aggregate B2C models,2003-06-21 05:52:45,Not Started,609,843
+488,Powerline,leverage robust users,2011-08-04 01:52:21,In Progress,55,254
+489,Traffic Light,architect B2B models,2017-03-29 02:33:03,Not Started,479,839
+490,Traffic Light,expedite ubiquitous communities,2006-11-04 03:37:05,In Progress,916,970
+491,Electricity,aggregate visionary initiatives,2002-03-31 00:05:49,Not Started,562,802
+492,Traffic Light,engage impactful ROI,2018-03-22 01:29:54,In Progress,283,838
+493,Pipeline,transition revolutionary portals,2013-01-09 15:33:55,In Progress,161,40
+494,Sewer,synergize innovative methodologies,2003-10-19 14:16:19,Completed,809,751
+495,Electricity,synthesize impactful architectures,2006-07-02 11:15:23,In Progress,976,378
+496,Road Construction,recontextualize end-to-end interfaces,2017-03-10 09:01:23,Completed,739,554
+497,Sewer,architect bricks-and-clicks models,2023-04-23 14:25:04,Completed,897,824
+498,Sewer,enable rich vortals,2006-03-08 21:45:21,Not Started,710,872
+499,Road Construction,incentivize strategic solutions,2024-01-05 07:08:11,Not Started,390,563
+500,Sewer,drive cross-platform supply-chains,2013-02-13 15:02:19,Not Started,192,679
+501,Road Construction,implement dynamic schemas,2001-03-19 02:31:19,Completed,29,733
+502,Sewer,leverage next-generation supply-chains,2002-07-08 02:39:47,Completed,965,61
+503,Sewer,envisioneer clicks-and-mortar users,2003-07-10 01:15:38,In Progress,321,127
+504,Road Construction,revolutionize dot-com schemas,2012-04-27 11:42:27,In Progress,870,436
+505,Road Construction,recontextualize end-to-end bandwidth,2012-12-22 21:28:43,Not Started,210,405
+506,Electricity,e-enable intuitive web services,2019-02-17 23:27:23,In Progress,671,906
+507,Pipeline,leverage web-enabled infrastructures,2005-06-17 02:28:02,Completed,449,211
+508,Traffic Light,aggregate real-time applications,2016-01-13 02:36:26,Completed,423,158
+509,Electricity,engineer dynamic infomediaries,2010-07-03 15:08:00,In Progress,534,126
+510,Traffic Light,expedite bleeding-edge architectures,2002-12-06 04:53:51,Not Started,239,545
+511,Road Construction,seize vertical partnerships,2018-07-25 08:59:15,Not Started,506,91
+512,Pipeline,innovate distributed synergies,2018-09-01 18:39:21,Completed,457,357
+513,Sewer,reintermediate best-of-breed e-commerce,2004-03-28 14:28:15,Completed,765,459
+514,Sewer,enable bricks-and-clicks interfaces,2016-11-26 13:31:19,In Progress,310,659
+515,Powerline,implement scalable e-commerce,2012-06-14 04:21:47,In Progress,99,774
+516,Road Construction,orchestrate proactive supply-chains,2021-10-26 21:17:57,In Progress,244,410
+517,Pipeline,reintermediate web-enabled channels,2023-01-08 12:04:49,Completed,532,646
+518,Pipeline,aggregate magnetic infomediaries,2013-04-29 03:36:01,Not Started,132,498
+519,Pipeline,engage vertical models,2010-02-11 01:45:24,Completed,908,855
+520,Powerline,redefine leading-edge synergies,2001-07-08 21:50:55,Completed,560,630
+521,Electricity,aggregate efficient e-commerce,2004-08-23 05:22:44,In Progress,187,341
+522,Powerline,innovate frictionless infrastructures,2022-02-15 10:26:32,In Progress,56,96
+523,Electricity,drive robust users,2006-07-11 01:28:33,In Progress,381,1000
+524,Pipeline,e-enable web-enabled partnerships,2010-07-25 22:57:49,In Progress,293,268
+525,Sewer,strategize leading-edge paradigms,2008-05-10 03:30:55,Not Started,563,330
+526,Powerline,matrix user-centric metrics,2016-06-23 17:02:31,Completed,172,479
+527,Road Construction,target value-added content,2007-02-23 21:39:58,Completed,294,938
+528,Powerline,whiteboard leading-edge experiences,1999-07-02 05:34:01,In Progress,787,594
+529,Road Construction,iterate 24/7 users,2000-08-25 23:41:08,Completed,47,250
+530,Powerline,engineer world-class e-commerce,2013-10-31 16:04:17,In Progress,516,205
+531,Electricity,benchmark plug-and-play e-commerce,2018-11-04 08:36:59,Not Started,939,263
+532,Pipeline,brand value-added portals,2014-05-03 21:41:47,In Progress,540,936
+533,Road Construction,aggregate B2C interfaces,2017-12-19 14:18:01,In Progress,747,716
+534,Powerline,utilize mission-critical e-tailers,2010-03-19 15:32:21,Not Started,317,622
+535,Electricity,cultivate e-business channels,2023-07-27 22:27:23,In Progress,990,933
+536,Electricity,leverage plug-and-play paradigms,2018-07-04 04:52:27,Completed,5,879
+537,Road Construction,productize user-centric experiences,2023-08-02 15:05:16,Completed,72,249
+538,Powerline,strategize collaborative platforms,2022-01-18 05:47:18,In Progress,436,840
+539,Sewer,reintermediate bleeding-edge architectures,2001-06-25 02:25:32,Not Started,810,337
+540,Traffic Light,generate vertical architectures,1997-09-12 13:36:32,Not Started,593,726
+541,Powerline,disintermediate scalable vortals,2008-06-02 09:26:20,Not Started,733,555
+542,Road Construction,innovate extensible interfaces,2006-06-23 00:04:16,In Progress,123,301
+543,Pipeline,drive sticky web services,1997-12-21 00:20:59,Not Started,107,216
+544,Powerline,whiteboard compelling technologies,2016-08-15 01:46:24,Completed,90,754
+545,Road Construction,aggregate granular niches,1999-01-27 00:56:23,Not Started,619,783
+546,Sewer,engineer synergistic infomediaries,2005-05-07 00:43:33,In Progress,705,860
+547,Sewer,utilize frictionless web-readiness,2022-06-29 04:59:35,Completed,842,320
+548,Pipeline,grow transparent networks,2016-05-29 15:42:22,In Progress,142,334
+549,Traffic Light,redefine synergistic paradigms,2004-11-17 00:42:08,Completed,102,884
+550,Sewer,productize wireless experiences,2020-08-15 21:17:19,In Progress,634,594
+551,Road Construction,enhance real-time infrastructures,2010-03-04 15:30:00,In Progress,543,813
+552,Road Construction,generate mission-critical e-business,2015-08-24 02:21:38,Not Started,739,629
+553,Pipeline,brand visionary platforms,2023-07-29 23:20:47,Not Started,562,457
+554,Electricity,whiteboard proactive models,2006-02-22 04:48:09,Not Started,427,146
+555,Sewer,utilize granular models,2021-02-22 07:44:32,Completed,944,611
+556,Traffic Light,mesh viral ROI,2024-02-20 20:40:52,Not Started,178,124
+557,Electricity,evolve efficient experiences,2009-04-27 15:50:28,Not Started,532,797
+558,Pipeline,e-enable clicks-and-mortar ROI,2004-05-13 05:30:20,Not Started,303,409
+559,Powerline,orchestrate proactive niches,2009-05-11 15:57:24,Completed,467,165
+560,Powerline,exploit integrated relationships,2016-04-20 21:10:35,Not Started,735,706
+561,Pipeline,utilize impactful interfaces,2019-01-06 07:38:56,In Progress,486,613
+562,Sewer,cultivate rich functionalities,2009-11-21 19:00:08,In Progress,725,145
+563,Pipeline,strategize leading-edge infomediaries,2012-11-02 10:41:30,Completed,268,972
+564,Traffic Light,embrace collaborative e-tailers,2003-09-22 20:14:10,Completed,187,430
+565,Powerline,deliver seamless action-items,2008-02-11 14:34:12,Not Started,329,482
+566,Electricity,whiteboard best-of-breed channels,2019-03-22 09:32:51,Completed,756,160
+567,Powerline,mesh killer content,2007-06-11 13:43:02,In Progress,914,633
+568,Pipeline,exploit cutting-edge experiences,2011-11-07 00:25:42,Not Started,522,614
+569,Powerline,synthesize 24/365 relationships,2022-06-16 19:41:58,In Progress,348,86
+570,Electricity,enhance innovative schemas,2006-01-12 17:32:08,In Progress,11,812
+571,Powerline,deliver revolutionary initiatives,2009-10-13 06:13:16,Not Started,277,880
+572,Pipeline,disintermediate enterprise e-business,2007-11-03 13:06:42,In Progress,995,749
+573,Road Construction,integrate cross-media platforms,2018-08-21 16:47:07,In Progress,707,266
+574,Sewer,generate intuitive eyeballs,1999-12-10 01:51:24,In Progress,360,322
+575,Traffic Light,strategize user-centric infomediaries,1997-09-02 10:55:14,Completed,630,266
+576,Road Construction,incubate customized technologies,2012-11-24 00:43:58,Not Started,994,930
+577,Powerline,revolutionize out-of-the-box e-services,2010-04-10 19:35:48,Not Started,647,777
+578,Pipeline,whiteboard cross-platform content,2016-05-21 15:20:18,Not Started,361,488
+579,Powerline,seize ubiquitous convergence,2019-05-19 17:09:57,In Progress,791,342
+580,Pipeline,empower holistic convergence,2005-04-15 03:40:08,Completed,674,495
+581,Traffic Light,revolutionize robust functionalities,2011-09-06 18:24:18,Completed,319,505
+582,Pipeline,optimize user-centric schemas,2010-02-03 04:19:56,In Progress,680,23
+583,Powerline,architect turn-key action-items,2015-09-23 03:08:39,Completed,940,450
+584,Sewer,reintermediate best-of-breed e-commerce,2000-03-11 20:42:21,In Progress,906,668
+585,Traffic Light,maximize strategic ROI,2023-09-23 17:14:45,In Progress,169,35
+586,Powerline,grow collaborative niches,2009-09-24 05:58:46,Completed,444,990
+587,Sewer,engage web-enabled metrics,1998-09-15 12:09:41,Completed,787,226
+588,Road Construction,exploit 24/365 content,2005-04-11 22:53:18,Not Started,38,147
+589,Sewer,morph global bandwidth,2020-08-19 17:33:47,In Progress,452,433
+590,Electricity,reinvent robust e-markets,2023-04-29 03:20:28,Completed,311,165
+591,Sewer,envisioneer wireless infrastructures,2011-12-23 13:30:00,Completed,867,826
+592,Sewer,evolve best-of-breed functionalities,2011-05-31 19:07:32,Not Started,84,103
+593,Pipeline,visualize granular metrics,2020-08-04 10:48:27,Not Started,840,458
+594,Powerline,envisioneer bleeding-edge infrastructures,2012-03-22 16:08:22,Completed,348,454
+595,Pipeline,brand robust functionalities,2001-07-03 16:59:54,Not Started,812,919
+596,Pipeline,unleash front-end methodologies,2020-04-16 23:55:08,Completed,725,767
+597,Electricity,cultivate intuitive synergies,2011-10-31 14:57:50,Completed,195,507
+598,Traffic Light,iterate collaborative platforms,2023-02-10 09:35:28,Completed,459,215
+599,Powerline,orchestrate virtual models,2002-07-27 04:32:35,In Progress,556,100
+600,Road Construction,cultivate leading-edge web services,1998-02-26 18:48:17,Not Started,891,557
+601,Sewer,disintermediate proactive mindshare,1998-04-08 13:38:29,Completed,428,251
+602,Road Construction,utilize leading-edge e-tailers,2014-06-29 04:24:39,In Progress,873,160
+603,Sewer,optimize ubiquitous vortals,2000-07-28 12:58:07,Not Started,924,685
+604,Traffic Light,leverage cutting-edge e-tailers,2005-09-20 06:08:46,Not Started,187,943
+605,Electricity,recontextualize granular experiences,1998-09-15 01:26:04,Not Started,104,805
+606,Pipeline,drive rich ROI,2007-05-29 11:10:36,Not Started,176,579
+607,Traffic Light,mesh intuitive users,2021-09-22 21:09:31,Not Started,188,665
+608,Traffic Light,whiteboard dot-com technologies,2007-04-04 08:41:12,In Progress,182,888
+609,Traffic Light,envisioneer plug-and-play partnerships,2002-02-16 23:02:42,Completed,755,923
+610,Powerline,expedite impactful architectures,2012-08-09 09:53:04,Not Started,569,222
+611,Road Construction,reintermediate distributed architectures,2002-03-14 17:13:29,In Progress,366,81
+612,Powerline,transform granular web-readiness,2013-07-19 02:35:11,Not Started,275,656
+613,Powerline,seize front-end relationships,2004-07-12 06:42:47,In Progress,45,349
+614,Electricity,implement scalable interfaces,2004-03-04 05:17:14,In Progress,165,142
+615,Electricity,generate compelling deliverables,1998-03-15 01:25:02,Completed,235,528
+616,Pipeline,orchestrate B2C paradigms,2013-08-26 03:41:38,In Progress,740,149
+617,Traffic Light,generate sexy platforms,2014-10-07 05:22:14,In Progress,140,364
+618,Traffic Light,grow e-business systems,2003-05-10 02:54:57,In Progress,418,617
+619,Powerline,maximize viral vortals,2010-04-29 13:59:24,Completed,958,582
+620,Traffic Light,productize viral methodologies,2022-04-21 13:57:49,Completed,576,42
+621,Sewer,disintermediate efficient users,2017-01-11 05:51:48,Completed,302,154
+622,Pipeline,architect proactive eyeballs,2009-04-16 10:09:56,In Progress,968,338
+623,Pipeline,cultivate impactful web services,2009-09-05 15:16:53,In Progress,648,624
+624,Road Construction,engineer sexy experiences,2023-04-01 18:55:07,In Progress,905,142
+625,Traffic Light,benchmark back-end deliverables,2008-03-10 16:38:00,Not Started,732,960
+626,Traffic Light,productize sticky e-markets,1997-10-04 19:42:56,Not Started,507,430
+627,Traffic Light,extend user-centric technologies,2016-01-25 19:03:38,In Progress,578,769
+628,Pipeline,drive web-enabled functionalities,2002-02-25 20:36:47,Not Started,423,573
+629,Road Construction,leverage robust synergies,1998-01-31 23:43:49,Completed,878,900
+630,Powerline,benchmark value-added solutions,1999-09-03 14:11:31,Not Started,754,23
+631,Traffic Light,benchmark virtual e-markets,2019-10-14 05:39:46,Not Started,879,672
+632,Electricity,synergize extensible systems,2023-11-06 19:10:20,Completed,999,223
+633,Powerline,mesh cutting-edge web-readiness,2006-11-04 16:39:16,Completed,17,980
+634,Sewer,leverage sexy users,2008-09-26 18:57:12,Completed,316,51
+635,Electricity,seize bleeding-edge eyeballs,2022-01-12 07:29:29,In Progress,89,90
+636,Road Construction,disintermediate B2B markets,2006-04-15 09:47:43,Completed,250,490
+637,Powerline,harness distributed e-tailers,2003-09-01 17:27:27,In Progress,810,489
+638,Electricity,deliver value-added niches,1997-12-27 18:13:44,In Progress,71,439
+639,Powerline,envisioneer integrated interfaces,2018-11-28 01:03:08,In Progress,14,132
+640,Pipeline,visualize integrated communities,2007-04-15 20:16:00,Not Started,903,738
+641,Powerline,drive interactive action-items,2017-05-28 21:20:09,Not Started,1,820
+642,Pipeline,orchestrate B2B models,1997-07-13 20:53:25,Completed,68,619
+643,Pipeline,envisioneer next-generation experiences,2018-05-08 07:52:24,In Progress,577,458
+644,Road Construction,innovate plug-and-play methodologies,1999-03-17 18:12:22,Completed,923,912
+645,Road Construction,transition cross-media users,2011-12-30 17:55:24,Not Started,468,614
+646,Powerline,recontextualize efficient applications,1997-10-13 05:31:05,In Progress,627,820
+647,Powerline,cultivate compelling systems,2004-01-08 05:51:09,Not Started,238,896
+648,Electricity,benchmark B2B bandwidth,2015-05-21 23:42:50,Completed,275,936
+649,Powerline,embrace compelling infomediaries,2000-01-05 10:51:34,Not Started,663,216
+650,Sewer,orchestrate viral action-items,2008-03-25 08:41:03,Completed,542,866
+651,Traffic Light,optimize cross-platform applications,2009-05-21 18:55:25,Not Started,374,745
+652,Electricity,target best-of-breed schemas,1998-12-05 16:34:32,Completed,573,550
+653,Road Construction,transition cutting-edge bandwidth,2023-09-19 15:59:55,Completed,429,141
+654,Road Construction,incentivize one-to-one paradigms,2016-03-17 09:28:22,In Progress,466,856
+655,Sewer,visualize dynamic web services,2020-07-23 19:34:26,Not Started,53,726
+656,Pipeline,empower strategic methodologies,2016-06-19 19:48:51,In Progress,513,177
+657,Road Construction,empower bleeding-edge applications,2016-03-03 10:37:49,Completed,607,750
+658,Powerline,architect collaborative vortals,2013-11-28 09:15:51,Not Started,970,368
+659,Powerline,reinvent world-class communities,1997-12-02 10:39:08,Completed,104,640
+660,Pipeline,scale rich models,2016-07-28 01:51:00,Not Started,389,390
+661,Powerline,reintermediate front-end markets,2011-06-30 08:42:06,Not Started,477,535
+662,Pipeline,drive killer partnerships,2019-11-04 23:48:33,Completed,260,312
+663,Sewer,monetize integrated partnerships,2004-08-20 19:07:16,Completed,899,262
+664,Pipeline,target real-time relationships,2002-10-05 02:09:42,Completed,419,587
+665,Pipeline,architect turn-key eyeballs,2002-05-08 15:03:53,Not Started,587,919
+666,Traffic Light,engineer end-to-end portals,2001-06-21 19:46:51,In Progress,276,149
+667,Traffic Light,brand world-class experiences,2007-11-26 03:40:04,Not Started,269,318
+668,Sewer,integrate revolutionary infrastructures,2005-11-30 06:52:34,In Progress,317,326
+669,Road Construction,empower cross-media architectures,2021-10-22 06:20:00,Completed,663,159
+670,Sewer,evolve distributed networks,2024-05-09 16:32:03,Completed,502,296
+671,Pipeline,synergize sticky infomediaries,2015-05-08 18:31:14,Completed,199,924
+672,Powerline,transition one-to-one systems,2008-07-24 18:09:00,Not Started,341,516
+673,Electricity,deliver enterprise functionalities,2005-06-20 21:33:01,In Progress,508,912
+674,Road Construction,whiteboard 24/7 infomediaries,2022-03-18 08:32:43,In Progress,415,456
+675,Traffic Light,deliver killer synergies,2012-04-23 18:13:13,Completed,998,56
+676,Traffic Light,enhance compelling networks,2013-06-25 22:19:16,Completed,998,590
+677,Traffic Light,embrace cross-platform methodologies,2009-11-09 17:32:29,Completed,357,56
+678,Powerline,harness vertical markets,2023-11-21 21:02:35,Completed,49,851
+679,Powerline,recontextualize innovative metrics,2021-05-11 12:23:38,Completed,685,450
+680,Road Construction,innovate efficient metrics,2015-01-12 00:01:27,In Progress,74,141
+681,Sewer,architect sexy communities,2007-12-05 16:30:06,Not Started,318,657
+682,Pipeline,morph web-enabled platforms,2002-08-20 00:07:23,Completed,53,505
+683,Pipeline,enhance collaborative niches,2022-02-26 08:49:02,In Progress,252,6
+684,Powerline,strategize 24/365 solutions,2010-10-19 11:04:50,Not Started,508,105
+685,Electricity,recontextualize 24/7 relationships,2001-03-24 11:35:30,In Progress,702,804
+686,Powerline,empower next-generation ROI,2022-06-29 05:02:53,Completed,373,523
+687,Electricity,reintermediate bricks-and-clicks infomediaries,2018-02-07 03:50:40,In Progress,349,33
+688,Pipeline,target virtual supply-chains,2020-03-06 14:41:41,In Progress,974,515
+689,Electricity,enable B2C synergies,2014-02-25 07:12:44,In Progress,736,331
+690,Sewer,envisioneer distributed portals,2003-03-17 08:12:47,Completed,786,730
+691,Powerline,disintermediate extensible convergence,2021-11-03 22:01:34,Completed,864,308
+692,Electricity,morph one-to-one web services,2012-06-23 01:30:34,Not Started,736,887
+693,Pipeline,expedite real-time bandwidth,2016-01-03 12:08:32,Completed,405,948
+694,Powerline,redefine 24/365 paradigms,2008-12-31 23:45:51,In Progress,213,30
+695,Electricity,evolve visionary paradigms,1997-08-10 12:29:17,Not Started,415,585
+696,Sewer,engineer user-centric users,2004-08-25 19:49:43,Completed,55,170
+697,Powerline,syndicate ubiquitous partnerships,2017-01-09 04:32:36,In Progress,557,141
+698,Sewer,optimize innovative platforms,2015-11-13 06:29:38,In Progress,230,918
+699,Pipeline,benchmark open-source initiatives,2022-05-02 20:03:32,Completed,569,441
+700,Powerline,matrix cross-platform web-readiness,2019-06-24 04:54:15,In Progress,384,423
+701,Traffic Light,orchestrate out-of-the-box channels,2013-04-08 20:04:22,Not Started,247,566
+702,Road Construction,innovate customized deliverables,2001-07-24 20:47:00,Not Started,876,654
+703,Powerline,aggregate 24/7 experiences,2001-03-16 09:35:43,Completed,626,124
+704,Traffic Light,deliver collaborative deliverables,2020-12-08 09:19:20,Not Started,101,847
+705,Pipeline,recontextualize leading-edge action-items,2015-01-27 03:53:10,Not Started,193,425
+706,Powerline,streamline intuitive e-services,2022-04-23 21:36:19,In Progress,380,445
+707,Road Construction,reinvent open-source initiatives,2007-04-13 04:18:10,In Progress,728,605
+708,Electricity,scale ubiquitous e-services,2013-09-04 02:53:01,Not Started,495,493
+709,Electricity,aggregate ubiquitous convergence,2009-03-17 14:42:25,In Progress,255,71
+710,Pipeline,generate visionary markets,2015-08-10 06:54:39,Completed,878,998
+711,Electricity,scale mission-critical models,2023-09-18 06:35:42,In Progress,9,745
+712,Road Construction,productize holistic e-markets,2005-02-10 17:38:52,Not Started,663,947
+713,Traffic Light,engineer ubiquitous markets,2011-09-11 04:07:43,In Progress,499,46
+714,Powerline,synthesize user-centric deliverables,2019-05-08 11:24:01,Not Started,262,784
+715,Pipeline,aggregate extensible systems,2004-06-14 10:41:55,In Progress,617,347
+716,Electricity,cultivate customized applications,2003-07-23 05:11:21,Not Started,976,475
+717,Traffic Light,leverage innovative markets,2014-05-12 15:04:59,Completed,636,248
+718,Electricity,recontextualize best-of-breed channels,2006-11-11 05:58:24,Completed,837,867
+719,Sewer,productize leading-edge infrastructures,2015-01-01 02:25:27,Not Started,923,714
+720,Powerline,redefine distributed channels,1998-06-03 04:28:01,Completed,44,721
+721,Pipeline,scale revolutionary experiences,2008-02-02 00:52:34,Not Started,303,849
+722,Sewer,transition next-generation systems,1998-05-09 07:49:05,Not Started,563,201
+723,Powerline,maximize viral technologies,1999-09-10 04:31:16,Not Started,176,256
+724,Sewer,grow collaborative content,2015-02-28 05:57:28,In Progress,356,215
+725,Electricity,redefine synergistic schemas,2013-11-13 05:50:56,Not Started,555,366
+726,Pipeline,synergize 24/7 platforms,2006-12-19 06:49:11,Not Started,297,760
+727,Electricity,orchestrate B2B bandwidth,2020-08-11 05:10:38,In Progress,98,345
+728,Traffic Light,enhance turn-key communities,1998-02-19 07:22:36,Completed,914,755
+729,Powerline,generate B2C action-items,2011-07-27 20:36:45,Not Started,134,723
+730,Pipeline,aggregate rich experiences,2013-04-05 01:56:08,Not Started,505,387
+731,Road Construction,scale front-end solutions,2023-03-01 01:48:24,Completed,458,527
+732,Electricity,transform next-generation experiences,2022-10-19 09:27:20,Completed,580,611
+733,Electricity,productize cross-platform e-commerce,2020-07-10 01:42:59,In Progress,663,217
+734,Pipeline,empower granular solutions,2019-10-03 14:22:11,Completed,27,851
+735,Powerline,incubate killer initiatives,2021-04-03 01:37:58,In Progress,174,481
+736,Electricity,exploit robust e-business,2008-10-28 05:17:02,In Progress,69,375
+737,Sewer,brand virtual partnerships,2018-02-04 10:58:54,Not Started,927,221
+738,Sewer,embrace strategic technologies,2024-07-07 04:28:46,In Progress,737,616
+739,Electricity,transition proactive web services,2019-02-28 17:01:02,In Progress,809,949
+740,Sewer,exploit vertical partnerships,2001-11-10 02:37:33,Completed,739,235
+741,Road Construction,maximize efficient users,1998-05-18 20:58:21,Not Started,953,994
+742,Sewer,transform dot-com niches,2004-09-04 21:12:24,In Progress,151,136
+743,Powerline,reinvent cross-platform users,2012-05-18 05:38:15,In Progress,489,35
+744,Sewer,drive back-end platforms,2024-04-13 05:40:30,Completed,383,613
+745,Electricity,enhance B2C interfaces,2007-12-15 08:34:54,Not Started,140,777
+746,Road Construction,enable user-centric users,2004-06-26 14:50:31,Completed,260,645
+747,Powerline,innovate out-of-the-box supply-chains,2014-07-17 07:32:14,In Progress,897,593
+748,Road Construction,exploit global content,2007-03-03 01:27:33,Not Started,751,441
+749,Road Construction,morph cross-media eyeballs,2012-02-18 06:19:23,In Progress,647,698
+750,Road Construction,syndicate mission-critical e-commerce,2001-12-06 15:26:01,Not Started,346,985
+751,Electricity,extend e-business eyeballs,2012-11-03 17:32:23,In Progress,409,306
+752,Electricity,maximize strategic e-commerce,2016-11-13 07:45:10,Not Started,861,232
+753,Sewer,reintermediate global synergies,2008-02-21 22:40:33,Not Started,669,641
+754,Powerline,transform interactive infomediaries,1998-01-04 09:16:36,In Progress,371,772
+755,Sewer,innovate sexy convergence,2005-02-25 19:23:05,Completed,64,290
+756,Road Construction,integrate turn-key architectures,2001-08-08 17:42:06,Completed,486,162
+757,Road Construction,maximize distributed functionalities,2004-03-12 16:18:40,Completed,403,567
+758,Traffic Light,engineer ubiquitous platforms,2003-01-18 06:14:27,In Progress,281,471
+759,Pipeline,grow front-end e-services,2009-10-05 03:21:23,In Progress,629,963
+760,Road Construction,deliver killer models,2016-06-02 00:55:00,Completed,699,95
+761,Pipeline,transition ubiquitous experiences,2004-06-18 13:56:12,Not Started,620,606
+762,Pipeline,exploit granular architectures,2014-03-27 21:40:35,Completed,532,590
+763,Electricity,engineer sticky infomediaries,2016-08-04 04:27:16,In Progress,272,853
+764,Traffic Light,cultivate open-source metrics,2000-12-30 19:54:05,Completed,851,812
+765,Electricity,envisioneer sexy systems,1998-05-04 19:53:54,Completed,225,396
+766,Sewer,strategize out-of-the-box bandwidth,1998-09-04 04:06:38,In Progress,65,356
+767,Electricity,transform web-enabled technologies,2005-02-20 06:48:11,Not Started,555,79
+768,Pipeline,cultivate frictionless convergence,2009-07-29 00:18:45,Not Started,414,287
+769,Road Construction,redefine customized bandwidth,2017-07-20 05:45:49,Completed,676,654
+770,Electricity,mesh interactive niches,2002-09-28 14:25:16,Completed,649,129
+771,Pipeline,target real-time methodologies,2024-07-02 05:25:54,Not Started,833,391
+772,Traffic Light,strategize 24/7 synergies,2002-02-09 20:15:12,Completed,609,472
+773,Electricity,iterate virtual markets,2004-02-18 06:12:13,Completed,30,900
+774,Road Construction,redefine viral models,2006-11-27 06:08:11,In Progress,392,362
+775,Pipeline,embrace bleeding-edge mindshare,1999-11-01 07:25:08,Completed,555,375
+776,Pipeline,cultivate bleeding-edge interfaces,2021-11-25 22:04:52,Completed,484,643
+777,Electricity,benchmark next-generation e-markets,2019-02-04 06:25:05,Not Started,144,153
+778,Sewer,empower global initiatives,2009-05-31 06:23:46,Completed,43,146
+779,Pipeline,reintermediate bleeding-edge synergies,2009-01-26 07:56:09,In Progress,513,892
+780,Sewer,scale proactive e-services,2009-05-31 11:02:15,Not Started,642,582
+781,Pipeline,harness frictionless applications,2013-07-22 14:27:22,In Progress,465,132
+782,Sewer,transition wireless infrastructures,1999-11-29 14:25:10,In Progress,485,820
+783,Traffic Light,revolutionize cross-media mindshare,2021-04-05 20:12:29,In Progress,911,270
+784,Sewer,redefine viral content,2009-11-25 20:54:16,In Progress,276,768
+785,Pipeline,monetize synergistic methodologies,2006-07-27 12:04:43,Completed,993,706
+786,Powerline,strategize 24/365 web-readiness,2018-08-26 15:44:48,Not Started,330,135
+787,Powerline,integrate collaborative eyeballs,2011-08-26 11:14:30,Completed,266,608
+788,Powerline,brand one-to-one users,2001-01-03 03:26:00,Completed,147,791
+789,Road Construction,innovate out-of-the-box models,2001-05-20 13:19:04,Completed,202,963
+790,Powerline,disintermediate vertical portals,2003-10-16 07:27:04,In Progress,807,256
+791,Road Construction,morph B2C networks,2017-12-02 08:13:29,Completed,947,500
+792,Pipeline,visualize killer communities,2019-05-05 11:08:37,Completed,490,408
+793,Road Construction,brand ubiquitous web-readiness,2014-08-11 00:51:30,Completed,150,26
+794,Powerline,benchmark next-generation experiences,2009-11-25 04:38:09,Not Started,227,971
+795,Pipeline,incubate leading-edge users,1997-08-04 03:20:54,Not Started,635,923
+796,Sewer,expedite turn-key users,2004-11-21 21:25:55,Not Started,648,217
+797,Sewer,drive cross-media content,2010-05-13 03:36:56,Completed,175,762
+798,Electricity,productize e-business synergies,2006-09-30 12:21:17,In Progress,473,470
+799,Powerline,maximize B2B eyeballs,2023-05-27 05:29:38,In Progress,11,990
+800,Sewer,innovate wireless deliverables,2011-05-13 19:08:29,Not Started,764,324
+801,Pipeline,orchestrate rich models,1998-11-23 13:00:02,Completed,438,717
+802,Pipeline,incubate enterprise supply-chains,2014-05-11 14:14:30,Not Started,664,708
+803,Pipeline,reinvent global architectures,2015-05-21 09:08:47,Completed,470,137
+804,Traffic Light,revolutionize one-to-one e-markets,2005-01-23 12:48:36,Not Started,603,734
+805,Sewer,transform turn-key users,2023-01-03 08:12:11,In Progress,104,927
+806,Electricity,integrate ubiquitous models,2000-09-12 20:00:50,Not Started,545,127
+807,Electricity,deploy frictionless metrics,2021-11-11 00:21:39,Completed,139,250
+808,Powerline,monetize killer communities,2001-04-14 02:11:10,Not Started,799,466
+809,Road Construction,empower next-generation markets,2018-03-08 15:27:09,In Progress,387,758
+810,Traffic Light,productize B2C functionalities,2001-01-25 22:21:34,Not Started,740,202
+811,Powerline,e-enable user-centric communities,2017-01-24 09:06:12,Completed,653,296
+812,Powerline,empower revolutionary models,2007-06-08 22:05:24,In Progress,585,584
+813,Powerline,transform dot-com portals,2008-01-04 11:18:40,Completed,195,158
+814,Electricity,benchmark world-class partnerships,2013-04-16 11:34:47,Not Started,539,516
+815,Traffic Light,reintermediate web-enabled e-markets,2020-06-16 23:41:25,Not Started,707,566
+816,Road Construction,strategize web-enabled technologies,2008-07-10 10:48:28,Not Started,722,443
+817,Sewer,benchmark cross-media synergies,2010-06-24 08:33:08,Not Started,827,303
+818,Traffic Light,maximize bleeding-edge bandwidth,2004-11-05 05:33:47,Not Started,668,343
+819,Traffic Light,synthesize bricks-and-clicks interfaces,1998-04-26 08:26:36,In Progress,588,788
+820,Traffic Light,whiteboard extensible schemas,2006-02-02 09:49:34,Not Started,928,997
+821,Electricity,strategize customized channels,2020-03-05 04:15:21,In Progress,349,708
+822,Road Construction,empower open-source metrics,2003-03-11 15:12:17,Not Started,502,863
+823,Powerline,evolve cutting-edge web-readiness,2005-05-16 00:54:52,Completed,471,898
+824,Traffic Light,e-enable viral schemas,2007-02-13 20:22:14,Not Started,979,458
+825,Sewer,aggregate visionary experiences,2023-10-02 10:02:52,In Progress,994,473
+826,Traffic Light,deploy impactful systems,2003-07-28 17:51:12,In Progress,920,692
+827,Traffic Light,target innovative vortals,2013-09-22 13:47:03,Not Started,269,707
+828,Powerline,synergize out-of-the-box technologies,2003-07-13 10:39:33,Not Started,96,267
+829,Electricity,recontextualize cross-platform networks,2015-11-21 08:31:17,Not Started,877,738
+830,Sewer,reinvent integrated architectures,2016-07-20 17:18:43,Completed,7,76
+831,Road Construction,seize leading-edge channels,2009-05-06 23:39:57,In Progress,845,14
+832,Powerline,extend enterprise bandwidth,2008-06-22 04:27:15,Completed,893,274
+833,Electricity,integrate proactive models,1998-09-28 06:33:00,Not Started,403,56
+834,Electricity,engineer magnetic synergies,2020-01-10 16:51:22,In Progress,51,961
+835,Pipeline,grow ubiquitous functionalities,2015-06-27 21:28:56,In Progress,912,59
+836,Powerline,expedite global paradigms,2022-03-02 16:13:12,Completed,845,341
+837,Sewer,repurpose sexy relationships,2006-01-15 17:10:49,Not Started,265,382
+838,Electricity,facilitate strategic synergies,2012-07-16 11:23:09,In Progress,922,154
+839,Electricity,syndicate clicks-and-mortar systems,2010-07-03 22:24:20,In Progress,522,86
+840,Electricity,streamline bleeding-edge systems,2010-01-15 04:01:45,Not Started,446,642
+841,Pipeline,engineer bricks-and-clicks technologies,2012-03-28 04:37:54,Not Started,911,435
+842,Pipeline,exploit distributed infrastructures,2016-07-10 05:51:50,Not Started,2,712
+843,Electricity,enhance back-end channels,1999-05-11 13:24:50,In Progress,212,134
+844,Powerline,morph viral eyeballs,1998-06-12 21:34:38,Completed,394,389
+845,Sewer,generate bleeding-edge infrastructures,2020-09-22 04:58:41,Not Started,82,333
+846,Sewer,e-enable efficient deliverables,2005-09-21 20:59:17,Completed,410,348
+847,Traffic Light,evolve collaborative e-services,2003-05-26 12:40:50,In Progress,540,291
+848,Road Construction,monetize front-end ROI,1997-10-17 00:08:38,Completed,542,121
+849,Pipeline,synergize 24/365 ROI,2003-02-16 10:37:28,Not Started,842,195
+850,Road Construction,visualize sticky channels,2001-09-19 05:57:35,In Progress,495,365
+851,Sewer,e-enable world-class users,2011-12-12 06:51:18,Completed,871,684
+852,Powerline,seize sticky mindshare,1998-03-06 03:54:52,Completed,584,52
+853,Electricity,matrix cross-platform markets,2005-02-17 12:38:54,In Progress,876,560
+854,Electricity,monetize synergistic models,2009-11-11 21:38:56,In Progress,223,990
+855,Electricity,reinvent B2C markets,2013-04-03 16:18:24,In Progress,694,919
+856,Electricity,iterate mission-critical networks,2023-11-25 09:01:28,In Progress,75,884
+857,Pipeline,implement world-class infomediaries,2010-11-06 07:39:31,Not Started,316,47
+858,Traffic Light,evolve cross-platform e-markets,2009-03-01 10:38:20,Completed,803,769
+859,Traffic Light,reintermediate mission-critical e-tailers,2020-04-23 16:08:42,In Progress,834,266
+860,Traffic Light,monetize intuitive web services,2014-02-22 00:14:38,Not Started,305,440
+861,Powerline,visualize plug-and-play partnerships,2024-06-21 17:43:27,In Progress,442,997
+862,Powerline,deploy cross-platform infomediaries,2022-08-10 17:05:00,Completed,829,548
+863,Traffic Light,aggregate killer ROI,2017-02-14 19:18:20,Not Started,937,830
+864,Road Construction,syndicate cutting-edge eyeballs,2004-12-13 14:55:59,Completed,648,30
+865,Electricity,target end-to-end web-readiness,2004-11-10 12:08:26,In Progress,457,721
+866,Road Construction,implement dot-com eyeballs,2004-11-17 00:31:16,In Progress,211,747
+867,Pipeline,architect mission-critical technologies,2002-04-09 09:48:14,In Progress,817,442
+868,Pipeline,embrace dot-com action-items,2003-08-12 21:05:21,Completed,394,475
+869,Road Construction,synthesize synergistic technologies,2007-02-04 20:52:52,Not Started,190,519
+870,Electricity,productize killer markets,2014-05-23 04:22:58,In Progress,185,943
+871,Powerline,cultivate 24/365 architectures,2018-10-01 13:44:07,In Progress,454,278
+872,Road Construction,extend transparent content,1998-11-16 00:19:35,Completed,521,239
+873,Electricity,generate cross-media action-items,2017-11-12 02:59:33,In Progress,216,516
+874,Electricity,empower sticky web services,2024-03-04 11:47:06,Not Started,261,705
+875,Powerline,leverage interactive synergies,2000-08-20 00:34:38,Not Started,951,408
+876,Powerline,revolutionize extensible vortals,2006-09-16 21:53:38,Not Started,861,522
+877,Traffic Light,streamline collaborative e-commerce,2015-09-17 07:10:50,Not Started,227,675
+878,Sewer,revolutionize enterprise e-tailers,2022-03-09 06:11:35,Completed,52,461
+879,Road Construction,target interactive e-tailers,2019-05-31 01:49:16,Not Started,262,365
+880,Powerline,reinvent cross-platform e-tailers,2006-01-09 20:01:57,Not Started,735,810
+881,Sewer,visualize robust models,2008-03-29 07:24:57,Completed,623,641
+882,Powerline,integrate value-added systems,2016-01-13 19:41:25,Completed,931,632
+883,Sewer,strategize seamless mindshare,2015-07-14 04:12:49,Completed,791,936
+884,Electricity,seize proactive metrics,2002-04-11 21:16:33,In Progress,570,86
+885,Pipeline,productize frictionless relationships,2018-04-30 20:20:10,Not Started,641,525
+886,Sewer,utilize web-enabled vortals,2016-06-07 07:47:31,Completed,443,466
+887,Powerline,empower B2B initiatives,2011-05-29 17:17:45,In Progress,954,818
+888,Powerline,exploit sexy communities,2001-07-16 05:22:21,In Progress,243,155
+889,Powerline,scale global platforms,2002-03-12 20:36:33,Completed,854,666
+890,Pipeline,harness value-added networks,2020-08-02 01:33:06,In Progress,686,665
+891,Sewer,visualize frictionless ROI,2013-08-08 12:43:12,In Progress,894,796
+892,Powerline,deploy global initiatives,2020-04-19 07:33:06,Not Started,269,556
+893,Electricity,engage interactive initiatives,2020-08-05 23:53:48,In Progress,408,821
+894,Sewer,optimize turn-key schemas,2009-10-13 08:40:30,Not Started,870,280
+895,Sewer,engineer intuitive partnerships,2014-06-29 01:59:56,Completed,783,111
+896,Pipeline,unleash killer models,2022-04-15 13:07:08,Completed,753,859
+897,Powerline,iterate killer networks,2022-04-15 05:59:57,Completed,531,546
+898,Traffic Light,repurpose distributed architectures,2012-10-18 17:58:36,Completed,941,475
+899,Powerline,utilize dynamic portals,2024-06-11 07:57:54,Not Started,375,51
+900,Electricity,disintermediate front-end bandwidth,2008-11-25 19:39:00,In Progress,37,171
+901,Sewer,deliver proactive markets,2016-10-15 11:29:43,Completed,147,626
+902,Road Construction,brand open-source e-tailers,2019-05-07 08:18:04,In Progress,599,191
+903,Electricity,engineer wireless technologies,2023-09-09 12:40:44,Completed,461,466
+904,Powerline,iterate dot-com deliverables,2023-03-21 11:13:28,Not Started,700,974
+905,Traffic Light,expedite out-of-the-box initiatives,2015-02-22 21:15:15,Completed,268,569
+906,Electricity,enable out-of-the-box content,2021-05-19 13:42:01,Not Started,822,996
+907,Traffic Light,revolutionize world-class communities,2018-07-18 23:43:51,Completed,68,312
+908,Sewer,envisioneer bleeding-edge interfaces,2008-07-12 14:27:15,Completed,686,118
+909,Powerline,expedite integrated communities,2016-02-23 10:39:07,In Progress,386,62
+910,Electricity,empower scalable web-readiness,1998-02-12 12:33:51,Completed,97,350
+911,Sewer,transition visionary portals,2012-07-08 05:03:49,Not Started,421,674
+912,Sewer,engineer vertical e-markets,2008-08-21 13:22:19,In Progress,726,520
+913,Powerline,visualize value-added interfaces,2004-07-17 14:15:06,Not Started,158,698
+914,Powerline,harness bricks-and-clicks web services,2015-03-30 23:39:24,In Progress,927,897
+915,Traffic Light,cultivate robust paradigms,2012-11-22 20:39:24,Completed,878,173
+916,Powerline,maximize leading-edge networks,2009-02-19 17:17:20,Completed,161,268
+917,Sewer,redefine impactful convergence,2019-04-04 00:55:56,In Progress,616,14
+918,Road Construction,iterate customized systems,2013-06-10 18:46:18,Not Started,183,186
+919,Sewer,implement strategic infomediaries,2013-02-20 17:05:22,Not Started,142,27
+920,Road Construction,brand enterprise models,2013-04-04 09:41:32,Completed,693,280
+921,Powerline,architect out-of-the-box portals,2004-12-22 01:03:55,In Progress,254,382
+922,Traffic Light,revolutionize real-time experiences,2002-02-25 05:47:25,In Progress,662,137
+923,Traffic Light,enhance real-time markets,2006-06-28 14:57:08,Completed,121,331
+924,Powerline,deliver best-of-breed experiences,2015-07-13 07:58:44,In Progress,523,171
+925,Pipeline,utilize e-business e-services,2003-07-19 23:45:14,Not Started,559,101
+926,Road Construction,cultivate bleeding-edge deliverables,2022-08-05 07:57:19,In Progress,809,317
+927,Sewer,brand 24/365 e-services,2012-04-14 10:05:17,Not Started,341,69
+928,Electricity,architect world-class niches,2000-01-20 06:44:36,Completed,941,669
+929,Traffic Light,repurpose cross-media communities,2005-05-13 18:33:10,Not Started,677,466
+930,Sewer,innovate leading-edge platforms,2010-07-10 00:00:54,Completed,927,813
+931,Sewer,aggregate sticky e-services,2010-04-01 21:51:55,Not Started,746,549
+932,Road Construction,monetize revolutionary communities,2018-05-15 00:33:40,Completed,423,361
+933,Sewer,enable integrated web-readiness,2012-07-04 10:46:45,Completed,967,126
+934,Road Construction,redefine cross-platform e-business,2006-03-12 19:57:49,Not Started,763,505
+935,Electricity,iterate intuitive bandwidth,2023-06-18 09:54:23,In Progress,464,637
+936,Pipeline,streamline open-source models,2004-12-10 15:50:01,Not Started,232,981
+937,Traffic Light,generate clicks-and-mortar niches,2020-12-03 04:37:39,Completed,482,301
+938,Road Construction,visualize 24/365 architectures,2003-01-13 20:06:53,Completed,572,776
+939,Electricity,incentivize bleeding-edge web services,2001-11-22 08:47:57,Completed,598,670
+940,Sewer,embrace ubiquitous interfaces,2014-11-14 07:10:10,Completed,764,567
+941,Powerline,aggregate vertical platforms,2015-05-18 00:19:52,In Progress,350,912
+942,Pipeline,whiteboard open-source content,2003-01-07 20:32:49,In Progress,278,797
+943,Electricity,integrate integrated portals,2013-02-20 06:59:31,Completed,525,243
+944,Pipeline,orchestrate best-of-breed platforms,2002-12-16 15:54:02,In Progress,492,399
+945,Pipeline,innovate transparent communities,2000-09-10 06:10:28,Completed,817,531
+946,Electricity,syndicate robust channels,2013-04-30 22:05:19,In Progress,977,402
+947,Traffic Light,reinvent cross-media infomediaries,1998-08-20 11:39:45,Completed,164,378
+948,Traffic Light,repurpose open-source technologies,2003-08-02 18:53:47,In Progress,526,518
+949,Powerline,deliver turn-key e-services,2010-06-02 07:49:04,In Progress,531,965
+950,Electricity,evolve web-enabled niches,2018-12-07 03:05:25,Completed,308,342
+951,Electricity,syndicate wireless vortals,2013-09-18 00:26:10,Completed,686,618
+952,Sewer,matrix dot-com e-business,2008-09-25 12:53:43,Completed,698,412
+953,Electricity,incubate real-time niches,2017-09-10 12:00:59,Completed,242,299
+954,Powerline,cultivate best-of-breed interfaces,2007-09-16 04:58:04,Completed,858,189
+955,Road Construction,orchestrate seamless e-business,2014-11-23 04:38:49,Completed,119,564
+956,Powerline,productize 24/365 e-markets,1997-11-11 14:49:37,In Progress,450,903
+957,Road Construction,cultivate synergistic e-business,2023-08-22 09:42:31,Completed,637,937
+958,Electricity,visualize viral bandwidth,2001-06-04 04:04:19,Not Started,589,577
+959,Sewer,productize cross-media web services,2023-01-30 03:16:31,Completed,779,84
+960,Sewer,cultivate real-time users,2024-03-07 11:28:17,In Progress,843,415
+961,Pipeline,deploy strategic networks,2016-09-12 09:35:25,In Progress,624,460
+962,Powerline,seize granular synergies,2006-03-05 05:18:36,Not Started,610,607
+963,Road Construction,benchmark visionary e-tailers,2020-02-15 07:44:58,Not Started,392,541
+964,Pipeline,extend revolutionary users,1999-03-28 19:39:19,Not Started,762,801
+965,Pipeline,leverage enterprise channels,2005-01-19 00:39:45,Completed,613,623
+966,Traffic Light,empower ubiquitous experiences,2005-11-22 07:24:35,Not Started,458,137
+967,Powerline,integrate compelling systems,2009-08-18 10:06:57,In Progress,974,416
+968,Road Construction,optimize end-to-end users,2021-05-16 02:04:45,Not Started,319,369
+969,Road Construction,strategize scalable deliverables,2004-12-16 00:20:27,In Progress,441,943
+970,Pipeline,deploy 24/365 metrics,1997-11-13 15:43:07,Not Started,564,524
+971,Sewer,expedite plug-and-play solutions,2015-05-18 06:43:34,In Progress,458,942
+972,Electricity,implement one-to-one bandwidth,2004-05-15 13:10:55,Not Started,550,399
+973,Powerline,mesh sexy mindshare,2000-11-27 11:06:49,Not Started,882,363
+974,Traffic Light,grow front-end portals,2013-01-02 02:24:30,In Progress,17,360
+975,Traffic Light,drive dynamic functionalities,2015-05-27 22:03:05,In Progress,916,246
+976,Traffic Light,reinvent user-centric paradigms,2001-03-07 14:00:23,Completed,926,905
+977,Sewer,expedite value-added action-items,2009-01-24 15:21:45,Completed,591,300
+978,Powerline,benchmark compelling communities,2018-12-25 17:03:17,In Progress,208,403
+979,Powerline,innovate out-of-the-box content,2013-12-14 03:02:57,Completed,799,372
+980,Traffic Light,extend viral users,2019-01-15 00:47:46,Completed,745,841
+981,Sewer,iterate B2C mindshare,2004-04-14 13:00:06,Completed,583,185
+982,Powerline,cultivate leading-edge content,2014-09-19 18:32:19,In Progress,741,206
+983,Powerline,redefine value-added technologies,2002-10-01 01:30:49,Completed,140,811
+984,Road Construction,target plug-and-play technologies,2011-08-26 06:34:53,Completed,930,269
+985,Electricity,architect real-time functionalities,2019-06-23 12:49:47,Not Started,611,171
+986,Electricity,expedite virtual experiences,2000-12-09 13:00:01,In Progress,273,500
+987,Road Construction,benchmark world-class experiences,2024-04-09 13:09:13,Completed,504,90
+988,Pipeline,unleash rich e-commerce,2021-06-19 21:14:10,Not Started,437,459
+989,Road Construction,leverage intuitive mindshare,2003-04-13 09:08:20,In Progress,793,842
+990,Traffic Light,evolve viral relationships,2019-12-06 02:12:52,Completed,242,514
+991,Electricity,deliver turn-key e-business,2001-06-18 14:08:38,In Progress,23,736
+992,Road Construction,orchestrate customized e-commerce,2022-03-14 21:43:26,Not Started,588,484
+993,Powerline,reintermediate extensible methodologies,2009-12-04 04:26:40,Not Started,385,550
+994,Electricity,matrix next-generation vortals,2001-05-08 02:02:04,Not Started,599,398
+995,Sewer,facilitate revolutionary supply-chains,2005-01-03 03:18:16,Completed,551,675
+996,Pipeline,enhance mission-critical e-commerce,2018-06-20 23:45:52,In Progress,601,692
+997,Traffic Light,whiteboard out-of-the-box eyeballs,2015-05-02 10:44:55,Completed,143,421
+998,Traffic Light,expedite bleeding-edge systems,2000-09-09 08:36:56,Completed,903,2
+999,Sewer,aggregate one-to-one architectures,2020-01-14 11:06:55,Not Started,90,505
+1000,Electricity,incentivize distributed e-services,2019-01-14 08:53:54,In Progress,925,944
