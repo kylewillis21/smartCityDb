@@ -1,0 +1,1001 @@
+ID,Type,Status,LastMaintenance,LocationID
+1,Pipeline,Good,2021-09-15 10:23:23,911
+2,Pipeline,Good,2017-07-31 06:57:46,731
+3,Road Construction,Good,2021-08-01 09:39:02,122
+4,Pipeline,Good,2018-04-04 21:06:15,451
+5,Sewer,Good,2007-01-22 06:28:04,566
+6,Powerline,Good,2010-03-04 21:48:29,265
+7,Road Construction,Good,2008-05-30 07:27:32,431
+8,Electricity,Good,2016-01-26 13:25:10,966
+9,Pipeline,Good,2003-09-22 09:59:42,944
+10,Pipeline,Good,2013-11-20 04:29:56,722
+11,Sewer,Good,2006-08-07 22:54:47,26
+12,Electricity,Good,2016-07-22 01:58:16,617
+13,Sewer,Good,2008-08-29 19:40:08,235
+14,Pipeline,Good,2012-04-25 01:00:49,133
+15,Road Construction,Good,2007-03-09 03:07:22,706
+16,Pipeline,Good,2014-07-23 13:27:24,995
+17,Road Construction,Good,2001-11-01 00:44:53,116
+18,Powerline,Good,,776
+19,Road Construction,Good,2008-08-27 10:46:12,709
+20,Powerline,Good,2018-05-04 01:49:13,96
+21,Electricity,Good,1999-02-10 08:43:34,245
+22,Electricity,Good,2007-06-25 20:57:45,821
+23,Electricity,Good,2023-11-02 10:12:33,754
+24,Sewer,Good,,584
+25,Pipeline,Good,2009-11-23 22:28:09,411
+26,Sewer,Good,2008-07-18 19:19:14,619
+27,Powerline,Good,2002-05-31 11:30:43,186
+28,Road Construction,Good,2008-11-28 22:56:21,827
+29,Sewer,Good,,677
+30,Electricity,Good,2021-03-25 23:27:44,674
+31,Road Construction,Good,2004-11-10 04:17:47,341
+32,Sewer,Good,2015-09-14 02:26:01,260
+33,Powerline,Good,2018-08-15 09:07:29,362
+34,Road Construction,Good,2005-09-18 14:30:21,773
+35,Electricity,Good,2002-07-06 08:18:18,174
+36,Powerline,Good,2012-01-06 19:53:30,881
+37,Electricity,Good,2010-10-26 14:31:51,945
+38,Powerline,Good,2011-03-12 18:15:57,295
+39,Electricity,Good,2002-02-01 09:58:21,639
+40,Sewer,Good,2001-03-15 14:32:47,920
+41,Electricity,Good,2024-05-27 07:06:15,342
+42,Pipeline,Good,1999-01-28 10:02:53,54
+43,Powerline,Good,1998-06-21 17:14:24,170
+44,Pipeline,Good,2001-01-20 06:58:32,269
+45,Electricity,Good,2004-08-26 16:55:51,57
+46,Electricity,Good,2018-06-01 03:03:06,
+47,Electricity,Good,2023-06-24 14:47:58,298
+48,Road Construction,Broken,2010-07-19 14:02:02,921
+49,Pipeline,Good,2005-12-06 23:52:30,285
+50,Powerline,Good,2021-05-07 10:31:44,646
+51,Road Construction,Good,2018-01-25 10:39:59,19
+52,Pipeline,Good,2005-02-11 00:44:07,845
+53,Electricity,Good,2014-05-08 20:01:22,996
+54,Sewer,Good,2019-09-05 05:56:21,401
+55,Road Construction,Good,2006-05-07 03:24:46,549
+56,Pipeline,Good,1998-08-22 01:08:12,212
+57,Electricity,Good,2022-08-05 12:39:03,469
+58,Electricity,Good,2008-12-02 12:01:29,623
+59,Powerline,Good,2000-11-11 11:35:57,72
+60,Electricity,Good,2003-10-13 20:41:55,416
+61,Powerline,Good,2005-10-25 15:51:58,384
+62,Powerline,Good,2022-11-25 12:30:05,931
+63,Road Construction,Good,2011-10-26 21:35:34,527
+64,Sewer,Good,2007-02-09 21:31:06,728
+65,Electricity,Good,2004-03-21 08:20:56,874
+66,Powerline,Good,2018-05-07 23:19:35,560
+67,Road Construction,Good,2014-04-18 22:20:08,681
+68,Road Construction,Good,2017-04-24 07:12:25,494
+69,Sewer,Good,2015-04-01 21:51:49,219
+70,Sewer,Needs Maintenance,2015-10-26 17:55:04,275
+71,Powerline,Good,1999-08-05 12:15:37,918
+72,Electricity,Good,2000-02-17 23:29:42,168
+73,Road Construction,Good,2024-06-12 16:04:46,88
+74,Sewer,Needs Maintenance,2020-09-06 20:01:56,53
+75,Sewer,Good,2009-10-24 12:29:02,757
+76,Electricity,Needs Maintenance,2005-03-14 17:28:05,804
+77,Road Construction,Good,2004-11-22 01:53:36,928
+78,Powerline,Good,2012-10-23 08:34:54,546
+79,Electricity,Good,1997-09-01 20:46:49,574
+80,Electricity,Good,2002-09-12 08:09:59,326
+81,Powerline,Good,1999-06-15 10:25:55,957
+82,Powerline,Good,2008-10-20 21:01:51,513
+83,Road Construction,Good,2013-07-07 04:02:10,218
+84,Sewer,Good,2010-05-02 02:02:26,836
+85,Pipeline,Good,2021-07-07 12:00:44,399
+86,Electricity,Good,1999-10-03 15:32:33,84
+87,Powerline,Good,2013-09-17 00:52:54,23
+88,Electricity,Good,2006-02-13 09:12:03,591
+89,Sewer,Good,2014-07-26 02:43:04,685
+90,Powerline,Good,2009-09-24 16:38:15,437
+91,Road Construction,Good,2004-10-15 22:02:41,72
+92,Powerline,Good,2015-07-03 17:17:29,845
+93,Sewer,Good,2000-07-17 11:22:30,704
+94,Powerline,Good,2020-04-04 02:42:45,136
+95,Electricity,Good,2024-06-25 05:04:49,92
+96,Powerline,Good,2019-06-17 00:08:10,783
+97,Sewer,Good,2010-11-17 12:25:13,20
+98,Pipeline,Good,2007-06-23 01:06:45,714
+99,Pipeline,Good,2006-09-17 02:32:58,567
+100,Road Construction,Good,2011-10-07 01:13:59,947
+101,Powerline,Good,2018-07-20 17:26:25,366
+102,Pipeline,Good,2022-01-20 20:30:09,796
+103,Sewer,Good,2013-06-23 19:09:06,67
+104,Sewer,Good,1998-11-20 00:23:36,599
+105,Sewer,Broken,2019-07-01 14:41:43,250
+106,Pipeline,Good,2005-09-24 15:24:46,
+107,Electricity,Good,2011-03-27 01:16:39,581
+108,Electricity,Good,2000-10-27 08:34:18,506
+109,Electricity,Good,2013-05-16 11:08:51,115
+110,Pipeline,Good,2000-06-13 22:42:55,798
+111,Powerline,Good,2007-06-03 10:48:13,55
+112,Sewer,Good,2022-06-23 06:21:19,166
+113,Powerline,Good,2017-12-09 23:49:21,665
+114,Sewer,Good,2001-12-03 06:56:59,849
+115,Electricity,Good,2004-08-21 19:25:59,567
+116,Electricity,Good,2019-03-05 12:10:09,691
+117,Powerline,Good,2015-08-17 01:03:12,920
+118,Road Construction,Good,2015-10-12 09:25:23,250
+119,Sewer,Good,2010-11-26 16:47:13,245
+120,Powerline,Good,2002-05-12 07:59:08,951
+121,Sewer,Good,2019-04-13 14:24:09,22
+122,Pipeline,Good,2009-07-01 18:53:14,363
+123,Pipeline,Good,2002-12-02 08:18:04,92
+124,Pipeline,Good,2009-10-12 21:55:27,787
+125,Electricity,Good,2013-05-12 21:22:03,37
+126,Sewer,Good,2015-06-07 08:56:26,733
+127,Electricity,Good,2013-12-15 04:14:34,283
+128,Electricity,Good,2016-03-20 23:58:58,688
+129,Pipeline,Good,2004-01-30 23:50:59,799
+130,Pipeline,Good,2013-09-06 23:10:34,840
+131,Pipeline,Good,2010-04-26 06:14:03,274
+132,Sewer,Good,2019-09-19 08:26:38,183
+133,Road Construction,Good,2023-09-14 18:45:19,969
+134,Electricity,Good,2020-05-02 01:17:51,425
+135,Electricity,Good,2003-11-26 10:38:55,282
+136,Pipeline,Good,2005-05-15 15:02:49,946
+137,Electricity,Good,2009-07-05 15:45:16,950
+138,Pipeline,Good,2010-08-11 17:25:56,138
+139,Pipeline,Broken,1998-05-03 14:19:32,242
+140,Sewer,Needs Maintenance,2022-03-06 16:17:15,
+141,Electricity,Good,2016-08-06 04:10:41,727
+142,Electricity,Good,2022-03-20 09:43:06,907
+143,Electricity,Good,2010-07-02 13:40:44,150
+144,Road Construction,Good,2001-10-27 16:42:20,959
+145,Electricity,Good,2020-04-20 11:17:47,486
+146,Sewer,Good,1997-11-30 03:14:38,767
+147,Electricity,Good,2009-08-16 21:20:36,337
+148,Electricity,Good,2021-04-28 14:51:31,546
+149,Powerline,Good,2003-06-18 23:26:27,974
+150,Pipeline,Broken,,541
+151,Road Construction,Good,2022-11-26 17:12:57,349
+152,Pipeline,Good,2013-09-02 02:00:37,669
+153,Electricity,Good,2021-08-27 22:40:49,758
+154,Powerline,Good,2016-07-28 08:50:06,638
+155,Electricity,Good,2023-06-18 09:57:20,
+156,Powerline,Good,2018-06-24 11:50:44,361
+157,Pipeline,Good,1999-03-28 16:22:29,415
+158,Pipeline,Needs Maintenance,2005-05-30 18:14:51,500
+159,Powerline,Good,2006-02-07 13:50:38,306
+160,Electricity,Good,2017-04-28 19:15:34,802
+161,Road Construction,Good,2023-01-19 20:07:52,338
+162,Road Construction,Good,2010-01-24 11:10:27,593
+163,Road Construction,Good,2006-08-30 23:18:32,557
+164,Sewer,Broken,2002-11-20 04:02:26,572
+165,Sewer,Good,2002-12-30 02:09:20,991
+166,Powerline,Good,1998-11-11 14:45:48,79
+167,Electricity,Good,2013-06-18 17:14:26,57
+168,Road Construction,Needs Maintenance,2008-05-21 19:53:40,331
+169,Electricity,Good,2005-01-09 01:55:54,294
+170,Road Construction,Good,2018-06-03 17:59:39,947
+171,Sewer,Good,1997-11-25 03:08:09,
+172,Powerline,Good,2009-05-08 17:32:39,989
+173,Road Construction,Good,2021-01-14 09:42:24,24
+174,Road Construction,Good,2004-04-03 03:03:43,927
+175,Road Construction,Needs Maintenance,2001-02-08 02:15:47,222
+176,Powerline,Good,2005-07-04 15:44:12,770
+177,Road Construction,Good,2010-07-23 09:50:23,596
+178,Sewer,Good,2011-05-07 03:52:46,95
+179,Pipeline,Good,2015-11-27 11:00:00,915
+180,Pipeline,Good,2001-07-01 23:10:10,315
+181,Powerline,Needs Maintenance,2007-08-16 15:18:48,350
+182,Electricity,Needs Maintenance,2009-01-31 20:24:55,7
+183,Road Construction,Good,2018-06-17 17:06:16,88
+184,Powerline,Good,2023-09-09 07:27:27,169
+185,Pipeline,Good,2017-10-29 11:07:02,
+186,Electricity,Good,2001-08-10 19:21:04,144
+187,Sewer,Good,2017-08-27 00:48:39,447
+188,Road Construction,Good,2017-09-27 21:05:27,392
+189,Electricity,Good,2007-09-08 12:54:02,969
+190,Road Construction,Good,2004-03-18 20:55:22,715
+191,Electricity,Good,2004-07-03 01:44:09,623
+192,Sewer,Good,,299
+193,Electricity,Good,2000-07-15 19:53:46,525
+194,Powerline,Good,1999-12-19 14:55:24,576
+195,Sewer,Good,2005-11-30 19:04:03,718
+196,Road Construction,Good,2011-07-12 05:39:23,949
+197,Electricity,Good,2010-07-30 02:48:00,158
+198,Road Construction,Good,2014-10-03 04:04:25,236
+199,Road Construction,Good,1997-10-29 15:35:00,465
+200,Powerline,Good,2007-03-30 17:53:03,777
+201,Road Construction,Good,2016-08-26 16:47:52,927
+202,Sewer,Good,2013-01-16 04:06:42,741
+203,Powerline,Good,2006-09-08 14:58:52,528
+204,Electricity,Good,2024-06-01 14:02:13,211
+205,Road Construction,Good,2004-11-13 04:02:26,946
+206,Sewer,Good,2005-04-23 22:51:23,111
+207,Powerline,Good,2006-11-30 04:07:25,123
+208,Electricity,Good,2000-01-27 17:46:07,742
+209,Pipeline,Good,2008-08-01 10:45:57,669
+210,Electricity,Good,2008-01-26 15:31:00,141
+211,Powerline,Good,2009-09-13 17:44:32,769
+212,Sewer,Good,2005-05-30 01:40:54,706
+213,Electricity,Needs Maintenance,2016-09-03 20:46:23,368
+214,Sewer,Good,2009-07-02 17:59:32,679
+215,Pipeline,Good,2018-01-20 13:28:44,19
+216,Electricity,Good,2000-10-09 02:45:06,534
+217,Road Construction,Good,2009-01-23 12:42:01,235
+218,Powerline,Needs Maintenance,2019-09-17 06:20:07,411
+219,Sewer,Good,2011-11-08 06:35:10,756
+220,Sewer,Good,2007-07-27 05:39:35,208
+221,Pipeline,Needs Maintenance,2009-03-11 04:04:27,298
+222,Pipeline,Good,2018-10-18 11:34:48,906
+223,Electricity,Good,2022-08-20 06:27:17,431
+224,Electricity,Good,2009-12-14 04:52:12,493
+225,Sewer,Good,,187
+226,Road Construction,Good,2019-07-03 23:53:03,629
+227,Pipeline,Good,2021-01-24 12:17:40,200
+228,Powerline,Good,2015-07-04 15:28:33,885
+229,Powerline,Good,2012-10-23 06:45:19,717
+230,Road Construction,Good,2004-02-08 14:56:38,246
+231,Pipeline,Good,2004-01-07 11:08:22,178
+232,Powerline,Good,2008-05-04 19:19:10,571
+233,Pipeline,Good,2006-07-01 21:08:46,568
+234,Sewer,Good,1998-07-05 01:19:22,492
+235,Pipeline,Good,2016-07-09 01:22:16,482
+236,Powerline,Good,2020-04-21 17:48:49,680
+237,Powerline,Good,2003-05-10 14:21:41,403
+238,Pipeline,Good,2010-02-28 10:51:58,65
+239,Pipeline,Good,2023-01-22 11:45:52,181
+240,Electricity,Good,2006-12-03 02:14:07,811
+241,Sewer,Good,2012-08-01 00:37:45,892
+242,Electricity,Good,2002-08-15 18:08:24,600
+243,Road Construction,Good,2020-10-05 19:53:11,26
+244,Pipeline,Good,2009-11-23 00:47:59,697
+245,Powerline,Good,1999-01-11 06:37:05,388
+246,Sewer,Good,,51
+247,Road Construction,Needs Maintenance,2023-10-13 06:40:20,543
+248,Road Construction,Good,1999-04-18 19:09:45,284
+249,Sewer,Good,2006-08-28 14:06:00,617
+250,Road Construction,Good,2003-04-06 05:07:25,25
+251,Sewer,Good,1999-01-13 02:20:20,268
+252,Electricity,Needs Maintenance,2004-08-07 16:36:04,343
+253,Road Construction,Good,1999-05-04 18:17:43,736
+254,Electricity,Good,2022-05-29 21:11:38,91
+255,Electricity,Good,2013-08-17 08:10:30,802
+256,Road Construction,Broken,2022-04-29 18:15:39,520
+257,Sewer,Good,2013-10-15 15:00:57,171
+258,Road Construction,Needs Maintenance,2011-04-05 00:09:23,86
+259,Powerline,Needs Maintenance,2014-05-30 13:15:59,89
+260,Powerline,Needs Maintenance,2003-10-16 08:33:05,919
+261,Pipeline,Good,2015-09-02 22:35:53,82
+262,Road Construction,Good,2018-03-06 23:52:20,53
+263,Electricity,Good,1998-10-08 05:11:45,25
+264,Road Construction,Good,2011-03-05 11:39:28,980
+265,Pipeline,Good,2010-06-09 02:57:38,668
+266,Powerline,Broken,2022-09-14 20:26:56,407
+267,Road Construction,Good,2020-06-25 01:13:25,172
+268,Electricity,Needs Maintenance,1999-03-08 11:47:31,873
+269,Powerline,Good,2010-06-28 21:30:15,181
+270,Powerline,Good,1999-01-01 22:35:51,108
+271,Electricity,Good,2001-01-29 00:41:05,306
+272,Sewer,Good,2016-07-15 03:38:51,589
+273,Electricity,Good,2017-12-19 01:27:18,645
+274,Electricity,Good,2004-03-02 20:17:19,937
+275,Pipeline,Good,2003-04-17 12:41:22,837
+276,Sewer,Needs Maintenance,2011-10-21 06:56:44,255
+277,Electricity,Good,2021-02-24 23:17:51,834
+278,Sewer,Good,2002-11-04 01:10:52,508
+279,Powerline,Good,2010-01-07 02:20:55,639
+280,Electricity,Good,2016-07-12 09:24:15,202
+281,Powerline,Good,2018-06-16 06:02:30,980
+282,Powerline,Good,2017-12-08 21:51:26,373
+283,Pipeline,Good,2024-05-29 22:43:12,48
+284,Pipeline,Good,2003-02-23 22:02:34,59
+285,Sewer,Good,2018-02-22 11:25:37,351
+286,Pipeline,Good,1997-09-01 16:31:48,89
+287,Electricity,Good,2022-05-21 18:14:53,282
+288,Pipeline,Needs Maintenance,2001-09-02 16:04:28,751
+289,Road Construction,Good,2023-12-30 06:20:05,998
+290,Sewer,Good,2001-12-16 04:20:28,182
+291,Road Construction,Good,2014-11-30 13:55:38,532
+292,Powerline,Good,2018-05-24 15:18:00,754
+293,Pipeline,Good,2005-11-26 19:11:14,330
+294,Sewer,Good,2017-01-21 20:16:52,597
+295,Pipeline,Good,2006-12-19 23:35:30,799
+296,Sewer,Good,2023-12-17 18:10:37,658
+297,Powerline,Good,2002-10-05 16:23:40,757
+298,Sewer,Good,2021-07-18 15:46:01,373
+299,Powerline,Broken,2005-10-08 20:43:37,652
+300,Road Construction,Good,2014-05-31 11:08:49,90
+301,Pipeline,Good,2020-03-19 01:33:31,241
+302,Pipeline,Good,2009-06-17 15:54:11,590
+303,Electricity,Good,2020-03-04 11:41:58,863
+304,Powerline,Good,1999-10-18 15:42:21,259
+305,Electricity,Good,2009-05-24 15:30:18,849
+306,Pipeline,Good,2017-10-28 03:56:33,958
+307,Pipeline,Good,2016-07-14 21:24:23,11
+308,Road Construction,Good,2008-03-04 10:02:55,265
+309,Pipeline,Good,2010-11-04 07:03:51,202
+310,Sewer,Good,1997-10-18 09:06:25,147
+311,Powerline,Good,2015-10-08 22:36:03,628
+312,Sewer,Good,2004-08-13 04:32:35,523
+313,Powerline,Good,2018-06-04 13:37:43,166
+314,Road Construction,Good,2002-09-26 10:26:44,572
+315,Sewer,Good,2001-10-22 04:19:05,484
+316,Sewer,Good,2003-09-24 23:40:05,691
+317,Pipeline,Good,2006-04-08 21:31:23,595
+318,Powerline,Needs Maintenance,2018-01-04 10:56:19,614
+319,Pipeline,Good,2009-07-07 23:46:05,523
+320,Sewer,Good,1998-07-03 18:15:21,249
+321,Electricity,Good,2007-04-16 15:02:22,688
+322,Electricity,Good,1998-06-02 05:28:34,397
+323,Pipeline,Good,2003-04-12 04:28:29,179
+324,Road Construction,Good,2009-09-19 16:30:47,71
+325,Road Construction,Good,2008-09-23 02:17:11,440
+326,Electricity,Needs Maintenance,2007-03-08 00:41:43,904
+327,Road Construction,Good,2010-03-26 18:19:11,514
+328,Sewer,Good,2005-10-08 21:49:35,145
+329,Sewer,Good,2021-06-17 02:11:17,673
+330,Pipeline,Good,2012-01-30 06:51:22,197
+331,Sewer,Good,,849
+332,Electricity,Good,2021-10-10 04:15:24,810
+333,Sewer,Good,2012-11-26 16:41:18,669
+334,Sewer,Good,2008-06-10 12:09:12,615
+335,Sewer,Good,2004-05-14 10:15:23,623
+336,Powerline,Good,2002-05-30 08:34:26,333
+337,Electricity,Good,2020-03-16 00:58:48,800
+338,Powerline,Good,2014-03-19 23:26:04,947
+339,Sewer,Good,2008-12-10 23:57:05,566
+340,Pipeline,Good,2022-09-08 21:18:39,145
+341,Pipeline,Good,1999-09-19 02:24:38,794
+342,Sewer,Needs Maintenance,2013-12-25 15:11:11,178
+343,Road Construction,Good,2007-05-21 01:54:24,323
+344,Powerline,Good,2008-10-08 12:24:13,312
+345,Pipeline,Good,2018-10-15 08:22:57,522
+346,Road Construction,Good,2018-12-22 10:38:20,267
+347,Electricity,Good,2005-04-11 02:24:11,981
+348,Electricity,Good,2008-01-31 18:00:43,847
+349,Electricity,Good,2001-04-24 14:24:47,76
+350,Pipeline,Good,2021-01-31 08:19:44,322
+351,Powerline,Good,2002-10-26 13:11:08,432
+352,Electricity,Good,2019-11-08 04:11:40,690
+353,Electricity,Needs Maintenance,2017-02-18 21:56:27,304
+354,Road Construction,Good,1998-10-26 16:52:22,573
+355,Sewer,Needs Maintenance,2015-08-26 21:56:23,116
+356,Pipeline,Good,2020-07-24 10:00:57,567
+357,Sewer,Good,2024-06-14 12:36:06,1
+358,Electricity,Good,2003-12-15 00:51:40,538
+359,Electricity,Good,2003-12-05 21:37:10,569
+360,Pipeline,Good,2003-09-01 20:02:27,456
+361,Road Construction,Good,2020-05-29 04:36:56,281
+362,Sewer,Good,1999-09-15 23:43:51,753
+363,Powerline,Good,2021-01-29 08:56:32,317
+364,Powerline,Good,2019-01-07 02:02:09,827
+365,Road Construction,Good,2007-09-11 07:20:08,535
+366,Sewer,Good,1999-01-05 00:15:53,823
+367,Electricity,Good,2015-01-10 13:56:59,582
+368,Electricity,Good,2012-10-04 02:30:11,664
+369,Powerline,Good,2021-10-15 20:22:35,859
+370,Road Construction,Good,2005-08-25 07:17:45,49
+371,Road Construction,Needs Maintenance,2004-10-25 05:22:47,529
+372,Sewer,Good,2011-10-20 20:13:53,798
+373,Powerline,Good,2009-10-09 01:29:35,922
+374,Road Construction,Good,2011-09-04 20:09:10,709
+375,Pipeline,Good,1997-07-24 19:26:37,320
+376,Pipeline,Good,2024-03-05 09:00:08,333
+377,Road Construction,Good,2020-12-04 12:26:31,22
+378,Pipeline,Good,2012-11-21 12:43:04,373
+379,Sewer,Good,1998-05-06 08:45:50,235
+380,Powerline,Good,2010-02-20 18:53:29,863
+381,Road Construction,Good,2020-09-04 03:08:40,601
+382,Electricity,Needs Maintenance,2020-08-08 09:41:14,435
+383,Powerline,Needs Maintenance,2000-09-10 04:44:36,445
+384,Pipeline,Good,2002-08-28 14:08:36,942
+385,Electricity,Good,2006-06-12 04:31:09,1000
+386,Powerline,Good,,996
+387,Powerline,Good,2022-11-23 01:14:44,973
+388,Pipeline,Good,2007-08-16 19:39:02,264
+389,Electricity,Good,2013-03-24 15:33:49,179
+390,Powerline,Good,,129
+391,Pipeline,Good,2003-06-18 21:06:17,546
+392,Powerline,Good,2020-08-23 07:30:40,878
+393,Pipeline,Good,2014-11-27 02:03:52,171
+394,Electricity,Good,2022-12-07 01:48:19,569
+395,Electricity,Good,2012-04-02 15:21:08,492
+396,Sewer,Good,2011-01-22 01:17:40,575
+397,Powerline,Good,2023-11-30 15:33:48,456
+398,Sewer,Good,2005-11-25 20:10:36,897
+399,Powerline,Good,2002-10-04 09:26:16,542
+400,Road Construction,Good,2009-11-11 05:01:02,344
+401,Pipeline,Good,2018-07-21 13:38:00,41
+402,Powerline,Good,2014-08-04 21:53:33,12
+403,Powerline,Good,2005-07-04 18:59:36,990
+404,Electricity,Good,2011-04-30 07:57:50,427
+405,Sewer,Good,2021-08-25 08:18:35,692
+406,Pipeline,Good,2017-02-17 20:38:17,124
+407,Powerline,Good,2016-02-04 14:22:30,504
+408,Pipeline,Good,2002-05-09 22:46:30,142
+409,Road Construction,Good,2001-09-02 16:42:19,484
+410,Pipeline,Good,2013-09-20 01:05:47,933
+411,Road Construction,Good,2009-04-24 00:53:30,429
+412,Road Construction,Good,1997-09-08 17:42:28,945
+413,Sewer,Good,2008-04-04 02:37:26,
+414,Pipeline,Good,2016-09-27 05:48:13,593
+415,Road Construction,Good,2018-04-26 15:14:14,554
+416,Electricity,Good,2011-01-16 22:23:47,287
+417,Road Construction,Good,2016-06-28 00:30:02,583
+418,Electricity,Good,2024-06-24 08:38:31,732
+419,Powerline,Good,2016-10-05 15:41:24,785
+420,Powerline,Good,2000-12-03 10:58:15,679
+421,Electricity,Good,2007-03-25 23:18:22,192
+422,Pipeline,Good,2010-02-24 22:07:42,23
+423,Sewer,Good,2000-08-28 10:38:42,946
+424,Pipeline,Good,2021-02-15 18:02:19,531
+425,Road Construction,Good,2023-10-12 22:46:23,713
+426,Electricity,Good,2016-01-05 06:00:26,454
+427,Road Construction,Good,2023-12-03 13:52:31,246
+428,Powerline,Good,2001-09-09 04:24:18,191
+429,Electricity,Good,2015-04-17 09:13:21,204
+430,Pipeline,Good,2001-01-08 23:17:10,221
+431,Electricity,Good,2005-04-23 04:11:27,683
+432,Road Construction,Good,2001-02-14 16:05:34,729
+433,Electricity,Needs Maintenance,2016-04-05 01:13:14,682
+434,Pipeline,Good,2018-06-04 02:21:26,599
+435,Powerline,Good,2013-03-07 17:47:52,440
+436,Pipeline,Good,2013-08-27 20:18:13,231
+437,Sewer,Good,2017-04-15 20:16:24,383
+438,Electricity,Good,2011-12-27 07:55:32,471
+439,Sewer,Good,2016-02-15 20:31:03,218
+440,Electricity,Good,2019-02-18 19:03:36,307
+441,Electricity,Good,2003-05-12 09:33:26,81
+442,Powerline,Good,2005-05-06 08:48:02,187
+443,Pipeline,Good,2011-01-03 23:07:06,860
+444,Sewer,Good,2012-07-20 09:33:14,888
+445,Powerline,Good,2018-06-13 23:20:50,5
+446,Sewer,Good,2002-05-01 12:23:56,964
+447,Pipeline,Good,2019-03-02 10:09:51,192
+448,Sewer,Good,2003-07-08 12:30:59,668
+449,Pipeline,Good,2018-10-04 14:00:35,711
+450,Pipeline,Good,2020-04-16 12:33:30,510
+451,Powerline,Good,2021-09-07 07:44:53,321
+452,Electricity,Good,2000-08-02 22:48:07,145
+453,Road Construction,Good,2013-08-24 12:14:38,956
+454,Pipeline,Good,2006-07-02 04:21:11,724
+455,Sewer,Good,2004-01-25 05:48:17,508
+456,Road Construction,Good,2010-06-28 01:18:45,94
+457,Pipeline,Good,2006-08-24 02:36:50,245
+458,Powerline,Good,1997-12-22 10:17:32,315
+459,Powerline,Good,2015-09-23 03:14:36,386
+460,Powerline,Good,2004-06-05 12:30:23,251
+461,Sewer,Good,1998-11-04 20:43:52,996
+462,Electricity,Broken,1997-11-12 07:16:37,924
+463,Pipeline,Good,2008-09-26 20:04:02,889
+464,Road Construction,Good,1999-08-12 17:02:20,569
+465,Road Construction,Good,2008-10-07 23:52:51,733
+466,Electricity,Good,,704
+467,Electricity,Good,1999-02-03 22:39:38,314
+468,Electricity,Good,2020-05-03 00:45:39,470
+469,Sewer,Good,2021-08-27 07:25:23,824
+470,Electricity,Good,2018-01-13 22:59:04,513
+471,Pipeline,Needs Maintenance,2001-04-01 13:26:53,762
+472,Road Construction,Good,2008-05-08 05:23:57,864
+473,Road Construction,Good,2001-07-10 22:11:57,307
+474,Road Construction,Good,2017-07-22 20:11:23,979
+475,Sewer,Good,2007-02-26 02:22:48,625
+476,Pipeline,Good,2007-04-02 05:26:15,909
+477,Electricity,Good,2016-12-07 11:26:35,124
+478,Electricity,Good,2022-01-29 19:52:59,575
+479,Pipeline,Good,2008-09-05 09:39:10,
+480,Pipeline,Good,2003-02-06 22:17:26,695
+481,Road Construction,Good,2018-06-04 10:52:40,505
+482,Pipeline,Good,2022-10-17 16:45:32,465
+483,Sewer,Good,2014-08-19 15:13:19,225
+484,Pipeline,Good,1998-07-25 17:36:24,
+485,Electricity,Good,2018-12-23 02:14:13,790
+486,Pipeline,Good,2020-04-23 15:41:34,344
+487,Pipeline,Good,2008-08-16 04:31:39,939
+488,Electricity,Good,2017-11-09 16:02:44,272
+489,Electricity,Good,2022-04-02 15:25:32,466
+490,Road Construction,Good,,665
+491,Road Construction,Good,,855
+492,Powerline,Good,2006-01-23 05:55:29,299
+493,Pipeline,Good,2017-12-25 08:26:39,26
+494,Sewer,Good,2000-04-12 23:45:53,938
+495,Road Construction,Good,2003-11-03 03:55:43,396
+496,Pipeline,Good,1998-10-28 12:50:12,125
+497,Powerline,Good,2012-06-28 00:36:39,
+498,Sewer,Good,2004-02-19 00:23:18,183
+499,Pipeline,Good,2013-11-30 17:28:06,44
+500,Pipeline,Needs Maintenance,1998-02-25 21:49:24,163
+501,Electricity,Needs Maintenance,2010-08-15 16:36:44,761
+502,Electricity,Good,2020-03-08 17:49:59,957
+503,Pipeline,Good,2013-11-17 03:37:15,532
+504,Electricity,Good,2015-11-24 03:13:21,107
+505,Road Construction,Good,,194
+506,Electricity,Good,2008-09-28 00:28:55,244
+507,Electricity,Good,2006-09-26 13:43:56,182
+508,Powerline,Good,2016-03-06 18:41:17,165
+509,Road Construction,Good,2020-12-31 01:05:23,568
+510,Electricity,Good,2017-11-11 00:41:03,835
+511,Pipeline,Good,2017-12-09 08:23:27,517
+512,Road Construction,Good,2023-03-23 03:25:41,928
+513,Pipeline,Good,2021-04-18 17:10:33,179
+514,Electricity,Good,,613
+515,Powerline,Needs Maintenance,2010-09-01 15:05:17,143
+516,Sewer,Good,2012-09-04 01:36:08,463
+517,Pipeline,Good,2014-04-15 06:53:18,267
+518,Sewer,Good,2018-01-06 17:30:24,912
+519,Powerline,Good,2005-01-13 16:59:57,261
+520,Electricity,Good,2020-09-02 02:36:12,166
+521,Pipeline,Good,2006-01-02 23:50:15,607
+522,Electricity,Needs Maintenance,2005-07-01 14:31:18,398
+523,Pipeline,Good,2010-12-07 17:11:38,62
+524,Electricity,Good,2004-11-02 05:49:43,909
+525,Sewer,Good,2021-08-06 08:46:52,808
+526,Road Construction,Good,1999-06-02 00:07:59,151
+527,Road Construction,Needs Maintenance,2003-04-10 20:33:27,111
+528,Sewer,Good,2009-03-05 15:49:56,49
+529,Road Construction,Good,2021-05-10 03:41:45,184
+530,Road Construction,Good,2017-02-11 21:24:23,629
+531,Road Construction,Good,2001-04-22 03:31:29,178
+532,Pipeline,Needs Maintenance,2006-11-02 09:30:08,755
+533,Sewer,Good,2004-10-28 14:11:34,833
+534,Powerline,Good,2020-03-09 06:44:32,985
+535,Electricity,Good,2006-04-20 22:05:39,24
+536,Road Construction,Good,2020-12-01 18:21:46,412
+537,Electricity,Good,2000-11-14 12:41:48,899
+538,Electricity,Needs Maintenance,2011-12-07 08:06:21,174
+539,Sewer,Good,2009-04-28 14:53:32,667
+540,Electricity,Good,2016-04-13 00:25:55,981
+541,Powerline,Good,2007-06-13 16:00:29,955
+542,Electricity,Good,1999-05-08 06:29:07,357
+543,Pipeline,Good,2004-10-12 10:58:21,693
+544,Powerline,Good,2020-01-28 15:02:22,357
+545,Sewer,Good,2010-11-25 15:27:29,508
+546,Electricity,Good,2005-11-04 22:24:28,190
+547,Sewer,Good,1998-08-25 03:17:58,591
+548,Pipeline,Good,2018-03-22 12:16:28,465
+549,Electricity,Good,2020-03-28 14:52:02,357
+550,Road Construction,Good,2011-04-24 06:05:46,828
+551,Powerline,Good,2011-05-10 00:06:05,979
+552,Sewer,Good,2002-08-06 03:51:42,588
+553,Sewer,Good,2008-12-20 11:39:21,891
+554,Sewer,Good,2012-10-15 20:29:25,248
+555,Electricity,Good,2000-06-26 14:13:29,95
+556,Pipeline,Needs Maintenance,2003-03-06 16:12:29,851
+557,Sewer,Good,2015-12-17 01:37:17,486
+558,Powerline,Good,2012-07-09 13:49:46,439
+559,Road Construction,Good,2013-07-31 09:52:53,784
+560,Sewer,Good,2018-03-15 05:22:04,590
+561,Road Construction,Good,1999-11-13 01:57:39,906
+562,Sewer,Good,2018-11-07 09:11:43,864
+563,Electricity,Good,2023-05-17 21:32:27,24
+564,Sewer,Good,2003-07-11 18:37:25,956
+565,Pipeline,Good,2019-01-26 20:57:41,678
+566,Electricity,Good,2021-03-10 17:49:59,311
+567,Pipeline,Good,2014-11-17 19:54:17,791
+568,Road Construction,Good,2023-04-11 23:35:55,419
+569,Sewer,Good,2022-03-06 08:51:00,187
+570,Powerline,Good,2008-01-30 03:15:12,789
+571,Road Construction,Good,2000-12-04 03:31:50,782
+572,Powerline,Needs Maintenance,2024-01-26 10:27:56,44
+573,Road Construction,Good,2023-07-29 04:36:17,908
+574,Road Construction,Needs Maintenance,2015-12-11 05:03:49,407
+575,Powerline,Good,2012-05-11 08:43:34,700
+576,Electricity,Good,2020-11-04 05:55:49,180
+577,Road Construction,Good,2019-04-16 04:35:22,16
+578,Electricity,Good,,167
+579,Sewer,Good,1998-03-18 08:24:07,431
+580,Sewer,Good,2023-08-12 13:51:59,967
+581,Road Construction,Good,2020-10-01 16:01:27,418
+582,Sewer,Good,2008-08-15 03:47:47,65
+583,Powerline,Good,2021-01-31 21:53:05,613
+584,Electricity,Good,2008-04-18 21:43:44,313
+585,Sewer,Good,,502
+586,Powerline,Good,2017-12-21 14:36:34,955
+587,Pipeline,Good,2011-06-25 04:17:30,861
+588,Sewer,Needs Maintenance,1997-11-02 19:27:44,330
+589,Sewer,Good,2018-07-10 03:20:53,968
+590,Sewer,Good,2004-05-03 12:41:03,498
+591,Powerline,Good,2016-02-12 05:22:06,732
+592,Road Construction,Good,2017-01-11 14:25:25,755
+593,Electricity,Needs Maintenance,2020-05-14 14:58:17,610
+594,Pipeline,Good,2007-09-07 21:43:55,249
+595,Pipeline,Good,2024-05-09 17:23:45,40
+596,Pipeline,Good,2006-04-28 16:06:22,53
+597,Pipeline,Good,,590
+598,Electricity,Good,2013-03-03 08:10:21,
+599,Pipeline,Good,2020-09-26 15:52:50,155
+600,Sewer,Good,2009-01-03 10:48:49,164
+601,Sewer,Good,2019-11-29 11:47:23,198
+602,Pipeline,Good,1997-08-28 04:30:42,55
+603,Electricity,Good,2011-08-28 15:10:54,934
+604,Powerline,Good,2013-07-25 09:46:47,331
+605,Sewer,Good,2023-03-24 14:46:14,99
+606,Road Construction,Good,2011-05-07 21:27:21,991
+607,Powerline,Good,2021-10-15 21:51:02,518
+608,Pipeline,Good,2021-10-24 09:01:37,92
+609,Pipeline,Good,2003-12-24 18:52:32,663
+610,Pipeline,Good,1998-03-30 03:25:39,327
+611,Sewer,Good,2009-11-04 15:16:39,511
+612,Powerline,Good,2021-12-23 00:32:25,415
+613,Electricity,Good,1998-12-25 13:35:44,714
+614,Electricity,Good,2019-10-31 20:27:35,392
+615,Road Construction,Good,2003-11-21 06:16:51,284
+616,Road Construction,Good,2018-01-15 19:40:16,856
+617,Sewer,Good,2012-03-02 03:40:54,648
+618,Powerline,Good,,45
+619,Pipeline,Good,2023-04-15 18:47:07,198
+620,Electricity,Good,1998-03-16 03:07:40,24
+621,Electricity,Good,2014-01-30 20:12:48,618
+622,Sewer,Good,2015-01-17 18:02:46,493
+623,Electricity,Good,2018-05-21 07:50:13,443
+624,Sewer,Good,2000-04-07 12:22:32,738
+625,Pipeline,Good,1998-02-09 11:41:23,489
+626,Sewer,Good,1999-01-26 18:42:15,919
+627,Powerline,Good,2000-11-30 09:28:14,113
+628,Sewer,Good,2014-07-23 21:40:29,60
+629,Electricity,Good,2013-12-23 19:08:35,858
+630,Sewer,Good,2013-06-30 04:57:56,262
+631,Sewer,Good,2008-09-11 20:30:32,665
+632,Powerline,Good,2016-05-27 12:01:24,324
+633,Pipeline,Good,2010-03-12 20:52:58,477
+634,Road Construction,Good,2004-06-23 09:28:09,871
+635,Pipeline,Needs Maintenance,2021-07-04 04:35:04,843
+636,Pipeline,Good,2018-12-07 03:37:11,172
+637,Road Construction,Good,2013-04-17 23:56:53,779
+638,Electricity,Good,2001-01-02 12:00:35,233
+639,Powerline,Good,2012-07-23 12:35:05,305
+640,Sewer,Good,2000-12-17 10:16:29,372
+641,Powerline,Good,2013-08-21 05:43:10,57
+642,Powerline,Good,2000-09-30 20:10:11,785
+643,Electricity,Good,2005-02-10 16:37:32,658
+644,Sewer,Good,2001-09-16 04:03:01,638
+645,Road Construction,Good,2018-09-19 06:32:22,686
+646,Sewer,Good,2002-02-23 05:44:34,846
+647,Powerline,Good,2007-04-11 07:43:36,577
+648,Powerline,Good,1999-07-04 07:05:06,574
+649,Road Construction,Good,2021-07-28 00:55:24,526
+650,Powerline,Good,2002-08-31 14:55:52,315
+651,Sewer,Good,2011-08-26 12:44:54,376
+652,Sewer,Good,2006-02-21 09:04:51,216
+653,Electricity,Good,2009-12-05 00:51:12,918
+654,Electricity,Good,2012-10-19 08:46:08,961
+655,Powerline,Good,2008-02-04 23:21:07,968
+656,Road Construction,Good,2005-02-18 04:41:21,108
+657,Powerline,Needs Maintenance,2010-01-03 22:53:47,110
+658,Powerline,Good,2017-06-05 19:26:31,799
+659,Sewer,Good,2014-09-06 12:12:09,954
+660,Road Construction,Good,2015-06-26 18:24:56,777
+661,Powerline,Good,2016-04-25 21:27:20,980
+662,Pipeline,Good,2011-08-04 22:08:30,552
+663,Sewer,Good,1999-03-29 23:48:27,204
+664,Sewer,Good,2002-09-13 23:03:01,666
+665,Pipeline,Good,1998-04-14 14:54:28,601
+666,Powerline,Good,2007-01-01 23:47:37,17
+667,Pipeline,Good,2015-07-04 00:50:41,334
+668,Powerline,Good,2012-02-21 23:03:05,484
+669,Sewer,Good,2013-03-05 06:14:49,278
+670,Pipeline,Good,2001-05-18 13:44:33,990
+671,Pipeline,Good,2001-04-29 08:15:21,128
+672,Sewer,Good,1998-04-17 12:00:01,420
+673,Sewer,Good,2001-06-19 15:05:18,
+674,Pipeline,Good,1998-12-27 13:56:29,71
+675,Pipeline,Good,2018-08-24 23:43:01,23
+676,Sewer,Good,2013-07-25 00:17:31,545
+677,Powerline,Good,2005-03-08 22:13:11,645
+678,Pipeline,Good,2005-07-11 16:13:27,780
+679,Powerline,Good,2009-08-26 12:59:12,19
+680,Sewer,Good,,443
+681,Electricity,Good,2018-03-01 14:30:29,921
+682,Sewer,Good,1997-09-11 05:20:58,361
+683,Road Construction,Good,2019-06-17 08:11:22,500
+684,Electricity,Good,2013-08-25 23:01:26,240
+685,Pipeline,Needs Maintenance,2008-01-21 23:20:34,141
+686,Pipeline,Good,,892
+687,Powerline,Good,2005-10-09 14:05:40,346
+688,Pipeline,Good,2004-02-01 19:33:44,860
+689,Road Construction,Good,2015-02-03 07:20:56,682
+690,Road Construction,Good,2018-04-08 19:19:45,996
+691,Electricity,Good,2007-09-03 09:09:18,281
+692,Powerline,Good,2004-12-21 18:51:02,911
+693,Road Construction,Good,2023-05-06 04:14:15,997
+694,Electricity,Good,2023-07-02 11:35:20,363
+695,Sewer,Good,2023-04-09 07:00:52,732
+696,Road Construction,Good,2009-07-15 07:51:26,923
+697,Road Construction,Good,2007-01-06 11:05:52,
+698,Electricity,Good,2005-05-08 06:36:27,947
+699,Pipeline,Good,2012-12-17 17:08:39,142
+700,Sewer,Good,2010-02-03 12:03:03,724
+701,Electricity,Good,2010-02-09 17:44:33,611
+702,Pipeline,Good,2005-10-12 03:27:48,521
+703,Electricity,Good,2010-01-31 08:03:31,236
+704,Pipeline,Good,2021-05-27 20:14:41,959
+705,Sewer,Good,2014-10-30 15:03:10,895
+706,Sewer,Good,2006-03-28 20:00:08,688
+707,Sewer,Good,2001-10-02 05:39:20,313
+708,Electricity,Good,2011-10-15 08:20:53,426
+709,Pipeline,Good,2017-01-11 05:26:01,451
+710,Powerline,Good,2013-04-16 10:43:18,77
+711,Road Construction,Good,2011-07-15 22:18:00,397
+712,Powerline,Good,2014-08-04 02:23:54,626
+713,Electricity,Good,2021-04-06 06:24:09,646
+714,Sewer,Good,2024-03-19 01:52:03,339
+715,Pipeline,Good,2019-05-28 21:23:43,743
+716,Powerline,Needs Maintenance,1998-08-03 15:25:06,311
+717,Road Construction,Good,2003-12-14 05:23:08,9
+718,Powerline,Good,2006-01-25 16:45:18,504
+719,Electricity,Good,2011-08-31 20:02:38,241
+720,Road Construction,Good,2006-02-16 13:59:52,329
+721,Electricity,Good,2015-10-03 12:40:16,217
+722,Road Construction,Good,2010-09-01 06:23:33,703
+723,Electricity,Good,2012-03-05 23:33:56,119
+724,Sewer,Good,2011-11-08 12:55:08,991
+725,Road Construction,Good,2016-11-07 09:39:37,910
+726,Pipeline,Good,1998-06-23 13:28:35,627
+727,Sewer,Good,2000-11-02 16:13:21,472
+728,Powerline,Good,2023-05-20 15:41:15,473
+729,Powerline,Good,2007-06-10 11:27:05,590
+730,Sewer,Good,2020-02-21 23:14:15,776
+731,Sewer,Good,2004-12-23 22:03:12,
+732,Sewer,Good,2017-10-31 21:56:58,852
+733,Road Construction,Good,2001-07-08 05:17:10,39
+734,Road Construction,Good,,550
+735,Pipeline,Good,2016-02-18 10:55:43,880
+736,Road Construction,Good,2001-02-06 21:57:07,558
+737,Pipeline,Good,2009-10-19 21:15:26,219
+738,Road Construction,Good,2020-09-20 23:33:32,226
+739,Road Construction,Good,1999-09-10 23:53:34,557
+740,Sewer,Good,1999-10-27 04:47:26,837
+741,Powerline,Good,2007-04-24 11:21:26,160
+742,Road Construction,Good,2015-11-16 03:09:11,448
+743,Pipeline,Needs Maintenance,2019-06-27 16:54:33,386
+744,Powerline,Good,2021-03-14 05:37:53,514
+745,Pipeline,Good,2008-01-17 12:28:46,292
+746,Sewer,Good,1999-10-13 10:25:53,447
+747,Powerline,Broken,2023-08-30 03:34:52,160
+748,Sewer,Good,2010-09-18 22:48:23,563
+749,Pipeline,Good,2011-11-25 17:31:53,6
+750,Road Construction,Good,2013-04-10 21:33:08,177
+751,Pipeline,Good,2003-02-20 11:48:51,120
+752,Electricity,Good,2024-03-07 22:26:52,225
+753,Sewer,Good,1998-07-11 23:20:13,899
+754,Powerline,Good,2007-03-04 16:21:32,984
+755,Powerline,Good,1998-12-19 00:37:43,583
+756,Electricity,Good,2015-01-03 18:15:26,890
+757,Road Construction,Good,2004-12-14 06:53:11,587
+758,Sewer,Good,2015-12-06 12:07:30,909
+759,Road Construction,Good,2008-06-28 23:33:58,797
+760,Sewer,Good,2023-10-21 21:20:19,361
+761,Pipeline,Good,2019-11-15 01:41:29,809
+762,Powerline,Good,2005-03-23 07:43:24,912
+763,Pipeline,Good,1997-12-28 11:45:31,210
+764,Sewer,Good,2021-12-01 19:44:09,108
+765,Road Construction,Good,2017-06-19 11:27:35,236
+766,Electricity,Needs Maintenance,2015-05-16 05:58:40,858
+767,Pipeline,Good,2020-05-08 08:43:51,
+768,Electricity,Good,2003-05-08 00:59:52,871
+769,Electricity,Good,2005-02-20 01:02:25,434
+770,Electricity,Good,2008-06-10 10:03:57,11
+771,Electricity,Good,2011-04-18 00:29:50,699
+772,Road Construction,Good,2016-06-28 00:56:53,730
+773,Sewer,Good,2008-12-23 02:10:07,267
+774,Powerline,Good,2020-03-29 09:43:27,756
+775,Electricity,Good,2017-01-13 10:22:34,855
+776,Powerline,Good,1999-11-23 10:52:17,248
+777,Road Construction,Good,2002-01-28 03:33:19,202
+778,Electricity,Good,2001-04-29 15:40:17,862
+779,Electricity,Good,2013-04-01 04:37:41,902
+780,Electricity,Needs Maintenance,2002-08-12 10:16:07,570
+781,Road Construction,Good,2022-05-12 07:13:05,682
+782,Electricity,Good,2011-06-23 16:17:54,946
+783,Electricity,Good,2016-01-03 10:18:10,502
+784,Powerline,Good,2011-04-15 16:05:38,259
+785,Pipeline,Good,2010-01-19 08:06:09,35
+786,Electricity,Good,2013-09-23 09:57:03,321
+787,Pipeline,Good,2003-02-24 10:28:47,459
+788,Road Construction,Good,2001-11-15 06:43:06,
+789,Electricity,Good,2017-10-08 18:51:15,
+790,Sewer,Good,1998-03-24 12:01:16,930
+791,Road Construction,Good,2009-01-23 00:20:37,497
+792,Powerline,Good,1998-07-01 14:58:02,540
+793,Electricity,Broken,2022-12-04 09:01:06,569
+794,Sewer,Good,,828
+795,Electricity,Good,2022-10-31 06:54:59,967
+796,Sewer,Good,2017-12-07 06:03:21,231
+797,Pipeline,Good,2019-10-06 18:18:03,964
+798,Sewer,Good,2004-10-12 07:47:46,924
+799,Powerline,Good,2022-07-17 08:07:23,466
+800,Electricity,Good,2000-07-27 01:45:44,216
+801,Electricity,Broken,2023-12-23 20:43:00,149
+802,Pipeline,Good,2017-04-14 22:20:21,299
+803,Road Construction,Good,2018-01-12 20:39:14,802
+804,Road Construction,Good,2002-11-02 23:48:56,493
+805,Sewer,Good,1999-10-06 11:52:49,59
+806,Powerline,Good,2018-06-25 02:08:47,423
+807,Sewer,Good,2023-09-24 13:47:43,59
+808,Powerline,Good,2003-05-06 00:24:27,583
+809,Pipeline,Needs Maintenance,1998-05-27 15:41:54,130
+810,Pipeline,Good,2006-12-01 22:39:58,600
+811,Sewer,Good,2011-11-05 01:43:37,493
+812,Powerline,Good,2005-12-31 00:36:43,585
+813,Electricity,Good,2021-06-03 20:53:34,120
+814,Electricity,Needs Maintenance,2009-10-16 12:17:37,592
+815,Road Construction,Good,2018-11-14 13:23:47,748
+816,Road Construction,Good,2011-10-20 19:59:45,966
+817,Sewer,Good,2024-02-06 17:22:24,612
+818,Powerline,Good,2024-02-18 14:10:18,860
+819,Powerline,Needs Maintenance,2009-08-20 21:10:57,109
+820,Road Construction,Good,2021-10-04 04:24:57,628
+821,Road Construction,Good,2003-01-31 15:50:23,745
+822,Powerline,Good,2008-11-11 17:57:58,762
+823,Electricity,Good,2019-09-13 01:05:40,391
+824,Road Construction,Good,2011-07-31 05:08:12,494
+825,Sewer,Good,2007-03-25 09:59:00,630
+826,Powerline,Good,2001-01-05 04:05:48,692
+827,Road Construction,Good,2015-03-08 09:27:19,300
+828,Road Construction,Good,2024-02-09 21:03:42,685
+829,Electricity,Good,2017-02-27 18:02:38,508
+830,Road Construction,Good,1999-01-28 10:22:13,640
+831,Electricity,Good,2003-04-23 07:10:56,777
+832,Sewer,Good,2003-07-25 13:07:21,320
+833,Pipeline,Good,1998-09-16 22:59:09,254
+834,Powerline,Good,2013-12-21 00:00:11,860
+835,Road Construction,Good,2007-04-03 15:51:03,861
+836,Electricity,Good,2024-06-05 03:50:39,465
+837,Powerline,Good,2011-06-19 22:51:43,797
+838,Electricity,Good,2010-10-25 14:02:48,855
+839,Pipeline,Good,2009-04-23 00:17:24,288
+840,Powerline,Good,2018-12-16 05:13:21,213
+841,Road Construction,Good,2023-10-26 10:02:38,522
+842,Powerline,Good,2019-05-20 13:14:26,59
+843,Road Construction,Good,2009-02-24 12:27:36,167
+844,Sewer,Good,2009-03-10 07:24:13,164
+845,Road Construction,Good,,764
+846,Electricity,Good,2015-06-15 17:49:22,
+847,Powerline,Good,2017-06-03 01:07:29,366
+848,Electricity,Good,2011-03-13 19:23:39,153
+849,Road Construction,Good,,700
+850,Road Construction,Good,1997-12-21 07:24:56,765
+851,Pipeline,Good,2019-05-07 20:21:33,24
+852,Powerline,Good,2017-05-07 14:57:22,984
+853,Electricity,Good,2022-11-24 23:33:05,706
+854,Powerline,Good,2020-01-01 10:18:57,450
+855,Powerline,Good,2012-01-07 22:25:11,383
+856,Powerline,Good,2021-10-02 07:02:56,435
+857,Electricity,Good,2012-08-16 10:03:59,701
+858,Electricity,Good,2020-03-21 08:05:53,251
+859,Pipeline,Good,2012-11-11 22:40:07,569
+860,Sewer,Good,2007-07-24 07:19:06,20
+861,Pipeline,Good,2010-10-06 11:10:08,838
+862,Road Construction,Good,1999-09-18 19:54:39,519
+863,Pipeline,Good,2001-04-25 17:43:46,369
+864,Powerline,Good,2018-03-11 05:30:51,899
+865,Powerline,Good,2010-08-29 20:03:26,674
+866,Powerline,Good,2012-04-09 21:41:43,271
+867,Electricity,Good,2019-01-09 16:27:11,606
+868,Pipeline,Good,2013-11-17 11:16:47,350
+869,Pipeline,Good,2000-09-29 16:43:55,957
+870,Pipeline,Good,1998-04-11 15:16:08,767
+871,Pipeline,Good,2023-11-04 08:58:38,255
+872,Powerline,Good,2002-09-20 12:51:26,492
+873,Pipeline,Good,2022-01-23 00:06:10,727
+874,Road Construction,Needs Maintenance,2011-11-28 20:52:43,916
+875,Electricity,Needs Maintenance,2015-07-17 22:03:20,183
+876,Powerline,Good,1999-08-12 07:56:31,736
+877,Electricity,Good,2018-04-01 11:54:11,338
+878,Road Construction,Good,2002-01-18 06:53:24,258
+879,Sewer,Good,2024-06-22 04:44:40,379
+880,Sewer,Good,2024-04-19 05:32:12,776
+881,Powerline,Good,2011-10-30 19:54:29,814
+882,Pipeline,Needs Maintenance,2010-04-02 20:20:16,693
+883,Sewer,Good,2013-01-01 02:51:23,270
+884,Electricity,Good,2006-01-22 11:07:53,851
+885,Powerline,Good,2018-06-18 21:29:23,770
+886,Electricity,Good,2002-12-12 06:41:24,748
+887,Road Construction,Good,1998-01-17 10:32:49,688
+888,Pipeline,Good,2001-05-20 12:30:47,188
+889,Road Construction,Good,2002-05-04 08:17:17,837
+890,Electricity,Good,2003-03-07 23:55:16,637
+891,Pipeline,Good,1998-10-03 07:57:12,434
+892,Powerline,Good,2015-08-31 08:54:11,444
+893,Pipeline,Good,2004-03-02 18:09:11,924
+894,Powerline,Good,2020-05-20 21:30:35,813
+895,Pipeline,Good,2018-08-01 06:09:25,920
+896,Powerline,Needs Maintenance,2008-03-22 05:38:57,303
+897,Pipeline,Good,2015-12-04 15:22:48,536
+898,Powerline,Good,2017-05-06 12:37:28,33
+899,Powerline,Good,2011-10-08 04:15:47,409
+900,Sewer,Good,2006-08-04 11:11:30,665
+901,Powerline,Good,2006-01-28 11:23:12,829
+902,Electricity,Good,2002-11-08 23:32:33,218
+903,Sewer,Good,1999-09-20 05:24:20,704
+904,Road Construction,Good,2005-08-27 09:47:04,20
+905,Sewer,Good,2005-12-27 01:00:00,124
+906,Pipeline,Good,1999-01-20 04:50:56,61
+907,Pipeline,Good,2016-07-22 20:59:43,458
+908,Sewer,Good,2004-04-28 05:58:16,401
+909,Electricity,Good,2022-02-12 07:51:08,399
+910,Road Construction,Good,2024-02-24 10:17:40,506
+911,Pipeline,Good,1998-02-12 12:59:11,
+912,Road Construction,Good,2020-02-23 09:44:01,79
+913,Pipeline,Good,2020-11-23 20:38:45,156
+914,Pipeline,Good,2010-07-21 13:39:32,698
+915,Pipeline,Good,2021-09-18 15:37:34,
+916,Sewer,Good,2014-01-09 08:05:31,665
+917,Road Construction,Good,2005-03-15 02:25:46,
+918,Electricity,Good,2015-04-30 16:08:43,32
+919,Road Construction,Good,2009-02-09 18:29:46,615
+920,Electricity,Good,2017-06-07 18:45:06,472
+921,Pipeline,Good,2016-05-23 19:33:41,
+922,Powerline,Good,2022-07-01 17:55:29,986
+923,Pipeline,Good,2001-03-27 16:37:27,574
+924,Road Construction,Good,2024-02-14 10:00:06,515
+925,Electricity,Good,2006-06-23 04:44:15,356
+926,Sewer,Good,2000-12-24 07:46:54,618
+927,Road Construction,Good,2003-03-09 00:07:33,928
+928,Powerline,Broken,2008-04-26 17:32:19,900
+929,Sewer,Good,2005-10-16 18:56:11,91
+930,Electricity,Good,2003-06-06 17:57:18,334
+931,Electricity,Good,2000-06-25 06:13:27,413
+932,Pipeline,Good,2018-08-31 07:46:09,331
+933,Sewer,Good,2008-11-24 20:52:53,756
+934,Road Construction,Good,2009-03-13 03:18:31,35
+935,Sewer,Good,2007-09-13 22:20:03,103
+936,Sewer,Good,2022-10-30 13:38:32,759
+937,Road Construction,Good,2000-03-29 23:49:35,553
+938,Powerline,Good,2007-10-27 00:15:42,384
+939,Road Construction,Good,2013-12-08 03:51:10,802
+940,Powerline,Good,2002-04-11 16:20:32,839
+941,Pipeline,Good,2009-08-22 23:44:59,903
+942,Electricity,Good,2007-07-13 06:26:23,624
+943,Electricity,Good,2015-05-24 23:06:02,683
+944,Pipeline,Good,2002-04-07 07:47:40,829
+945,Electricity,Good,1997-11-03 08:51:34,111
+946,Electricity,Good,2015-05-31 02:58:23,378
+947,Electricity,Good,2017-10-05 18:15:16,100
+948,Sewer,Good,2022-08-05 00:55:07,174
+949,Road Construction,Good,2007-02-07 13:50:23,134
+950,Road Construction,Good,2022-04-21 09:57:43,191
+951,Road Construction,Good,2014-12-27 04:06:36,355
+952,Road Construction,Good,2003-01-26 08:50:34,728
+953,Pipeline,Good,2017-06-05 05:13:39,101
+954,Road Construction,Needs Maintenance,2018-12-26 01:06:38,113
+955,Electricity,Good,2016-03-23 07:39:10,300
+956,Pipeline,Good,2024-04-24 17:04:49,526
+957,Electricity,Good,2017-11-03 20:11:11,547
+958,Electricity,Good,2006-09-22 13:16:54,402
+959,Pipeline,Good,1998-06-15 11:04:51,25
+960,Sewer,Good,2007-09-19 03:07:19,939
+961,Powerline,Good,2016-09-03 20:19:32,386
+962,Road Construction,Good,2009-12-19 15:31:57,768
+963,Electricity,Good,2003-01-31 14:05:34,646
+964,Road Construction,Good,2000-08-29 23:39:27,546
+965,Sewer,Good,1998-10-18 14:59:26,660
+966,Pipeline,Good,2005-02-23 10:02:54,332
+967,Road Construction,Good,2015-06-29 07:14:55,733
+968,Pipeline,Good,2003-06-28 11:02:34,896
+969,Pipeline,Good,2001-11-07 18:01:41,890
+970,Road Construction,Good,2012-03-29 21:47:40,459
+971,Sewer,Good,2012-07-18 03:14:22,70
+972,Road Construction,Broken,1998-10-09 00:16:39,396
+973,Sewer,Good,2007-09-25 02:55:40,179
+974,Pipeline,Good,2010-04-01 18:20:59,825
+975,Sewer,Good,2013-05-24 02:52:01,710
+976,Pipeline,Needs Maintenance,2012-01-30 11:11:10,915
+977,Pipeline,Good,2022-11-01 23:48:59,816
+978,Powerline,Good,2012-07-05 05:37:07,390
+979,Pipeline,Good,2013-04-18 05:58:04,261
+980,Sewer,Good,2002-05-14 00:13:09,567
+981,Sewer,Good,2024-05-03 18:01:56,746
+982,Road Construction,Good,2015-11-19 02:26:45,744
+983,Sewer,Good,2002-01-02 22:09:00,603
+984,Electricity,Good,,866
+985,Road Construction,Good,2017-10-04 20:10:13,642
+986,Pipeline,Good,2009-07-19 20:45:57,486
+987,Electricity,Good,1999-05-19 05:15:51,239
+988,Road Construction,Good,2017-08-23 23:37:05,41
+989,Powerline,Good,2015-07-23 09:53:12,856
+990,Powerline,Good,2020-11-12 00:55:58,966
+991,Sewer,Good,2004-03-18 20:11:53,825
+992,Powerline,Good,2023-07-19 00:00:32,107
+993,Road Construction,Good,2000-11-23 02:03:54,199
+994,Powerline,Good,2016-01-23 19:11:26,119
+995,Powerline,Good,2015-05-14 15:14:04,120
+996,Powerline,Good,2020-04-09 04:23:00,910
+997,Pipeline,Good,2000-10-03 14:21:25,528
+998,Electricity,Good,1997-12-20 09:44:49,892
+999,Pipeline,Good,2017-09-30 07:29:25,281
+1000,Sewer,Good,2001-12-18 16:18:56,366
