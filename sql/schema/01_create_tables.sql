@@ -21,11 +21,11 @@ CREATE TABLE Locations (
 -- Create Citizens table
 CREATE TABLE Citizens(
     ID INT PRIMARY KEY,
-    FirstName VARCHAR(255),
-    LastName VARCHAR(255),
     PhoneNumber VARCHAR(255),
     Email VARCHAR(255),
     LocationID INT,
+    FirstName VARCHAR(255),
+    LastName VARCHAR(255),
     FOREIGN KEY (LocationID) REFERENCES Locations(ID)
 );
 
@@ -63,9 +63,10 @@ CREATE TABLE Departments(
 -- Create Technicians table
 CREATE TABLE Technicians(
     ID INT PRIMARY KEY,
-    Name VARCHAR(255),
     Specialty VARCHAR(255),
     DepartmentID INT,
+    FirstName VARCHAR(255),
+    LastName VARCHAR(255),
     FOREIGN KEY (DepartmentID) REFERENCES Departments(ID)
 );
 
