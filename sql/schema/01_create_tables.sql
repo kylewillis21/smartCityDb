@@ -5,7 +5,7 @@ CREATE TABLE CityZones (
     ID INT PRIMARY KEY,
     Name VARCHAR(255) NOT NULL,
     Description VARCHAR(255) 
-)
+);
 
 -- Create Locations table
 CREATE TABLE Locations (
@@ -16,7 +16,7 @@ CREATE TABLE Locations (
     ZipCode VARCHAR(10),
     ZoneID INT,
     FOREIGN KEY (ZoneID) REFERENCES CityZones(ID)
-)
+);
 
 -- Create Citizens table
 CREATE TABLE Citizens(
@@ -26,7 +26,7 @@ CREATE TABLE Citizens(
     Email VARCHAR(255),
     LocationID INT,
     FOREIGN KEY (LocationID) REFERENCES Locations(ID)
-)
+);
 
 -- Create Reports table
 CREATE TABLE Reports(
@@ -39,7 +39,7 @@ CREATE TABLE Reports(
     CitizenID INT,
     FOREIGN KEY (LocationID) REFERENCES Locations(ID),
     FOREIGN KEY (CitizenID) REFERENCES Citizens(ID)
-)
+);
 
 -- Create Incidents table
 CREATE TABLE Incidents(
@@ -50,14 +50,14 @@ CREATE TABLE Incidents(
     Status VARCHAR(255),
     LocationID INT,
     FOREIGN KEY (LocationID) REFERENCES Locations(ID)
-)
+);
 
 -- Create Departments table
 CREATE TABLE Departments(
     ID INT PRIMARY KEY,
     Name VARCHAR(255),
     Description VARCHAR(255)
-)
+);
 
 -- Create Technicians table
 CREATE TABLE Technicians(
@@ -66,7 +66,7 @@ CREATE TABLE Technicians(
     Specialty VARCHAR(255),
     DepartmentID INT,
     FOREIGN KEY (DepartmentID) REFERENCES Departments(ID)
-)
+);
 
 -- Create Utilities table
 CREATE TABLE Utilities(
@@ -76,7 +76,7 @@ CREATE TABLE Utilities(
     LastMaintenance DATETIME,
     LocationID INT,
     FOREIGN KEY (LocationID) REFERENCES Locations(ID)
-)
+);
 
 -- Create traffic lights table
 CREATE TABLE TrafficLights(
@@ -85,7 +85,7 @@ CREATE TABLE TrafficLights(
     LastMaintenance DATETIME,
     LocationID INT,
     FOREIGN KEY (LocationID) REFERENCES Locations(ID)
-)
+);
 
 -- Create maintenance schedules table
 CREATE TABLE MaintenanceSchedules(
@@ -98,7 +98,7 @@ CREATE TABLE MaintenanceSchedules(
     FOREIGN KEY (UtilityID) REFERENCES Utilities(ID),
     FOREIGN KEY (TrafficLightID) REFERENCES TrafficLights(ID),
     FOREIGN KEY (TechnicianID) REFERENCES Technicians(ID)
-)
+);
 
 CREATE TABLE WorkOrders(
     ID INT PRIMARY KEY,
@@ -115,4 +115,4 @@ CREATE TABLE WorkOrders(
     FOREIGN KEY (UtilityID) REFERENCES Utilities(ID),
     FOREIGN KEY (TrafficLightID) REFERENCES TrafficLights(ID),
     FOREIGN KEY (AssignedTechnicianID) REFERENCES Technicians(ID)
-)
+);
