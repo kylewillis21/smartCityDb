@@ -21,7 +21,8 @@ CREATE TABLE Locations (
 -- Create Citizens table
 CREATE TABLE Citizens(
     ID INT PRIMARY KEY,
-    Name VARCHAR(255),
+    FirstName VARCHAR(255),
+    LastName VARCHAR(255),
     PhoneNumber VARCHAR(255),
     Email VARCHAR(255),
     LocationID INT,
